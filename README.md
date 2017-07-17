@@ -15,3 +15,9 @@ Blargbot | stupidcat | NaN | 04/12/2016 | Ran by blargbot and generated into a l
 4. ???  
 5. Profit
 
+# Requirements
+
+- Must be in `.json` format
+- Musnt be a full list of every server, only show botlists.
+- If doing so manually place information where you can in the table.
+- Make sure you edit the table before submitting PR.
