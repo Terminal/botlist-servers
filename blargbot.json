@@ -1,3272 +1,3260 @@
-{
-  "botdumps.csv" : {
-    "se" : {
-      "name" : "se",
-      "id" : "223648062696849408",
-      "totalCount" : 158,
-      "botCount" : 157,
-      "userCount" : 1,
-      "percentBots" : 99.3670886075949,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "robot hell" : {
-      "name" : "robot hell",
-      "id" : "246076211367772160",
-      "totalCount" : 99,
-      "botCount" : 98,
-      "userCount" : 1,
-      "percentBots" : 98.9898989898989,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Six Hours of Unrelated Memes" : {
-      "name" : "Six Hours of Unrelated Memes",
-      "id" : "251473672915648512",
-      "totalCount" : 96,
-      "botCount" : 95,
-      "userCount" : 1,
-      "percentBots" : 98.9583333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "KeeganCoBotTesting" : {
-      "name" : "KeeganCoBotTesting",
-      "id" : "245312912317480962",
-      "totalCount" : 75,
-      "botCount" : 74,
-      "userCount" : 1,
-      "percentBots" : 98.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Haven" : {
-      "name" : "Bot Haven",
-      "id" : "235718371499442176",
-      "totalCount" : 67,
-      "botCount" : 66,
-      "userCount" : 1,
-      "percentBots" : 98.5074626865671,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Seven & Nath's Bot Arcade" : {
-      "name" : "Seven & Nath's Bot Arcade",
-      "id" : "203311783362953216",
-      "totalCount" : 128,
-      "botCount" : 126,
-      "userCount" : 2,
-      "percentBots" : 98.4375,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "WorldWide Official Youtuber Server!" : {
-      "name" : "WorldWide Official Youtuber Server!",
-      "id" : "253379683859693568",
-      "totalCount" : 112,
-      "botCount" : 110,
-      "userCount" : 2,
-      "percentBots" : 98.2142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Wowie dms" : {
-      "name" : "Wowie dms",
-      "id" : "250965284079403009",
-      "totalCount" : 100,
-      "botCount" : 98,
-      "userCount" : 2,
-      "percentBots" : 98,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "HOLY SHIT" : {
-      "name" : "HOLY SHIT",
-      "id" : "243026339043606531",
-      "totalCount" : 99,
-      "botCount" : 97,
-      "userCount" : 2,
-      "percentBots" : 97.9797979797979,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Ratz" : {
-      "name" : "Ratz",
-      "id" : "229268118394896384",
-      "totalCount" : 49,
-      "botCount" : 48,
-      "userCount" : 1,
-      "percentBots" : 97.9591836734693,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bots Español" : {
-      "name" : "Bots Español",
-      "id" : "238387482402488320",
-      "totalCount" : 96,
-      "botCount" : 94,
-      "userCount" : 2,
-      "percentBots" : 97.9166666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "..." : {
-      "name" : "...",
-      "id" : "244886873233817602",
-      "totalCount" : 48,
-      "botCount" : 47,
-      "userCount" : 1,
-      "percentBots" : 97.9166666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BOTS" : {
-      "name" : "BOTS",
-      "id" : "219776999110082560",
-      "totalCount" : 92,
-      "botCount" : 90,
-      "userCount" : 2,
-      "percentBots" : 97.8260869565217,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot_Paradise™" : {
-      "name" : "Bot_Paradise™",
-      "id" : "177386884077453312",
-      "totalCount" : 270,
-      "botCount" : 264,
-      "userCount" : 6,
-      "percentBots" : 97.7777777777777,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Vija    yIsABitch" : {
-      "name" : "Vija    yIsABitch",
-      "id" : "229419221837152256",
-      "totalCount" : 45,
-      "botCount" : 44,
-      "userCount" : 1,
-      "percentBots" : 97.7777777777777,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Aethex Hub" : {
-      "name" : "Aethex Hub",
-      "id" : "229365768972795905",
-      "totalCount" : 89,
-      "botCount" : 87,
-      "userCount" : 2,
-      "percentBots" : 97.752808988764,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Ugly People" : {
-      "name" : "Ugly People",
-      "id" : "228302991495659530",
-      "totalCount" : 89,
-      "botCount" : 87,
-      "userCount" : 2,
-      "percentBots" : 97.752808988764,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BotServ" : {
-      "name" : "BotServ",
-      "id" : "247119199359598593",
-      "totalCount" : 88,
-      "botCount" : 86,
-      "userCount" : 2,
-      "percentBots" : 97.7272727272727,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "85 botuf ( ͡° ͜ʖ ͡°)" : {
-      "name" : "85 botuf ( ͡° ͜ʖ ͡°)",
-      "id" : "236638472956411904",
-      "totalCount" : 85,
-      "botCount" : 83,
-      "userCount" : 2,
-      "percentBots" : 97.6470588235294,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "azzam" : {
-      "name" : "azzam",
-      "id" : "196186408317091840",
-      "totalCount" : 169,
-      "botCount" : 165,
-      "userCount" : 4,
-      "percentBots" : 97.6331360946745,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot101" : {
-      "name" : "Bot101",
-      "id" : "249725255436861441",
-      "totalCount" : 168,
-      "botCount" : 164,
-      "userCount" : 4,
-      "percentBots" : 97.6190476190476,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Liver" : {
-      "name" : "Liver",
-      "id" : "245070094303100929",
-      "totalCount" : 41,
-      "botCount" : 40,
-      "userCount" : 1,
-      "percentBots" : 97.5609756097561,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ALL THE BOTS" : {
-      "name" : "ALL THE BOTS",
-      "id" : "225345125092425738",
-      "totalCount" : 81,
-      "botCount" : 79,
-      "userCount" : 2,
-      "percentBots" : 97.5308641975308,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "akace100" : {
-      "name" : "akace100",
-      "id" : "187006690439331840",
-      "totalCount" : 81,
-      "botCount" : 79,
-      "userCount" : 2,
-      "percentBots" : 97.5308641975308,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "💯💯" : {
-      "name" : "💯💯",
-      "id" : "221466967393959936",
-      "totalCount" : 80,
-      "botCount" : 78,
-      "userCount" : 2,
-      "percentBots" : 97.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Mika's Night Club 2.0" : {
-      "name" : "Mika's Night Club 2.0",
-      "id" : "236792189319905290",
-      "totalCount" : 40,
-      "botCount" : 39,
-      "userCount" : 1,
-      "percentBots" : 97.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "YT national" : {
-      "name" : "YT national",
-      "id" : "217086101167276043",
-      "totalCount" : 78,
-      "botCount" : 76,
-      "userCount" : 2,
-      "percentBots" : 97.4358974358974,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "dubstoned." : {
-      "name" : "dubstoned.",
-      "id" : "217401667279257601",
-      "totalCount" : 78,
-      "botCount" : 76,
-      "userCount" : 2,
-      "percentBots" : 97.4358974358974,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Discord Testing" : {
-      "name" : "Discord Testing",
-      "id" : "224600541584556033",
-      "totalCount" : 152,
-      "botCount" : 148,
-      "userCount" : 4,
-      "percentBots" : 97.3684210526315,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Cafe" : {
-      "name" : "Bot Cafe",
-      "id" : "214296335124267008",
-      "totalCount" : 37,
-      "botCount" : 36,
-      "userCount" : 1,
-      "percentBots" : 97.2972972972973,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Taco's Restaurant" : {
-      "name" : "Taco's Restaurant",
-      "id" : "224378497970339840",
-      "totalCount" : 37,
-      "botCount" : 36,
-      "userCount" : 1,
-      "percentBots" : 97.2972972972973,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testing Server" : {
-      "name" : "Bot Testing Server",
-      "id" : "235527041552875520",
-      "totalCount" : 73,
-      "botCount" : 71,
-      "userCount" : 2,
-      "percentBots" : 97.2602739726027,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "House Of Bots" : {
-      "name" : "House Of Bots",
-      "id" : "232987057130176512",
-      "totalCount" : 108,
-      "botCount" : 105,
-      "userCount" : 3,
-      "percentBots" : 97.2222222222222,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Idk" : {
-      "name" : "Idk",
-      "id" : "251486545641472001",
-      "totalCount" : 34,
-      "botCount" : 33,
-      "userCount" : 1,
-      "percentBots" : 97.0588235294117,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ພຮะຮๅມ" : {
-      "name" : "ພຮะຮๅມ",
-      "id" : "247293528286298113",
-      "totalCount" : 67,
-      "botCount" : 65,
-      "userCount" : 2,
-      "percentBots" : 97.0149253731343,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "lonely corner" : {
-      "name" : "lonely corner",
-      "id" : "243832493395017728",
-      "totalCount" : 99,
-      "botCount" : 96,
-      "userCount" : 3,
-      "percentBots" : 96.9696969696969,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot testing" : {
-      "name" : "bot testing",
-      "id" : "253031475815907329",
-      "totalCount" : 99,
-      "botCount" : 96,
-      "userCount" : 3,
-      "percentBots" : 96.9696969696969,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Server" : {
-      "name" : "Bot Server",
-      "id" : "239515791601565696",
-      "totalCount" : 98,
-      "botCount" : 95,
-      "userCount" : 3,
-      "percentBots" : 96.938775510204,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "SO OS LOCAO" : {
-      "name" : "SO OS LOCAO",
-      "id" : "241222572019023873",
-      "totalCount" : 31,
-      "botCount" : 30,
-      "userCount" : 1,
-      "percentBots" : 96.7741935483871,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bots" : {
-      "name" : "bots",
-      "id" : "240246273180041226",
-      "totalCount" : 122,
-      "botCount" : 118,
-      "userCount" : 4,
-      "percentBots" : 96.7213114754098,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lenny" : {
-      "name" : "Lenny",
-      "id" : "226845169213767680",
-      "totalCount" : 364,
-      "botCount" : 351,
-      "userCount" : 13,
-      "percentBots" : 96.4285714285714,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Fight" : {
-      "name" : "Bot Fight",
-      "id" : "245586550354608129",
-      "totalCount" : 112,
-      "botCount" : 108,
-      "userCount" : 4,
-      "percentBots" : 96.4285714285714,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Bots Server" : {
-      "name" : "The Bots Server",
-      "id" : "222578579521667072",
-      "totalCount" : 83,
-      "botCount" : 80,
-      "userCount" : 3,
-      "percentBots" : 96.3855421686747,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "[CS:GO]" : {
-      "name" : "[CS:GO]",
-      "id" : "237194377892593666",
-      "totalCount" : 27,
-      "botCount" : 26,
-      "userCount" : 1,
-      "percentBots" : 96.2962962962962,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Wind Games™  (Official)" : {
-      "name" : "Wind Games™  (Official)",
-      "id" : "249637368557076480",
-      "totalCount" : 54,
-      "botCount" : 52,
-      "userCount" : 2,
-      "percentBots" : 96.2962962962962,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Hi4BotSpam" : {
-      "name" : "Hi4BotSpam",
-      "id" : "217642397096607744",
-      "totalCount" : 80,
-      "botCount" : 77,
-      "userCount" : 3,
-      "percentBots" : 96.25,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "VCG Violent community gaming" : {
-      "name" : "VCG Violent community gaming",
-      "id" : "225701867089297408",
-      "totalCount" : 26,
-      "botCount" : 25,
-      "userCount" : 1,
-      "percentBots" : 96.1538461538461,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "anime" : {
-      "name" : "anime",
-      "id" : "162980042320773120",
-      "totalCount" : 26,
-      "botCount" : 25,
-      "userCount" : 1,
-      "percentBots" : 96.1538461538461,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Play Doblons.io Gaming" : {
-      "name" : "Play Doblons.io Gaming",
-      "id" : "249993990932398084",
-      "totalCount" : 26,
-      "botCount" : 25,
-      "userCount" : 1,
-      "percentBots" : 96.1538461538461,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Where The Bots Live" : {
-      "name" : "Where The Bots Live",
-      "id" : "239643230256365569",
-      "totalCount" : 25,
-      "botCount" : 24,
-      "userCount" : 1,
-      "percentBots" : 96,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Tuapuni" : {
-      "name" : "Tuapuni",
-      "id" : "176645703731249152",
-      "totalCount" : 49,
-      "botCount" : 47,
-      "userCount" : 2,
-      "percentBots" : 95.9183673469387,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Um" : {
-      "name" : "Um",
-      "id" : "221998987647909888",
-      "totalCount" : 97,
-      "botCount" : 93,
-      "userCount" : 4,
-      "percentBots" : 95.8762886597938,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Home" : {
-      "name" : "Home",
-      "id" : "133305945588629504",
-      "totalCount" : 91,
-      "botCount" : 87,
-      "userCount" : 4,
-      "percentBots" : 95.6043956043956,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot haven" : {
-      "name" : "bot haven",
-      "id" : "216886578423922688",
-      "totalCount" : 157,
-      "botCount" : 150,
-      "userCount" : 7,
-      "percentBots" : 95.5414012738853,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Private_Message DEAD Chat" : {
-      "name" : "Private_Message DEAD Chat",
-      "id" : "236589450077929482",
-      "totalCount" : 87,
-      "botCount" : 83,
-      "userCount" : 4,
-      "percentBots" : 95.4022988505747,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BOTS" : {
-      "name" : "BOTS",
-      "id" : "244525036508020737",
-      "totalCount" : 87,
-      "botCount" : 83,
-      "userCount" : 4,
-      "percentBots" : 95.4022988505747,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BOT TEST SERVER" : {
-      "name" : "BOT TEST SERVER",
-      "id" : "245790294975447040",
-      "totalCount" : 103,
-      "botCount" : 98,
-      "userCount" : 5,
-      "percentBots" : 95.1456310679611,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Browse Assistant Dev Server" : {
-      "name" : "Browse Assistant Dev Server",
-      "id" : "219123010131591169",
-      "totalCount" : 41,
-      "botCount" : 39,
-      "userCount" : 2,
-      "percentBots" : 95.1219512195122,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Server" : {
-      "name" : "Bot Server",
-      "id" : "239890058314776577",
-      "totalCount" : 143,
-      "botCount" : 136,
-      "userCount" : 7,
-      "percentBots" : 95.1048951048951,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "te" : {
-      "name" : "te",
-      "id" : "217882932100988931",
-      "totalCount" : 81,
-      "botCount" : 77,
-      "userCount" : 4,
-      "percentBots" : 95.0617283950617,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Mi server de bots" : {
-      "name" : "Mi server de bots",
-      "id" : "242014617503531009",
-      "totalCount" : 81,
-      "botCount" : 77,
-      "userCount" : 4,
-      "percentBots" : 95.0617283950617,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Test Public" : {
-      "name" : "Test Public",
-      "id" : "224518526289838080",
-      "totalCount" : 20,
-      "botCount" : 19,
-      "userCount" : 1,
-      "percentBots" : 95,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bitchbois" : {
-      "name" : "bitchbois",
-      "id" : "251487498205659137",
-      "totalCount" : 20,
-      "botCount" : 19,
-      "userCount" : 1,
-      "percentBots" : 95,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Heaven V2" : {
-      "name" : "Bot Heaven V2",
-      "id" : "252823941511380993",
-      "totalCount" : 20,
-      "botCount" : 19,
-      "userCount" : 1,
-      "percentBots" : 95,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Karnage" : {
-      "name" : "Karnage",
-      "id" : "221758516640219136",
-      "totalCount" : 99,
-      "botCount" : 94,
-      "userCount" : 5,
-      "percentBots" : 94.9494949494949,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Cracked!" : {
-      "name" : "Cracked!",
-      "id" : "242760162039824394",
-      "totalCount" : 158,
-      "botCount" : 150,
-      "userCount" : 8,
-      "percentBots" : 94.9367088607595,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Nargothrond" : {
-      "name" : "Nargothrond",
-      "id" : "225310619048476672",
-      "totalCount" : 59,
-      "botCount" : 56,
-      "userCount" : 3,
-      "percentBots" : 94.9152542372881,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Hell" : {
-      "name" : "Bot Hell",
-      "id" : "227592406537732096",
-      "totalCount" : 98,
-      "botCount" : 93,
-      "userCount" : 5,
-      "percentBots" : 94.8979591836734,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Diep.io" : {
-      "name" : "Diep.io",
-      "id" : "239780603124383744",
-      "totalCount" : 19,
-      "botCount" : 18,
-      "userCount" : 1,
-      "percentBots" : 94.7368421052631,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Townsville" : {
-      "name" : "Townsville",
-      "id" : "98525107546238976",
-      "totalCount" : 74,
-      "botCount" : 70,
-      "userCount" : 4,
-      "percentBots" : 94.5945945945946,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Reboot" : {
-      "name" : "Reboot",
-      "id" : "186826137446514688",
-      "totalCount" : 37,
-      "botCount" : 35,
-      "userCount" : 2,
-      "percentBots" : 94.5945945945946,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "._." : {
-      "name" : "._.",
-      "id" : "217559184231759873",
-      "totalCount" : 92,
-      "botCount" : 87,
-      "userCount" : 5,
-      "percentBots" : 94.5652173913043,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Shinoa" : {
-      "name" : "Shinoa",
-      "id" : "245467032538185729",
-      "totalCount" : 36,
-      "botCount" : 34,
-      "userCount" : 2,
-      "percentBots" : 94.4444444444444,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Windows XP Bot" : {
-      "name" : "Windows XP Bot",
-      "id" : "239829095351844875",
-      "totalCount" : 36,
-      "botCount" : 34,
-      "userCount" : 2,
-      "percentBots" : 94.4444444444444,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Dino" : {
-      "name" : "Dino",
-      "id" : "244695479294754816",
-      "totalCount" : 123,
-      "botCount" : 116,
-      "userCount" : 7,
-      "percentBots" : 94.3089430894309,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "....." : {
-      "name" : ".....",
-      "id" : "241197481793290241",
-      "totalCount" : 35,
-      "botCount" : 33,
-      "userCount" : 2,
-      "percentBots" : 94.2857142857142,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "tea" : {
-      "name" : "tea",
-      "id" : "217882278590808064",
-      "totalCount" : 70,
-      "botCount" : 66,
-      "userCount" : 4,
-      "percentBots" : 94.2857142857142,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "cool gamer and need a mincraft account for free mine got hacked please help me" : {
-      "name" : "cool gamer and need a mincraft account for free mine got hacked please help me",
-      "id" : "248208499790577664",
-      "totalCount" : 35,
-      "botCount" : 33,
-      "userCount" : 2,
-      "percentBots" : 94.2857142857142,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Mumble Beta v0.3" : {
-      "name" : "Mumble Beta v0.3",
-      "id" : "220693539309355009",
-      "totalCount" : 86,
-      "botCount" : 81,
-      "userCount" : 5,
-      "percentBots" : 94.1860465116279,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TheDump" : {
-      "name" : "TheDump",
-      "id" : "229049492371013632",
-      "totalCount" : 103,
-      "botCount" : 97,
-      "userCount" : 6,
-      "percentBots" : 94.1747572815534,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Stinge Cunts" : {
-      "name" : "Stinge Cunts",
-      "id" : "230669464939528193",
-      "totalCount" : 103,
-      "botCount" : 97,
-      "userCount" : 6,
-      "percentBots" : 94.1747572815534,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ichangedthenamecuziamforeverlone" : {
-      "name" : "ichangedthenamecuziamforeverlone",
-      "id" : "244256792153030666",
-      "totalCount" : 17,
-      "botCount" : 16,
-      "userCount" : 1,
-      "percentBots" : 94.1176470588235,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Vinny's  Squad" : {
-      "name" : "Vinny's  Squad",
-      "id" : "237320100095590401",
-      "totalCount" : 17,
-      "botCount" : 16,
-      "userCount" : 1,
-      "percentBots" : 94.1176470588235,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Nigga's" : {
-      "name" : "Nigga's",
-      "id" : "222679839713394688",
-      "totalCount" : 50,
-      "botCount" : 47,
-      "userCount" : 3,
-      "percentBots" : 94,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Wierd Chat" : {
-      "name" : "Wierd Chat",
-      "id" : "228198901474131969",
-      "totalCount" : 65,
-      "botCount" : 61,
-      "userCount" : 4,
-      "percentBots" : 93.8461538461538,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "yoB yzaL's Server" : {
-      "name" : "yoB yzaL's Server",
-      "id" : "251117750024536064",
-      "totalCount" : 16,
-      "botCount" : 15,
-      "userCount" : 1,
-      "percentBots" : 93.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testing" : {
-      "name" : "Bot Testing",
-      "id" : "234191618561802251",
-      "totalCount" : 32,
-      "botCount" : 30,
-      "userCount" : 2,
-      "percentBots" : 93.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Test" : {
-      "name" : "Test",
-      "id" : "238860129573797890",
-      "totalCount" : 16,
-      "botCount" : 15,
-      "userCount" : 1,
-      "percentBots" : 93.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "anarchy :P" : {
-      "name" : "anarchy :P",
-      "id" : "249298858641850368",
-      "totalCount" : 16,
-      "botCount" : 15,
-      "userCount" : 1,
-      "percentBots" : 93.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Test1" : {
-      "name" : "Test1",
-      "id" : "208354185068937216",
-      "totalCount" : 16,
-      "botCount" : 15,
-      "userCount" : 1,
-      "percentBots" : 93.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Nothing To See Here" : {
-      "name" : "Nothing To See Here",
-      "id" : "158848777371779072",
-      "totalCount" : 31,
-      "botCount" : 29,
-      "userCount" : 2,
-      "percentBots" : 93.5483870967741,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Bash" : {
-      "name" : "Bot Bash",
-      "id" : "239093240798642177",
-      "totalCount" : 77,
-      "botCount" : 72,
-      "userCount" : 5,
-      "percentBots" : 93.5064935064935,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "from the guy name ace" : {
-      "name" : "from the guy name ace",
-      "id" : "196125919138545665",
-      "totalCount" : 15,
-      "botCount" : 14,
-      "userCount" : 1,
-      "percentBots" : 93.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Staff Wizards" : {
-      "name" : "Staff Wizards",
-      "id" : "250656934321979394",
-      "totalCount" : 45,
-      "botCount" : 42,
-      "userCount" : 3,
-      "percentBots" : 93.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Chat Server" : {
-      "name" : "Chat Server",
-      "id" : "241231828491567104",
-      "totalCount" : 29,
-      "botCount" : 27,
-      "userCount" : 2,
-      "percentBots" : 93.103448275862,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Dank Bot Island" : {
-      "name" : "Dank Bot Island",
-      "id" : "228968993547878400",
-      "totalCount" : 57,
-      "botCount" : 53,
-      "userCount" : 4,
-      "percentBots" : 92.9824561403508,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "『𝓓𝓙 𝓯𝓲𝓮𝓼𝓽𝓪 』🐺 [Testing]" : {
-      "name" : "『𝓓𝓙 𝓯𝓲𝓮𝓼𝓽𝓪 』🐺 [Testing]",
-      "id" : "232027005237854209",
-      "totalCount" : 14,
-      "botCount" : 13,
-      "userCount" : 1,
-      "percentBots" : 92.8571428571428,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TEST" : {
-      "name" : "TEST",
-      "id" : "214450930270076928",
-      "totalCount" : 14,
-      "botCount" : 13,
-      "userCount" : 1,
-      "percentBots" : 92.8571428571428,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "gergergergerger" : {
-      "name" : "gergergergerger",
-      "id" : "244128598846472192",
-      "totalCount" : 14,
-      "botCount" : 13,
-      "userCount" : 1,
-      "percentBots" : 92.8571428571428,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot country back up" : {
-      "name" : "bot country back up",
-      "id" : "246736265397927936",
-      "totalCount" : 262,
-      "botCount" : 243,
-      "userCount" : 19,
-      "percentBots" : 92.7480916030534,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Better Furballs" : {
-      "name" : "The Better Furballs",
-      "id" : "248630487419977728",
-      "totalCount" : 123,
-      "botCount" : 114,
-      "userCount" : 9,
-      "percentBots" : 92.6829268292683,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "lol talk" : {
-      "name" : "lol talk",
-      "id" : "238021569576828928",
-      "totalCount" : 27,
-      "botCount" : 25,
-      "userCount" : 2,
-      "percentBots" : 92.5925925925926,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Hell" : {
-      "name" : "Bot Hell",
-      "id" : "236920058125746177",
-      "totalCount" : 54,
-      "botCount" : 50,
-      "userCount" : 4,
-      "percentBots" : 92.5925925925926,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "corner's pond! Btw, don't die" : {
-      "name" : "corner's pond! Btw, don't die",
-      "id" : "178132444984246272",
-      "totalCount" : 54,
-      "botCount" : 50,
-      "userCount" : 4,
-      "percentBots" : 92.5925925925926,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Landfill" : {
-      "name" : "Landfill",
-      "id" : "246073224255766528",
-      "totalCount" : 93,
-      "botCount" : 86,
-      "userCount" : 7,
-      "percentBots" : 92.4731182795698,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "secret lair" : {
-      "name" : "secret lair",
-      "id" : "209992951282139137",
-      "totalCount" : 79,
-      "botCount" : 73,
-      "userCount" : 6,
-      "percentBots" : 92.4050632911392,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Toasty Memes Squad" : {
-      "name" : "Toasty Memes Squad",
-      "id" : "236229531273396224",
-      "totalCount" : 65,
-      "botCount" : 60,
-      "userCount" : 5,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "все" : {
-      "name" : "все",
-      "id" : "240470404588634112",
-      "totalCount" : 26,
-      "botCount" : 24,
-      "userCount" : 2,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "in stereo" : {
-      "name" : "in stereo",
-      "id" : 213276571811840000,
-      "totalCount" : 13,
-      "botCount" : 12,
-      "userCount" : 1,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TEAMB3TA" : {
-      "name" : "TEAMB3TA",
-      "id" : "108640574533308416",
-      "totalCount" : 39,
-      "botCount" : 36,
-      "userCount" : 3,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Maldives" : {
-      "name" : "Maldives",
-      "id" : "236898424660819968",
-      "totalCount" : 13,
-      "botCount" : 12,
-      "userCount" : 1,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Winter Han Solo Tournament" : {
-      "name" : "Winter Han Solo Tournament",
-      "id" : "230047774219960331",
-      "totalCount" : 13,
-      "botCount" : 12,
-      "userCount" : 1,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "MasterGaming" : {
-      "name" : "MasterGaming",
-      "id" : "242327992125227009",
-      "totalCount" : 13,
-      "botCount" : 12,
-      "userCount" : 1,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Hello Darkness My Old Friend" : {
-      "name" : "Hello Darkness My Old Friend",
-      "id" : "240218142456938496",
-      "totalCount" : 13,
-      "botCount" : 12,
-      "userCount" : 1,
-      "percentBots" : 92.3076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lonely Squad+2 Homeless Ppl" : {
-      "name" : "Lonely Squad+2 Homeless Ppl",
-      "id" : "217483402176102402",
-      "totalCount" : 103,
-      "botCount" : 95,
-      "userCount" : 8,
-      "percentBots" : 92.2330097087378,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Central" : {
-      "name" : "Bot Central",
-      "id" : "163750975079841793",
-      "totalCount" : 102,
-      "botCount" : 94,
-      "userCount" : 8,
-      "percentBots" : 92.156862745098,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Micro's House" : {
-      "name" : "Micro's House",
-      "id" : "251358110638276609",
-      "totalCount" : 38,
-      "botCount" : 35,
-      "userCount" : 3,
-      "percentBots" : 92.1052631578947,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Dire Maul" : {
-      "name" : "Dire Maul",
-      "id" : "187792173603749888",
-      "totalCount" : 38,
-      "botCount" : 35,
-      "userCount" : 3,
-      "percentBots" : 92.1052631578947,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "meme" : {
-      "name" : "meme",
-      "id" : "230411372305973249",
-      "totalCount" : 100,
-      "botCount" : 92,
-      "userCount" : 8,
-      "percentBots" : 92,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Teddy bear fans" : {
-      "name" : "Teddy bear fans",
-      "id" : "238401902814035976",
-      "totalCount" : 12,
-      "botCount" : 11,
-      "userCount" : 1,
-      "percentBots" : 91.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lithuania's Adventurer Travel" : {
-      "name" : "Lithuania's Adventurer Travel",
-      "id" : "250355672955355136",
-      "totalCount" : 12,
-      "botCount" : 11,
-      "userCount" : 1,
-      "percentBots" : 91.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ΔƤ❂Clan" : {
-      "name" : "ΔƤ❂Clan",
-      "id" : "237982747723956224",
-      "totalCount" : 12,
-      "botCount" : 11,
-      "userCount" : 1,
-      "percentBots" : 91.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "DaFreaks Gaming" : {
-      "name" : "DaFreaks Gaming",
-      "id" : "100758698023997440",
-      "totalCount" : 12,
-      "botCount" : 11,
-      "userCount" : 1,
-      "percentBots" : 91.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Tsuna's World" : {
-      "name" : "Tsuna's World",
-      "id" : "234674540591054849",
-      "totalCount" : 12,
-      "botCount" : 11,
-      "userCount" : 1,
-      "percentBots" : 91.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Sirius Diep Agar Slither Games" : {
-      "name" : "Sirius Diep Agar Slither Games",
-      "id" : "249952513736966144",
-      "totalCount" : 47,
-      "botCount" : 43,
-      "userCount" : 4,
-      "percentBots" : 91.4893617021276,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Test" : {
-      "name" : "Test",
-      "id" : "214966600770519041",
-      "totalCount" : 35,
-      "botCount" : 32,
-      "userCount" : 3,
-      "percentBots" : 91.4285714285714,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TDSK Gaming Room" : {
-      "name" : "TDSK Gaming Room",
-      "id" : "222462442393829376",
-      "totalCount" : 93,
-      "botCount" : 85,
-      "userCount" : 8,
-      "percentBots" : 91.3978494623655,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Olibols Official! BOT INSANITY!" : {
-      "name" : "Olibols Official! BOT INSANITY!",
-      "id" : "232915717152833537",
-      "totalCount" : 185,
-      "botCount" : 169,
-      "userCount" : 16,
-      "percentBots" : 91.3513513513513,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "fucking cunt" : {
-      "name" : "fucking cunt",
-      "id" : "235622824721514496",
-      "totalCount" : 23,
-      "botCount" : 21,
-      "userCount" : 2,
-      "percentBots" : 91.3043478260869,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Servidor Teste Bots" : {
-      "name" : "Servidor Teste Bots",
-      "id" : "249320110676901888",
-      "totalCount" : 23,
-      "botCount" : 21,
-      "userCount" : 2,
-      "percentBots" : 91.3043478260869,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "poooooo" : {
-      "name" : "poooooo",
-      "id" : "246991651573071882",
-      "totalCount" : 56,
-      "botCount" : 51,
-      "userCount" : 5,
-      "percentBots" : 91.0714285714285,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Praise Maxwell" : {
-      "name" : "Praise Maxwell",
-      "id" : "243168355240902656",
-      "totalCount" : 111,
-      "botCount" : 101,
-      "userCount" : 10,
-      "percentBots" : 90.990990990991,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "My best discord" : {
-      "name" : "My best discord",
-      "id" : "239417575958642690",
-      "totalCount" : 22,
-      "botCount" : 20,
-      "userCount" : 2,
-      "percentBots" : 90.9090909090909,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Music Sentral Mod Servers" : {
-      "name" : "Music Sentral Mod Servers",
-      "id" : 240219409350656000,
-      "totalCount" : 33,
-      "botCount" : 30,
-      "userCount" : 3,
-      "percentBots" : 90.9090909090909,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Bot Central" : {
-      "name" : "The Bot Central",
-      "id" : "246456192719781889",
-      "totalCount" : 75,
-      "botCount" : 68,
-      "userCount" : 7,
-      "percentBots" : 90.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot warfare" : {
-      "name" : "bot warfare",
-      "id" : "249367508664975361",
-      "totalCount" : 71,
-      "botCount" : 64,
-      "userCount" : 7,
-      "percentBots" : 90.1408450704225,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Boats [Bots]" : {
-      "name" : "Boats [Bots]",
-      "id" : "210383939871834112",
-      "totalCount" : 101,
-      "botCount" : 91,
-      "userCount" : 10,
-      "percentBots" : 90.0990099009901,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bordelands" : {
-      "name" : "Bordelands",
-      "id" : "235849903677505537",
-      "totalCount" : 101,
-      "botCount" : 91,
-      "userCount" : 10,
-      "percentBots" : 90.0990099009901,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "RPG Server - Reavoken" : {
-      "name" : "RPG Server - Reavoken",
-      "id" : "241632171708645376",
-      "totalCount" : 20,
-      "botCount" : 18,
-      "userCount" : 2,
-      "percentBots" : 90,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot hhhhhhhh" : {
-      "name" : "bot hhhhhhhh",
-      "id" : "231290016268156928",
-      "totalCount" : 40,
-      "botCount" : 36,
-      "userCount" : 4,
-      "percentBots" : 90,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Random weird server" : {
-      "name" : "Random weird server",
-      "id" : "228670620160753664",
-      "totalCount" : 50,
-      "botCount" : 45,
-      "userCount" : 5,
-      "percentBots" : 90,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Operation Valkyrie" : {
-      "name" : "Operation Valkyrie",
-      "id" : "224697224746106890",
-      "totalCount" : 108,
-      "botCount" : 97,
-      "userCount" : 11,
-      "percentBots" : 89.8148148148148,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "JDTMQG ARMY COMMUNITY CHAT" : {
-      "name" : "JDTMQG ARMY COMMUNITY CHAT",
-      "id" : "194915469633912832",
-      "totalCount" : 49,
-      "botCount" : 44,
-      "userCount" : 5,
-      "percentBots" : 89.7959183673469,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "xcvxcvcvxcvxcvx" : {
-      "name" : "xcvxcvcvxcvxcvx",
-      "id" : "242731433670475777",
-      "totalCount" : 49,
-      "botCount" : 44,
-      "userCount" : 5,
-      "percentBots" : 89.7959183673469,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "roggar and i fun time" : {
-      "name" : "roggar and i fun time",
-      "id" : "244962823640317952",
-      "totalCount" : 29,
-      "botCount" : 26,
-      "userCount" : 3,
-      "percentBots" : 89.6551724137931,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pussy Slayers" : {
-      "name" : "Pussy Slayers",
-      "id" : "244618176929857546",
-      "totalCount" : 29,
-      "botCount" : 26,
-      "userCount" : 3,
-      "percentBots" : 89.6551724137931,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "funtime factory:adventures in gwain" : {
-      "name" : "funtime factory:adventures in gwain",
-      "id" : "236586151387856897",
-      "totalCount" : 48,
-      "botCount" : 43,
-      "userCount" : 5,
-      "percentBots" : 89.5833333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "beep" : {
-      "name" : "beep",
-      "id" : "237028262625280001",
-      "totalCount" : 19,
-      "botCount" : 17,
-      "userCount" : 2,
-      "percentBots" : 89.4736842105263,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testerino" : {
-      "name" : "Bot Testerino",
-      "id" : "243860899616522251",
-      "totalCount" : 19,
-      "botCount" : 17,
-      "userCount" : 2,
-      "percentBots" : 89.4736842105263,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Private discord" : {
-      "name" : "Private discord",
-      "id" : "224322080538099712",
-      "totalCount" : 131,
-      "botCount" : 117,
-      "userCount" : 14,
-      "percentBots" : 89.3129770992366,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Riolu's Discord" : {
-      "name" : "Riolu's Discord",
-      "id" : "218857752095621120",
-      "totalCount" : 56,
-      "botCount" : 50,
-      "userCount" : 6,
-      "percentBots" : 89.2857142857142,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Jamers" : {
-      "name" : "Jamers",
-      "id" : "249909321700343808",
-      "totalCount" : 28,
-      "botCount" : 25,
-      "userCount" : 3,
-      "percentBots" : 89.2857142857142,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testing" : {
-      "name" : "Bot Testing",
-      "id" : "221369228333154305",
-      "totalCount" : 46,
-      "botCount" : 41,
-      "userCount" : 5,
-      "percentBots" : 89.1304347826086,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Layanor's Mind" : {
-      "name" : "Layanor's Mind",
-      "id" : "121353091999072258",
-      "totalCount" : 18,
-      "botCount" : 16,
-      "userCount" : 2,
-      "percentBots" : 88.8888888888888,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "International Discord Machine" : {
-      "name" : "International Discord Machine",
-      "id" : "223555766127165441",
-      "totalCount" : 108,
-      "botCount" : 96,
-      "userCount" : 12,
-      "percentBots" : 88.8888888888888,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "unturned gaming" : {
-      "name" : "unturned gaming",
-      "id" : "241919430680903680",
-      "totalCount" : 18,
-      "botCount" : 16,
-      "userCount" : 2,
-      "percentBots" : 88.8888888888888,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The All bots server" : {
-      "name" : "The All bots server",
-      "id" : "249340854639132682",
-      "totalCount" : 54,
-      "botCount" : 48,
-      "userCount" : 6,
-      "percentBots" : 88.8888888888888,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Chat of people" : {
-      "name" : "Chat of people",
-      "id" : "143390437992824832",
-      "totalCount" : 98,
-      "botCount" : 87,
-      "userCount" : 11,
-      "percentBots" : 88.7755102040816,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "uxelon hotel" : {
-      "name" : "uxelon hotel",
-      "id" : "247878524109717505",
-      "totalCount" : 26,
-      "botCount" : 23,
-      "userCount" : 3,
-      "percentBots" : 88.4615384615384,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Derk's Bot Testing Sever" : {
-      "name" : "Derk's Bot Testing Sever",
-      "id" : "251445783688249344",
-      "totalCount" : 78,
-      "botCount" : 69,
-      "userCount" : 9,
-      "percentBots" : 88.4615384615384,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "A lot of bots" : {
-      "name" : "A lot of bots",
-      "id" : "204392937851715584",
-      "totalCount" : 147,
-      "botCount" : 130,
-      "userCount" : 17,
-      "percentBots" : 88.4353741496598,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TEST SERVER DESTROY THIS" : {
-      "name" : "TEST SERVER DESTROY THIS",
-      "id" : "225314366285807617",
-      "totalCount" : 43,
-      "botCount" : 38,
-      "userCount" : 5,
-      "percentBots" : 88.3720930232558,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "UK" : {
-      "name" : "UK",
-      "id" : "197081542785236992",
-      "totalCount" : 232,
-      "botCount" : 205,
-      "userCount" : 27,
-      "percentBots" : 88.3620689655172,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "大屌萌妹" : {
-      "name" : "大屌萌妹",
-      "id" : "249616854589505536",
-      "totalCount" : 111,
-      "botCount" : 98,
-      "userCount" : 13,
-      "percentBots" : 88.2882882882882,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pike & Pike Chat! :3" : {
-      "name" : "Pike & Pike Chat! :3",
-      "id" : "239151248614490114",
-      "totalCount" : 17,
-      "botCount" : 15,
-      "userCount" : 2,
-      "percentBots" : 88.235294117647,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Maru's Group" : {
-      "name" : "Maru's Group",
-      "id" : "244993048147132416",
-      "totalCount" : 17,
-      "botCount" : 15,
-      "userCount" : 2,
-      "percentBots" : 88.235294117647,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "🇫🇷 Tests Kévain" : {
-      "name" : "🇫🇷 Tests Kévain",
-      "id" : "199847600982065152",
-      "totalCount" : 34,
-      "botCount" : 30,
-      "userCount" : 4,
-      "percentBots" : 88.235294117647,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot-ville" : {
-      "name" : "Bot-ville",
-      "id" : "242125827683254282",
-      "totalCount" : 25,
-      "botCount" : 22,
-      "userCount" : 3,
-      "percentBots" : 88,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BonziBuddy" : {
-      "name" : "BonziBuddy",
-      "id" : "252275899922120705",
-      "totalCount" : 50,
-      "botCount" : 44,
-      "userCount" : 6,
-      "percentBots" : 88,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Kanker" : {
-      "name" : "Kanker",
-      "id" : "229667536289923072",
-      "totalCount" : 124,
-      "botCount" : 109,
-      "userCount" : 15,
-      "percentBots" : 87.9032258064516,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Discord Bots (BBE)" : {
-      "name" : "Discord Bots (BBE)",
-      "id" : "237708538137411584",
-      "totalCount" : 123,
-      "botCount" : 108,
-      "userCount" : 15,
-      "percentBots" : 87.8048780487805,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Memes" : {
-      "name" : "Memes",
-      "id" : "217666055336755201",
-      "totalCount" : 65,
-      "botCount" : 57,
-      "userCount" : 8,
-      "percentBots" : 87.6923076923077,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "GAY FAGS" : {
-      "name" : "GAY FAGS",
-      "id" : "232046582948823040",
-      "totalCount" : 16,
-      "botCount" : 14,
-      "userCount" : 2,
-      "percentBots" : 87.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "EVERYBODY BUT DANNY" : {
-      "name" : "EVERYBODY BUT DANNY",
-      "id" : "240280103001653248",
-      "totalCount" : 16,
-      "botCount" : 14,
-      "userCount" : 2,
-      "percentBots" : 87.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "random" : {
-      "name" : "random",
-      "id" : "236123046304415744",
-      "totalCount" : 16,
-      "botCount" : 14,
-      "userCount" : 2,
-      "percentBots" : 87.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Heяø ⚡" : {
-      "name" : "Heяø ⚡",
-      "id" : "241075586859008001",
-      "totalCount" : 16,
-      "botCount" : 14,
-      "userCount" : 2,
-      "percentBots" : 87.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot testing" : {
-      "name" : "bot testing",
-      "id" : "249965842316394508",
-      "totalCount" : 24,
-      "botCount" : 21,
-      "userCount" : 3,
-      "percentBots" : 87.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "CATS:KYS" : {
-      "name" : "CATS:KYS",
-      "id" : "221738288900210688",
-      "totalCount" : 102,
-      "botCount" : 89,
-      "userCount" : 13,
-      "percentBots" : 87.2549019607843,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bots" : {
-      "name" : "Bots",
-      "id" : "183697369827639296",
-      "totalCount" : 23,
-      "botCount" : 20,
-      "userCount" : 3,
-      "percentBots" : 86.9565217391304,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Peeps Smurf" : {
-      "name" : "Peeps Smurf",
-      "id" : "132310457448005632",
-      "totalCount" : 61,
-      "botCount" : 53,
-      "userCount" : 8,
-      "percentBots" : 86.8852459016393,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "test" : {
-      "name" : "test",
-      "id" : "216663327588220939",
-      "totalCount" : 38,
-      "botCount" : 33,
-      "userCount" : 5,
-      "percentBots" : 86.8421052631579,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "josh" : {
-      "name" : "josh",
-      "id" : "235526656863764480",
-      "totalCount" : 30,
-      "botCount" : 26,
-      "userCount" : 4,
-      "percentBots" : 86.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Triunvirato da Polandball, Corvo e lobo" : {
-      "name" : "Triunvirato da Polandball, Corvo e lobo",
-      "id" : "251490803317342209",
-      "totalCount" : 15,
-      "botCount" : 13,
-      "userCount" : 2,
-      "percentBots" : 86.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "๖ۣۜLΞǤεηĐ༻" : {
-      "name" : "๖ۣۜLΞǤεηĐ༻",
-      "id" : "232636992083460096",
-      "totalCount" : 15,
-      "botCount" : 13,
-      "userCount" : 2,
-      "percentBots" : 86.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Loli spam server" : {
-      "name" : "Loli spam server",
-      "id" : "196673814245933056",
-      "totalCount" : 15,
-      "botCount" : 13,
-      "userCount" : 2,
-      "percentBots" : 86.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot testing site" : {
-      "name" : "Bot testing site",
-      "id" : "198631602878676992",
-      "totalCount" : 52,
-      "botCount" : 45,
-      "userCount" : 7,
-      "percentBots" : 86.5384615384615,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "INDONESIAN DISCORD" : {
-      "name" : "INDONESIAN DISCORD",
-      "id" : "193558362825162752",
-      "totalCount" : 118,
-      "botCount" : 102,
-      "userCount" : 16,
-      "percentBots" : 86.4406779661017,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Razer Super Team 2" : {
-      "name" : "Razer Super Team 2",
-      "id" : "218742960639049729",
-      "totalCount" : 42,
-      "botCount" : 36,
-      "userCount" : 6,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "cool  niggas only !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" : {
-      "name" : "cool  niggas only !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-      "id" : "160600168687861762",
-      "totalCount" : 35,
-      "botCount" : 30,
-      "userCount" : 5,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Clusterfuck" : {
-      "name" : "Bot Clusterfuck",
-      "id" : "215581855494307841",
-      "totalCount" : 77,
-      "botCount" : 66,
-      "userCount" : 11,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "lareneg ni sgin" : {
-      "name" : "lareneg ni sgin",
-      "id" : "179752966595543051",
-      "totalCount" : 98,
-      "botCount" : 84,
-      "userCount" : 14,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot server" : {
-      "name" : "bot server",
-      "id" : "249983267737042955",
-      "totalCount" : 14,
-      "botCount" : 12,
-      "userCount" : 2,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Sexual Shit~" : {
-      "name" : "Sexual Shit~",
-      "id" : "251844360793096193",
-      "totalCount" : 14,
-      "botCount" : 12,
-      "userCount" : 2,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Planet Sweg" : {
-      "name" : "Planet Sweg",
-      "id" : 252201838395392000,
-      "totalCount" : 14,
-      "botCount" : 12,
-      "userCount" : 2,
-      "percentBots" : 85.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "【𝓔𝓛𝓚】◐⊑⊒◑" : {
-      "name" : "【𝓔𝓛𝓚】◐⊑⊒◑",
-      "id" : "218119705494290432",
-      "totalCount" : 89,
-      "botCount" : 76,
-      "userCount" : 13,
-      "percentBots" : 85.3932584269662,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Gang Shit" : {
-      "name" : "Gang Shit",
-      "id" : "231860898342502400",
-      "totalCount" : 40,
-      "botCount" : 34,
-      "userCount" : 6,
-      "percentBots" : 85,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Namikaze Or Uzumaki" : {
-      "name" : "Namikaze Or Uzumaki",
-      "id" : "217725249570078720",
-      "totalCount" : 105,
-      "botCount" : 89,
-      "userCount" : 16,
-      "percentBots" : 84.7619047619047,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Server Spokoju" : {
-      "name" : "Server Spokoju",
-      "id" : "231754873190744085",
-      "totalCount" : 13,
-      "botCount" : 11,
-      "userCount" : 2,
-      "percentBots" : 84.6153846153846,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pantsu" : {
-      "name" : "Pantsu",
-      "id" : "236790731182702596",
-      "totalCount" : 13,
-      "botCount" : 11,
-      "userCount" : 2,
-      "percentBots" : 84.6153846153846,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Private server" : {
-      "name" : "Private server",
-      "id" : "212767708306079744",
-      "totalCount" : 13,
-      "botCount" : 11,
-      "userCount" : 2,
-      "percentBots" : 84.6153846153846,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "SO BOT" : {
-      "name" : "SO BOT",
-      "id" : "237332390043844609",
-      "totalCount" : 26,
-      "botCount" : 22,
-      "userCount" : 4,
-      "percentBots" : 84.6153846153846,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Kektus. Kekerino. RP. Git gud n deal with this shit. BOT CENTRAL!" : {
-      "name" : "Kektus. Kekerino. RP. Git gud n deal with this shit. BOT CENTRAL!",
-      "id" : "246451407811641344",
-      "totalCount" : 58,
-      "botCount" : 49,
-      "userCount" : 9,
-      "percentBots" : 84.4827586206896,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lineage II Interlude" : {
-      "name" : "Lineage II Interlude",
-      "id" : "241072069230592001",
-      "totalCount" : 51,
-      "botCount" : 43,
-      "userCount" : 8,
-      "percentBots" : 84.313725490196,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Haze" : {
-      "name" : "Haze",
-      "id" : "226079633957847040",
-      "totalCount" : 38,
-      "botCount" : 32,
-      "userCount" : 6,
-      "percentBots" : 84.2105263157894,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "PetriDish.pw" : {
-      "name" : "PetriDish.pw",
-      "id" : "226664742003933184",
-      "totalCount" : 133,
-      "botCount" : 112,
-      "userCount" : 21,
-      "percentBots" : 84.2105263157894,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "GAY BAR" : {
-      "name" : "GAY BAR",
-      "id" : "171549320384872448",
-      "totalCount" : 101,
-      "botCount" : 85,
-      "userCount" : 16,
-      "percentBots" : 84.1584158415841,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "MLG Army" : {
-      "name" : "MLG Army",
-      "id" : "234096400982474752",
-      "totalCount" : 50,
-      "botCount" : 42,
-      "userCount" : 8,
-      "percentBots" : 84,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    ":/" : {
-      "name" : ":/",
-      "id" : "202587253120172032",
-      "totalCount" : 56,
-      "botCount" : 47,
-      "userCount" : 9,
-      "percentBots" : 83.9285714285714,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Server" : {
-      "name" : "Bot Server",
-      "id" : "192847488825163777",
-      "totalCount" : 123,
-      "botCount" : 103,
-      "userCount" : 20,
-      "percentBots" : 83.7398373983739,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bot party" : {
-      "name" : "bot party",
-      "id" : "236258900201046020",
-      "totalCount" : 43,
-      "botCount" : 36,
-      "userCount" : 7,
-      "percentBots" : 83.7209302325581,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Crunchy Nut Server" : {
-      "name" : "Crunchy Nut Server",
-      "id" : "202331417567297536",
-      "totalCount" : 67,
-      "botCount" : 56,
-      "userCount" : 11,
-      "percentBots" : 83.5820895522388,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "!help" : {
-      "name" : "!help",
-      "id" : "105145927399948288",
-      "totalCount" : 253,
-      "botCount" : 211,
-      "userCount" : 42,
-      "percentBots" : 83.399209486166,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    ".HACKED" : {
-      "name" : ".HACKED",
-      "id" : "228608690461081610",
-      "totalCount" : 24,
-      "botCount" : 20,
-      "userCount" : 4,
-      "percentBots" : 83.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "HappyLand" : {
-      "name" : "HappyLand",
-      "id" : "247508942131953665",
-      "totalCount" : 18,
-      "botCount" : 15,
-      "userCount" : 3,
-      "percentBots" : 83.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Shady Squad UNLIMTED" : {
-      "name" : "Shady Squad UNLIMTED",
-      "id" : "171281704835743744",
-      "totalCount" : 90,
-      "botCount" : 75,
-      "userCount" : 15,
-      "percentBots" : 83.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "bb" : {
-      "name" : "bb",
-      "id" : "227532775111000076",
-      "totalCount" : 24,
-      "botCount" : 20,
-      "userCount" : 4,
-      "percentBots" : 83.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "the fucked up server" : {
-      "name" : "the fucked up server",
-      "id" : "215413696418152448",
-      "totalCount" : 36,
-      "botCount" : 30,
-      "userCount" : 6,
-      "percentBots" : 83.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "GoD" : {
-      "name" : "GoD",
-      "id" : "214146251040620544",
-      "totalCount" : 83,
-      "botCount" : 69,
-      "userCount" : 14,
-      "percentBots" : 83.1325301204819,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "N a n d o ' s" : {
-      "name" : "N a n d o ' s",
-      "id" : "158363034673348609",
-      "totalCount" : 123,
-      "botCount" : 102,
-      "userCount" : 21,
-      "percentBots" : 82.9268292682926,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "『ᗰƤ』ĆŁΔŇ" : {
-      "name" : "『ᗰƤ』ĆŁΔŇ",
-      "id" : "227090021369249792",
-      "totalCount" : 52,
-      "botCount" : 43,
-      "userCount" : 9,
-      "percentBots" : 82.6923076923077,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Arya" : {
-      "name" : "Arya",
-      "id" : "211272593775394816",
-      "totalCount" : 23,
-      "botCount" : 19,
-      "userCount" : 4,
-      "percentBots" : 82.6086956521739,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testing Playground" : {
-      "name" : "Bot Testing Playground",
-      "id" : "187992265778659329",
-      "totalCount" : 23,
-      "botCount" : 19,
-      "userCount" : 4,
-      "percentBots" : 82.6086956521739,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Just Chatting" : {
-      "name" : "Just Chatting",
-      "id" : "240073338536329216",
-      "totalCount" : 40,
-      "botCount" : 33,
-      "userCount" : 7,
-      "percentBots" : 82.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Test" : {
-      "name" : "Test",
-      "id" : "222107152112812035",
-      "totalCount" : 34,
-      "botCount" : 28,
-      "userCount" : 6,
-      "percentBots" : 82.3529411764705,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Blargbot" : {
-      "name" : "Blargbot",
-      "id" : "238348837146722305",
-      "totalCount" : 34,
-      "botCount" : 28,
-      "userCount" : 6,
-      "percentBots" : 82.3529411764705,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "beep" : {
-      "name" : "beep",
-      "id" : "252609218954264578",
-      "totalCount" : 17,
-      "botCount" : 14,
-      "userCount" : 3,
-      "percentBots" : 82.3529411764705,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "༺ڳฟ༻" : {
-      "name" : "༺ڳฟ༻",
-      "id" : "226907376488284161",
-      "totalCount" : 39,
-      "botCount" : 32,
-      "userCount" : 7,
-      "percentBots" : 82.051282051282,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Nothing " : {
-      "name" : "Nothing ",
-      "id" : "135175902215667718",
-      "totalCount" : 22,
-      "botCount" : 18,
-      "userCount" : 4,
-      "percentBots" : 81.8181818181818,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "DEDSEC" : {
-      "name" : "DEDSEC",
-      "id" : "199295488179044352",
-      "totalCount" : 22,
-      "botCount" : 18,
-      "userCount" : 4,
-      "percentBots" : 81.8181818181818,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Geheime Todessterntests" : {
-      "name" : "Geheime Todessterntests",
-      "id" : "233532185804668928",
-      "totalCount" : 27,
-      "botCount" : 22,
-      "userCount" : 5,
-      "percentBots" : 81.4814814814814,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lulz" : {
-      "name" : "Lulz",
-      "id" : "216412771108126720",
-      "totalCount" : 27,
-      "botCount" : 22,
-      "userCount" : 5,
-      "percentBots" : 81.4814814814814,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Mr. Robot" : {
-      "name" : "Mr. Robot",
-      "id" : "153708594091655168",
-      "totalCount" : 489,
-      "botCount" : 398,
-      "userCount" : 91,
-      "percentBots" : 81.3905930470347,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "rekt em" : {
-      "name" : "rekt em",
-      "id" : "96703590294360064",
-      "totalCount" : 16,
-      "botCount" : 13,
-      "userCount" : 3,
-      "percentBots" : 81.25,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "M L G" : {
-      "name" : "M L G",
-      "id" : "209450821392269312",
-      "totalCount" : 64,
-      "botCount" : 52,
-      "userCount" : 12,
-      "percentBots" : 81.25,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "___" : {
-      "name" : "___",
-      "id" : "246822715292516353",
-      "totalCount" : 32,
-      "botCount" : 26,
-      "userCount" : 6,
-      "percentBots" : 81.25,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ŦƧ♕" : {
-      "name" : "ŦƧ♕",
-      "id" : "244353270909239306",
-      "totalCount" : 32,
-      "botCount" : 26,
-      "userCount" : 6,
-      "percentBots" : 81.25,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Faggut Squuaad" : {
-      "name" : "Faggut Squuaad",
-      "id" : "210523787656036352",
-      "totalCount" : 21,
-      "botCount" : 17,
-      "userCount" : 4,
-      "percentBots" : 80.9523809523809,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Hangout <3" : {
-      "name" : "Hangout <3",
-      "id" : "250873415534247947",
-      "totalCount" : 21,
-      "botCount" : 17,
-      "userCount" : 4,
-      "percentBots" : 80.9523809523809,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "420 Blaze it Fully Automated Luxuary Space Communism Bernie Sanders 2016 Mountain Dew Pokemon" : {
-      "name" : "420 Blaze it Fully Automated Luxuary Space Communism Bernie Sanders 2016 Mountain Dew Pokemon",
-      "id" : "220292121968508929",
-      "totalCount" : 113,
-      "botCount" : 91,
-      "userCount" : 22,
-      "percentBots" : 80.5309734513274,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "SENPAI'S clan" : {
-      "name" : "SENPAI'S clan",
-      "id" : "231957771841437696",
-      "totalCount" : 35,
-      "botCount" : 28,
-      "userCount" : 7,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Geeks and Gamers Community" : {
-      "name" : "Geeks and Gamers Community",
-      "id" : "235869574333988864",
-      "totalCount" : 20,
-      "botCount" : 16,
-      "userCount" : 4,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Testing" : {
-      "name" : "Bot Testing",
-      "id" : "131771382748020736",
-      "totalCount" : 15,
-      "botCount" : 12,
-      "userCount" : 3,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Seamusmario's Chat" : {
-      "name" : "Seamusmario's Chat",
-      "id" : "214562499306061824",
-      "totalCount" : 115,
-      "botCount" : 92,
-      "userCount" : 23,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pizza Hut" : {
-      "name" : "Pizza Hut",
-      "id" : "211599273148547072",
-      "totalCount" : 20,
-      "botCount" : 16,
-      "userCount" : 4,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "fumadores de coxinha com mentos" : {
-      "name" : "fumadores de coxinha com mentos",
-      "id" : "241638182720897024",
-      "totalCount" : 15,
-      "botCount" : 12,
-      "userCount" : 3,
-      "percentBots" : 80,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "k0h" : {
-      "name" : "k0h",
-      "id" : "180294997625536512",
-      "totalCount" : 89,
-      "botCount" : 71,
-      "userCount" : 18,
-      "percentBots" : 79.7752808988764,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bots" : {
-      "name" : "Bots",
-      "id" : "217062866266750979",
-      "totalCount" : 117,
-      "botCount" : 93,
-      "userCount" : 24,
-      "percentBots" : 79.4871794871794,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Playground" : {
-      "name" : "Bot Playground",
-      "id" : "236868488642297857",
-      "totalCount" : 67,
-      "botCount" : 53,
-      "userCount" : 14,
-      "percentBots" : 79.1044776119403,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "FOXIES REMAKE" : {
-      "name" : "FOXIES REMAKE",
-      "id" : "249545586464784385",
-      "totalCount" : 19,
-      "botCount" : 15,
-      "userCount" : 4,
-      "percentBots" : 78.9473684210526,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "U liek pasta little kid ( ͡° ͜ʖ ͡°)" : {
-      "name" : "U liek pasta little kid ( ͡° ͜ʖ ͡°)",
-      "id" : "230899114890493952",
-      "totalCount" : 19,
-      "botCount" : 15,
-      "userCount" : 4,
-      "percentBots" : 78.9473684210526,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Paws' Server" : {
-      "name" : "Paws' Server",
-      "id" : "221692629673443329",
-      "totalCount" : 136,
-      "botCount" : 107,
-      "userCount" : 29,
-      "percentBots" : 78.6764705882352,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ילדים אוטיסטים מצירים חתולים" : {
-      "name" : "ילדים אוטיסטים מצירים חתולים",
-      "id" : "244179007094915074",
-      "totalCount" : 14,
-      "botCount" : 11,
-      "userCount" : 3,
-      "percentBots" : 78.5714285714285,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Charms Fan Club" : {
-      "name" : "Charms Fan Club",
-      "id" : "242334149837324289",
-      "totalCount" : 14,
-      "botCount" : 11,
-      "userCount" : 3,
-      "percentBots" : 78.5714285714285,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Friends To Talk To" : {
-      "name" : "Friends To Talk To",
-      "id" : "231601558045851658",
-      "totalCount" : 14,
-      "botCount" : 11,
-      "userCount" : 3,
-      "percentBots" : 78.5714285714285,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Mythic Mod Discord" : {
-      "name" : "Mythic Mod Discord",
-      "id" : "206466261134213120",
-      "totalCount" : 23,
-      "botCount" : 18,
-      "userCount" : 5,
-      "percentBots" : 78.2608695652173,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "pinguin discord" : {
-      "name" : "pinguin discord",
-      "id" : "243408283757445130",
-      "totalCount" : 46,
-      "botCount" : 36,
-      "userCount" : 10,
-      "percentBots" : 78.2608695652173,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Country" : {
-      "name" : "Bot Country",
-      "id" : "244597754607828992",
-      "totalCount" : 375,
-      "botCount" : 293,
-      "userCount" : 82,
-      "percentBots" : 78.1333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Homer rules" : {
-      "name" : "Homer rules",
-      "id" : "239805818076135424",
-      "totalCount" : 18,
-      "botCount" : 14,
-      "userCount" : 4,
-      "percentBots" : 77.7777777777777,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "frands" : {
-      "name" : "frands",
-      "id" : "245337612682788864",
-      "totalCount" : 22,
-      "botCount" : 17,
-      "userCount" : 5,
-      "percentBots" : 77.2727272727272,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "A Z A N E" : {
-      "name" : "A Z A N E",
-      "id" : "246331315903922176",
-      "totalCount" : 22,
-      "botCount" : 17,
-      "userCount" : 5,
-      "percentBots" : 77.2727272727272,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pirates With Katanas" : {
-      "name" : "Pirates With Katanas",
-      "id" : "210806183613825026",
-      "totalCount" : 47,
-      "botCount" : 36,
-      "userCount" : 11,
-      "percentBots" : 76.595744680851,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "I don't know, like the household or something." : {
-      "name" : "I don't know, like the household or something.",
-      "id" : "240983960719589378",
-      "totalCount" : 34,
-      "botCount" : 26,
-      "userCount" : 8,
-      "percentBots" : 76.4705882352941,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Officer group Jhony14" : {
-      "name" : "Officer group Jhony14",
-      "id" : "179187768625332235",
-      "totalCount" : 42,
-      "botCount" : 32,
-      "userCount" : 10,
-      "percentBots" : 76.1904761904761,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "POTATOLAND" : {
-      "name" : "POTATOLAND",
-      "id" : "235774690788900864",
-      "totalCount" : 42,
-      "botCount" : 32,
-      "userCount" : 10,
-      "percentBots" : 76.1904761904761,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "B o t s" : {
-      "name" : "B o t s",
-      "id" : "203687629638729728",
-      "totalCount" : 21,
-      "botCount" : 16,
-      "userCount" : 5,
-      "percentBots" : 76.1904761904761,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BrEaKing sOme MethE! XD" : {
-      "name" : "BrEaKing sOme MethE! XD",
-      "id" : "195677755038367754",
-      "totalCount" : 203,
-      "botCount" : 153,
-      "userCount" : 50,
-      "percentBots" : 75.3694581280788,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "CSGO LOUNGE" : {
-      "name" : "CSGO LOUNGE",
-      "id" : "219141800621768705",
-      "totalCount" : 117,
-      "botCount" : 88,
-      "userCount" : 29,
-      "percentBots" : 75.2136752136752,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Tech Clan" : {
-      "name" : "The Tech Clan",
-      "id" : "237184627712720896",
-      "totalCount" : 16,
-      "botCount" : 12,
-      "userCount" : 4,
-      "percentBots" : 75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Yawning so bad" : {
-      "name" : "Yawning so bad",
-      "id" : "143198503605108736",
-      "totalCount" : 60,
-      "botCount" : 45,
-      "userCount" : 15,
-      "percentBots" : 75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "frisk" : {
-      "name" : "frisk",
-      "id" : "244925381633769473",
-      "totalCount" : 31,
-      "botCount" : 23,
-      "userCount" : 8,
-      "percentBots" : 74.1935483870967,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bots testing" : {
-      "name" : "Bots testing",
-      "id" : "217848787639468032",
-      "totalCount" : 23,
-      "botCount" : 17,
-      "userCount" : 6,
-      "percentBots" : 73.9130434782608,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BotTesting 2" : {
-      "name" : "BotTesting 2",
-      "id" : "225777996240257025",
-      "totalCount" : 19,
-      "botCount" : 14,
-      "userCount" : 5,
-      "percentBots" : 73.6842105263157,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pew~" : {
-      "name" : "Pew~",
-      "id" : "235837388981534722",
-      "totalCount" : 19,
-      "botCount" : 14,
-      "userCount" : 5,
-      "percentBots" : 73.6842105263157,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Shotaboys Gentleman Club" : {
-      "name" : "Shotaboys Gentleman Club",
-      "id" : "218341724190146560",
-      "totalCount" : 19,
-      "botCount" : 14,
-      "userCount" : 5,
-      "percentBots" : 73.6842105263157,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Tale of ZeldaPie" : {
-      "name" : "Tale of ZeldaPie",
-      "id" : "243686248710012928",
-      "totalCount" : 19,
-      "botCount" : 14,
-      "userCount" : 5,
-      "percentBots" : 73.6842105263157,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BlackMarket - Boys" : {
-      "name" : "BlackMarket - Boys",
-      "id" : "250158672439672833",
-      "totalCount" : 19,
-      "botCount" : 14,
-      "userCount" : 5,
-      "percentBots" : 73.6842105263157,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ℤψℤ CLAN" : {
-      "name" : "ℤψℤ CLAN",
-      "id" : "243870013579198464",
-      "totalCount" : 49,
-      "botCount" : 36,
-      "userCount" : 13,
-      "percentBots" : 73.469387755102,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Games" : {
-      "name" : "Games",
-      "id" : "238081241151176705",
-      "totalCount" : 15,
-      "botCount" : 11,
-      "userCount" : 4,
-      "percentBots" : 73.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Fun" : {
-      "name" : "Fun",
-      "id" : "203779810911191040",
-      "totalCount" : 15,
-      "botCount" : 11,
-      "userCount" : 4,
-      "percentBots" : 73.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "LoLzeiros Br" : {
-      "name" : "LoLzeiros Br",
-      "id" : "236878274108719114",
-      "totalCount" : 15,
-      "botCount" : 11,
-      "userCount" : 4,
-      "percentBots" : 73.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Work" : {
-      "name" : "The Work",
-      "id" : "247600710504546315",
-      "totalCount" : 15,
-      "botCount" : 11,
-      "userCount" : 4,
-      "percentBots" : 73.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Toxic Huntress" : {
-      "name" : "Toxic Huntress",
-      "id" : "224285472564838400",
-      "totalCount" : 26,
-      "botCount" : 19,
-      "userCount" : 7,
-      "percentBots" : 73.076923076923,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Android Hell" : {
-      "name" : "Android Hell",
-      "id" : "234089164738527232",
-      "totalCount" : 63,
-      "botCount" : 46,
-      "userCount" : 17,
-      "percentBots" : 73.015873015873,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "FLOOPAS" : {
-      "name" : "FLOOPAS",
-      "id" : "188711997393600512",
-      "totalCount" : 18,
-      "botCount" : 13,
-      "userCount" : 5,
-      "percentBots" : 72.2222222222222,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Backstage" : {
-      "name" : "Backstage",
-      "id" : "225284576275070977",
-      "totalCount" : 18,
-      "botCount" : 13,
-      "userCount" : 5,
-      "percentBots" : 72.2222222222222,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Kbsa's Klan" : {
-      "name" : "Kbsa's Klan",
-      "id" : "243082397124526081",
-      "totalCount" : 39,
-      "botCount" : 28,
-      "userCount" : 11,
-      "percentBots" : 71.7948717948718,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BOTS, BOTS EVERYWHERE" : {
-      "name" : "BOTS, BOTS EVERYWHERE",
-      "id" : "241340185269370881",
-      "totalCount" : 53,
-      "botCount" : 38,
-      "userCount" : 15,
-      "percentBots" : 71.6981132075471,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Country of Ylisse" : {
-      "name" : "Country of Ylisse",
-      "id" : "236222553948028928",
-      "totalCount" : 17,
-      "botCount" : 12,
-      "userCount" : 5,
-      "percentBots" : 70.5882352941176,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The German Soviet Union" : {
-      "name" : "The German Soviet Union",
-      "id" : "243546186970038273",
-      "totalCount" : 17,
-      "botCount" : 12,
-      "userCount" : 5,
-      "percentBots" : 70.5882352941176,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Meme Lounge - Overload" : {
-      "name" : "Meme Lounge - Overload",
-      "id" : "242118208734232587",
-      "totalCount" : 71,
-      "botCount" : 50,
-      "userCount" : 21,
-      "percentBots" : 70.4225352112676,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Developers" : {
-      "name" : "Bot Developers",
-      "id" : "239752875297734656",
-      "totalCount" : 27,
-      "botCount" : 19,
-      "userCount" : 8,
-      "percentBots" : 70.3703703703703,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Awesome Time" : {
-      "name" : "Awesome Time",
-      "id" : "234037251942776833",
-      "totalCount" : 27,
-      "botCount" : 19,
-      "userCount" : 8,
-      "percentBots" : 70.3703703703703,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "o3o" : {
-      "name" : "o3o",
-      "id" : "246671956626243594",
-      "totalCount" : 37,
-      "botCount" : 26,
-      "userCount" : 11,
-      "percentBots" : 70.2702702702702,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "AssPringles" : {
-      "name" : "AssPringles",
-      "id" : "224656044083773441",
-      "totalCount" : 20,
-      "botCount" : 14,
-      "userCount" : 6,
-      "percentBots" : 70,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bot Land" : {
-      "name" : "Bot Land",
-      "id" : "217122230012870656",
-      "totalCount" : 43,
-      "botCount" : 30,
-      "userCount" : 13,
-      "percentBots" : 69.7674418604651,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "fair play, sporting attitude" : {
-      "name" : "fair play, sporting attitude",
-      "id" : "148149530255294475",
-      "totalCount" : 72,
-      "botCount" : 50,
-      "userCount" : 22,
-      "percentBots" : 69.4444444444444,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Private Irish Teamspeak" : {
-      "name" : "Private Irish Teamspeak",
-      "id" : "210123760970235905",
-      "totalCount" : 52,
-      "botCount" : 36,
-      "userCount" : 16,
-      "percentBots" : 69.2307692307692,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Roleplay! Live! Life! Nsfw! Sex! Gore! Death! ANARCHY!" : {
-      "name" : "Roleplay! Live! Life! Nsfw! Sex! Gore! Death! ANARCHY!",
-      "id" : "247135030474833920",
-      "totalCount" : 26,
-      "botCount" : 18,
-      "userCount" : 8,
-      "percentBots" : 69.2307692307692,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Noblet" : {
-      "name" : "Noblet",
-      "id" : "188557389673267200",
-      "totalCount" : 65,
-      "botCount" : 45,
-      "userCount" : 20,
-      "percentBots" : 69.2307692307692,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Ghiaccioli Alla Menta" : {
-      "name" : "Ghiaccioli Alla Menta",
-      "id" : "235406162353324032",
-      "totalCount" : 32,
-      "botCount" : 22,
-      "userCount" : 10,
-      "percentBots" : 68.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Russian Barses Clan Discord" : {
-      "name" : "Russian Barses Clan Discord",
-      "id" : "234039100091531264",
-      "totalCount" : 16,
-      "botCount" : 11,
-      "userCount" : 5,
-      "percentBots" : 68.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Pethorum" : {
-      "name" : "Pethorum",
-      "id" : "200332352272990208",
-      "totalCount" : 32,
-      "botCount" : 22,
-      "userCount" : 10,
-      "percentBots" : 68.75,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "o bby" : {
-      "name" : "o bby",
-      "id" : "148328942250622977",
-      "totalCount" : 19,
-      "botCount" : 13,
-      "userCount" : 6,
-      "percentBots" : 68.4210526315789,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Matinhooo" : {
-      "name" : "Matinhooo",
-      "id" : "243847758312767489",
-      "totalCount" : 22,
-      "botCount" : 15,
-      "userCount" : 7,
-      "percentBots" : 68.1818181818181,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Kupuu" : {
-      "name" : "Kupuu",
-      "id" : "171587886221754369",
-      "totalCount" : 49,
-      "botCount" : 33,
-      "userCount" : 16,
-      "percentBots" : 67.3469387755102,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "lubie hszanowe pociągi" : {
-      "name" : "lubie hszanowe pociągi",
-      "id" : "213368409960742922",
-      "totalCount" : 21,
-      "botCount" : 14,
-      "userCount" : 7,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Godteir Brigade" : {
-      "name" : "Godteir Brigade",
-      "id" : "230133650400870400",
-      "totalCount" : 51,
-      "botCount" : 34,
-      "userCount" : 17,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "League of Legends" : {
-      "name" : "League of Legends",
-      "id" : "246046454462808064",
-      "totalCount" : 24,
-      "botCount" : 16,
-      "userCount" : 8,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bacon Lettuce Tomato" : {
-      "name" : "Bacon Lettuce Tomato",
-      "id" : "216069069890125824",
-      "totalCount" : 96,
-      "botCount" : 64,
-      "userCount" : 32,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Secretsubreddit Botland" : {
-      "name" : "Secretsubreddit Botland",
-      "id" : "240682099269435395",
-      "totalCount" : 39,
-      "botCount" : 26,
-      "userCount" : 13,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Rooftop" : {
-      "name" : "The Rooftop",
-      "id" : "211148536547508225",
-      "totalCount" : 24,
-      "botCount" : 16,
-      "userCount" : 8,
-      "percentBots" : 66.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "NIGGAZ" : {
-      "name" : "NIGGAZ",
-      "id" : "241455679691292672",
-      "totalCount" : 26,
-      "botCount" : 17,
-      "userCount" : 9,
-      "percentBots" : 65.3846153846153,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "c h a n n e l" : {
-      "name" : "c h a n n e l",
-      "id" : "240043158728081408",
-      "totalCount" : 20,
-      "botCount" : 13,
-      "userCount" : 7,
-      "percentBots" : 65,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Undertale" : {
-      "name" : "Undertale",
-      "id" : "246249422860713984",
-      "totalCount" : 20,
-      "botCount" : 13,
-      "userCount" : 7,
-      "percentBots" : 65,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "NoVa" : {
-      "name" : "NoVa",
-      "id" : "240229494487515136",
-      "totalCount" : 17,
-      "botCount" : 11,
-      "userCount" : 6,
-      "percentBots" : 64.7058823529411,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Japan" : {
-      "name" : "Japan",
-      "id" : "253626797399212043",
-      "totalCount" : 51,
-      "botCount" : 33,
-      "userCount" : 18,
-      "percentBots" : 64.7058823529411,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "HAVING FUN WITH BOTS" : {
-      "name" : "HAVING FUN WITH BOTS",
-      "id" : "224634879680184320",
-      "totalCount" : 31,
-      "botCount" : 20,
-      "userCount" : 11,
-      "percentBots" : 64.516129032258,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "We are Anonymous" : {
-      "name" : "We are Anonymous",
-      "id" : "226598638988689408",
-      "totalCount" : 19,
-      "botCount" : 12,
-      "userCount" : 7,
-      "percentBots" : 63.1578947368421,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Sniff Snoff Server/ Skormriana grande's Server" : {
-      "name" : "Sniff Snoff Server/ Skormriana grande's Server",
-      "id" : "240331661936427008",
-      "totalCount" : 111,
-      "botCount" : 70,
-      "userCount" : 41,
-      "percentBots" : 63.063063063063,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Trump Wall" : {
-      "name" : "Trump Wall",
-      "id" : "221170295237640192",
-      "totalCount" : 27,
-      "botCount" : 17,
-      "userCount" : 10,
-      "percentBots" : 62.9629629629629,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "⭐[|ANCRAFT|樂塊|SERVER|]⭐" : {
-      "name" : "⭐[|ANCRAFT|樂塊|SERVER|]⭐",
-      "id" : "248342710073819136",
-      "totalCount" : 64,
-      "botCount" : 40,
-      "userCount" : 24,
-      "percentBots" : 62.5,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Spur's  Server" : {
-      "name" : "Spur's  Server",
-      "id" : "224228699237515264",
-      "totalCount" : 42,
-      "botCount" : 26,
-      "userCount" : 16,
-      "percentBots" : 61.9047619047619,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The ultimate chat (bots)" : {
-      "name" : "The ultimate chat (bots)",
-      "id" : "177905265121689600",
-      "totalCount" : 34,
-      "botCount" : 21,
-      "userCount" : 13,
-      "percentBots" : 61.7647058823529,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Abbysal Studios" : {
-      "name" : "Abbysal Studios",
-      "id" : "247686349170147328",
-      "totalCount" : 18,
-      "botCount" : 11,
-      "userCount" : 7,
-      "percentBots" : 61.1111111111111,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Nimnoy's Gang" : {
-      "name" : "Nimnoy's Gang",
-      "id" : "247180734169612298",
-      "totalCount" : 18,
-      "botCount" : 11,
-      "userCount" : 7,
-      "percentBots" : 61.1111111111111,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "The Gaming Lounge" : {
-      "name" : "The Gaming Lounge",
-      "id" : "216704760013783040",
-      "totalCount" : 18,
-      "botCount" : 11,
-      "userCount" : 7,
-      "percentBots" : 61.1111111111111,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "⚡𝐓𝐆⚡ Official Clan Diep.io" : {
-      "name" : "⚡𝐓𝐆⚡ Official Clan Diep.io",
-      "id" : "246263235525869568",
-      "totalCount" : 23,
-      "botCount" : 14,
-      "userCount" : 9,
-      "percentBots" : 60.8695652173913,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Danq Weebsters" : {
-      "name" : "Danq Weebsters",
-      "id" : "197732613085986826",
-      "totalCount" : 51,
-      "botCount" : 31,
-      "userCount" : 20,
-      "percentBots" : 60.7843137254901,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Just Dat server" : {
-      "name" : "Just Dat server",
-      "id" : "252130500993351690",
-      "totalCount" : 28,
-      "botCount" : 17,
-      "userCount" : 11,
-      "percentBots" : 60.7142857142857,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Bots VS Humans" : {
-      "name" : "Bots VS Humans",
-      "id" : "236706075779268609",
-      "totalCount" : 674,
-      "botCount" : 405,
-      "userCount" : 269,
-      "percentBots" : 60.0890207715133,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Conversas" : {
-      "name" : "Conversas",
-      "id" : "247797828947148811",
-      "totalCount" : 20,
-      "botCount" : 12,
-      "userCount" : 8,
-      "percentBots" : 60,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Prexo's Home" : {
-      "name" : "Prexo's Home",
-      "id" : "220253045517189121",
-      "totalCount" : 35,
-      "botCount" : 21,
-      "userCount" : 14,
-      "percentBots" : 60,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Darkwatch's league of Dapper Dandies" : {
-      "name" : "Darkwatch's league of Dapper Dandies",
-      "id" : "210256007639597056",
-      "totalCount" : 37,
-      "botCount" : 22,
-      "userCount" : 15,
-      "percentBots" : 59.4594594594594,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Serious Experiment Rain" : {
-      "name" : "Serious Experiment Rain",
-      "id" : "230429358798536716",
-      "totalCount" : 32,
-      "botCount" : 19,
-      "userCount" : 13,
-      "percentBots" : 59.375,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "MAGIKARP WORSHIP CLUB" : {
-      "name" : "MAGIKARP WORSHIP CLUB",
-      "id" : "231311415544250369",
-      "totalCount" : 27,
-      "botCount" : 16,
-      "userCount" : 11,
-      "percentBots" : 59.2592592592592,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "YEAH-DIUS (KANT KUSS KLAN)" : {
-      "name" : "YEAH-DIUS (KANT KUSS KLAN)",
-      "id" : "231222455581147136",
-      "totalCount" : 27,
-      "botCount" : 16,
-      "userCount" : 11,
-      "percentBots" : 59.2592592592592,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "PPG3_game2" : {
-      "name" : "PPG3_game2",
-      "id" : "214689140355104769",
-      "totalCount" : 27,
-      "botCount" : 16,
-      "userCount" : 11,
-      "percentBots" : 59.2592592592592,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "вселеная БОТОВ" : {
-      "name" : "вселеная БОТОВ",
-      "id" : "230344010869243906",
-      "totalCount" : 51,
-      "botCount" : 30,
-      "userCount" : 21,
-      "percentBots" : 58.8235294117647,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "- Kinky Shit and Bots -" : {
-      "name" : "- Kinky Shit and Bots -",
-      "id" : "232701347793862656",
-      "totalCount" : 48,
-      "botCount" : 28,
-      "userCount" : 20,
-      "percentBots" : 58.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "【≽ܫ≼】Clan" : {
-      "name" : "【≽ܫ≼】Clan",
-      "id" : "230834454094938114",
-      "totalCount" : 19,
-      "botCount" : 11,
-      "userCount" : 8,
-      "percentBots" : 57.8947368421052,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "agar.io" : {
-      "name" : "agar.io",
-      "id" : "229706396369682432",
-      "totalCount" : 26,
-      "botCount" : 15,
-      "userCount" : 11,
-      "percentBots" : 57.6923076923076,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "PC MUSTARD RACE" : {
-      "name" : "PC MUSTARD RACE",
-      "id" : "172457655154114561",
-      "totalCount" : 67,
-      "botCount" : 38,
-      "userCount" : 29,
-      "percentBots" : 56.7164179104477,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Shane's Discord Server" : {
-      "name" : "Shane's Discord Server",
-      "id" : "247572860623650816",
-      "totalCount" : 30,
-      "botCount" : 17,
-      "userCount" : 13,
-      "percentBots" : 56.6666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Lucario Island" : {
-      "name" : "Lucario Island",
-      "id" : "170286126387560448",
-      "totalCount" : 43,
-      "botCount" : 24,
-      "userCount" : 19,
-      "percentBots" : 55.813953488372,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Fuck you" : {
-      "name" : "Fuck you",
-      "id" : "247402765075218432",
-      "totalCount" : 29,
-      "botCount" : 16,
-      "userCount" : 13,
-      "percentBots" : 55.1724137931034,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Clã dos otakus !" : {
-      "name" : "Clã dos otakus !",
-      "id" : "227938066537512960",
-      "totalCount" : 40,
-      "botCount" : 22,
-      "userCount" : 18,
-      "percentBots" : 55,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "【ℕH〗༄Ɲαнz༻诶" : {
-      "name" : "【ℕH〗༄Ɲαнz༻诶",
-      "id" : "221353102819721216",
-      "totalCount" : 68,
-      "botCount" : 37,
-      "userCount" : 31,
-      "percentBots" : 54.4117647058823,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "BlackNight/DemiGodz/Savior" : {
-      "name" : "BlackNight/DemiGodz/Savior",
-      "id" : "226513424501178368",
-      "totalCount" : 155,
-      "botCount" : 84,
-      "userCount" : 71,
-      "percentBots" : 54.1935483870967,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Vamos  a Jugar" : {
-      "name" : "Vamos  a Jugar",
-      "id" : "214859581833216003",
-      "totalCount" : 24,
-      "botCount" : 13,
-      "userCount" : 11,
-      "percentBots" : 54.1666666666666,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Power TYT family's subs/fans" : {
-      "name" : "Power TYT family's subs/fans",
-      "id" : "232940892606955531",
-      "totalCount" : 30,
-      "botCount" : 16,
-      "userCount" : 14,
-      "percentBots" : 53.3333333333333,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "DJ's Needed" : {
-      "name" : "DJ's Needed",
-      "id" : "221806270892474368",
-      "totalCount" : 32,
-      "botCount" : 17,
-      "userCount" : 15,
-      "percentBots" : 53.125,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "SachK Game Servers" : {
-      "name" : "SachK Game Servers",
-      "id" : "163426279599767553",
-      "totalCount" : 21,
-      "botCount" : 11,
-      "userCount" : 10,
-      "percentBots" : 52.3809523809523,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Cammy" : {
-      "name" : "Cammy",
-      "id" : "236564815068266496",
-      "totalCount" : 21,
-      "botCount" : 11,
-      "userCount" : 10,
-      "percentBots" : 52.3809523809523,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Sloth serveur" : {
-      "name" : "Sloth serveur",
-      "id" : "235113810569068545",
-      "totalCount" : 23,
-      "botCount" : 12,
-      "userCount" : 11,
-      "percentBots" : 52.1739130434782,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Anarchism Bot Dev" : {
-      "name" : "Anarchism Bot Dev",
-      "id" : "199930181828345856",
-      "totalCount" : 27,
-      "botCount" : 14,
-      "userCount" : 13,
-      "percentBots" : 51.8518518518518,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "DoM" : {
-      "name" : "DoM",
-      "id" : "247753672782512130",
-      "totalCount" : 29,
-      "botCount" : 15,
-      "userCount" : 14,
-      "percentBots" : 51.7241379310344,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "HERESY" : {
-      "name" : "HERESY",
-      "id" : "197191094499409932",
-      "totalCount" : 41,
-      "botCount" : 21,
-      "userCount" : 20,
-      "percentBots" : 51.2195121951219,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Demigod's Server" : {
-      "name" : "Demigod's Server",
-      "id" : "236619388441067521",
-      "totalCount" : 26,
-      "botCount" : 13,
-      "userCount" : 13,
-      "percentBots" : 50,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "TGC - True Gaming Cat - Season 4" : {
-      "name" : "TGC - True Gaming Cat - Season 4",
-      "id" : "194280593897422852",
-      "totalCount" : 22,
-      "botCount" : 11,
-      "userCount" : 11,
-      "percentBots" : 50,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "ColeVers Discord" : {
-      "name" : "ColeVers Discord",
-      "id" : "250793927492239360",
-      "totalCount" : 30,
-      "botCount" : 15,
-      "userCount" : 15,
-      "percentBots" : 50,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "chiken chat" : {
-      "name" : "chiken chat",
-      "id" : "247037550890450944",
-      "totalCount" : 24,
-      "botCount" : 12,
-      "userCount" : 12,
-      "percentBots" : 50,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    },
-    "Snowhammer's Potato Fields of Epicness" : {
-      "name" : "Snowhammer's Potato Fields of Epicness",
-      "id" : "212843419893104640",
-      "totalCount" : 53,
-      "botCount" : 26,
-      "userCount" : 27,
-      "percentBots" : 49.0566037735849,
-      "timestamp" : "2016-12-04T17:12:00.000Z"
-    }
-  },
-  "Sheet1" : {
-    "Vap0r1ze" : {
-      "Discord Bots" : "Vap0r1ze",
-      "110373943822540800" : "209814152288403457",
-      "5315" : 488,
-      "783" : 91,
-      "4532" : 397,
-      "14.7318908748824" : 18.6475409836065
-    }
-  }
+{  
+   "se":{  
+      "name":"se",
+      "id":"223648062696849408",
+      "totalCount":158,
+      "botCount":157,
+      "userCount":1,
+      "percentBots":99.3670886075949,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "robot hell":{  
+      "name":"robot hell",
+      "id":"246076211367772160",
+      "totalCount":99,
+      "botCount":98,
+      "userCount":1,
+      "percentBots":98.9898989898989,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Six Hours of Unrelated Memes":{  
+      "name":"Six Hours of Unrelated Memes",
+      "id":"251473672915648512",
+      "totalCount":96,
+      "botCount":95,
+      "userCount":1,
+      "percentBots":98.9583333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "KeeganCoBotTesting":{  
+      "name":"KeeganCoBotTesting",
+      "id":"245312912317480962",
+      "totalCount":75,
+      "botCount":74,
+      "userCount":1,
+      "percentBots":98.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Haven":{  
+      "name":"Bot Haven",
+      "id":"235718371499442176",
+      "totalCount":67,
+      "botCount":66,
+      "userCount":1,
+      "percentBots":98.5074626865671,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Seven & Nath's Bot Arcade":{  
+      "name":"Seven & Nath's Bot Arcade",
+      "id":"203311783362953216",
+      "totalCount":128,
+      "botCount":126,
+      "userCount":2,
+      "percentBots":98.4375,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "WorldWide Official Youtuber Server!":{  
+      "name":"WorldWide Official Youtuber Server!",
+      "id":"253379683859693568",
+      "totalCount":112,
+      "botCount":110,
+      "userCount":2,
+      "percentBots":98.2142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Wowie dms":{  
+      "name":"Wowie dms",
+      "id":"250965284079403009",
+      "totalCount":100,
+      "botCount":98,
+      "userCount":2,
+      "percentBots":98,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "HOLY SHIT":{  
+      "name":"HOLY SHIT",
+      "id":"243026339043606531",
+      "totalCount":99,
+      "botCount":97,
+      "userCount":2,
+      "percentBots":97.9797979797979,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Ratz":{  
+      "name":"Ratz",
+      "id":"229268118394896384",
+      "totalCount":49,
+      "botCount":48,
+      "userCount":1,
+      "percentBots":97.9591836734693,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bots Español":{  
+      "name":"Bots Español",
+      "id":"238387482402488320",
+      "totalCount":96,
+      "botCount":94,
+      "userCount":2,
+      "percentBots":97.9166666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "...":{  
+      "name":"...",
+      "id":"244886873233817602",
+      "totalCount":48,
+      "botCount":47,
+      "userCount":1,
+      "percentBots":97.9166666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BOTS":{  
+      "name":"BOTS",
+      "id":"219776999110082560",
+      "totalCount":92,
+      "botCount":90,
+      "userCount":2,
+      "percentBots":97.8260869565217,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot_Paradise™":{  
+      "name":"Bot_Paradise™",
+      "id":"177386884077453312",
+      "totalCount":270,
+      "botCount":264,
+      "userCount":6,
+      "percentBots":97.7777777777777,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Vija    yIsABitch":{  
+      "name":"Vija    yIsABitch",
+      "id":"229419221837152256",
+      "totalCount":45,
+      "botCount":44,
+      "userCount":1,
+      "percentBots":97.7777777777777,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Aethex Hub":{  
+      "name":"Aethex Hub",
+      "id":"229365768972795905",
+      "totalCount":89,
+      "botCount":87,
+      "userCount":2,
+      "percentBots":97.752808988764,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Ugly People":{  
+      "name":"Ugly People",
+      "id":"228302991495659530",
+      "totalCount":89,
+      "botCount":87,
+      "userCount":2,
+      "percentBots":97.752808988764,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BotServ":{  
+      "name":"BotServ",
+      "id":"247119199359598593",
+      "totalCount":88,
+      "botCount":86,
+      "userCount":2,
+      "percentBots":97.7272727272727,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "85 botuf ( ͡° ͜ʖ ͡°)":{  
+      "name":"85 botuf ( ͡° ͜ʖ ͡°)",
+      "id":"236638472956411904",
+      "totalCount":85,
+      "botCount":83,
+      "userCount":2,
+      "percentBots":97.6470588235294,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "azzam":{  
+      "name":"azzam",
+      "id":"196186408317091840",
+      "totalCount":169,
+      "botCount":165,
+      "userCount":4,
+      "percentBots":97.6331360946745,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot101":{  
+      "name":"Bot101",
+      "id":"249725255436861441",
+      "totalCount":168,
+      "botCount":164,
+      "userCount":4,
+      "percentBots":97.6190476190476,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Liver":{  
+      "name":"Liver",
+      "id":"245070094303100929",
+      "totalCount":41,
+      "botCount":40,
+      "userCount":1,
+      "percentBots":97.5609756097561,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ALL THE BOTS":{  
+      "name":"ALL THE BOTS",
+      "id":"225345125092425738",
+      "totalCount":81,
+      "botCount":79,
+      "userCount":2,
+      "percentBots":97.5308641975308,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "akace100":{  
+      "name":"akace100",
+      "id":"187006690439331840",
+      "totalCount":81,
+      "botCount":79,
+      "userCount":2,
+      "percentBots":97.5308641975308,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "💯💯":{  
+      "name":"💯💯",
+      "id":"221466967393959936",
+      "totalCount":80,
+      "botCount":78,
+      "userCount":2,
+      "percentBots":97.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Mika's Night Club 2.0":{  
+      "name":"Mika's Night Club 2.0",
+      "id":"236792189319905290",
+      "totalCount":40,
+      "botCount":39,
+      "userCount":1,
+      "percentBots":97.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "YT national":{  
+      "name":"YT national",
+      "id":"217086101167276043",
+      "totalCount":78,
+      "botCount":76,
+      "userCount":2,
+      "percentBots":97.4358974358974,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "dubstoned.":{  
+      "name":"dubstoned.",
+      "id":"217401667279257601",
+      "totalCount":78,
+      "botCount":76,
+      "userCount":2,
+      "percentBots":97.4358974358974,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Discord Testing":{  
+      "name":"Discord Testing",
+      "id":"224600541584556033",
+      "totalCount":152,
+      "botCount":148,
+      "userCount":4,
+      "percentBots":97.3684210526315,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Cafe":{  
+      "name":"Bot Cafe",
+      "id":"214296335124267008",
+      "totalCount":37,
+      "botCount":36,
+      "userCount":1,
+      "percentBots":97.2972972972973,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Taco's Restaurant":{  
+      "name":"Taco's Restaurant",
+      "id":"224378497970339840",
+      "totalCount":37,
+      "botCount":36,
+      "userCount":1,
+      "percentBots":97.2972972972973,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testing Server":{  
+      "name":"Bot Testing Server",
+      "id":"235527041552875520",
+      "totalCount":73,
+      "botCount":71,
+      "userCount":2,
+      "percentBots":97.2602739726027,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "House Of Bots":{  
+      "name":"House Of Bots",
+      "id":"232987057130176512",
+      "totalCount":108,
+      "botCount":105,
+      "userCount":3,
+      "percentBots":97.2222222222222,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Idk":{  
+      "name":"Idk",
+      "id":"251486545641472001",
+      "totalCount":34,
+      "botCount":33,
+      "userCount":1,
+      "percentBots":97.0588235294117,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ພຮะຮๅມ":{  
+      "name":"ພຮะຮๅມ",
+      "id":"247293528286298113",
+      "totalCount":67,
+      "botCount":65,
+      "userCount":2,
+      "percentBots":97.0149253731343,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "lonely corner":{  
+      "name":"lonely corner",
+      "id":"243832493395017728",
+      "totalCount":99,
+      "botCount":96,
+      "userCount":3,
+      "percentBots":96.9696969696969,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot testing":{  
+      "name":"bot testing",
+      "id":"253031475815907329",
+      "totalCount":99,
+      "botCount":96,
+      "userCount":3,
+      "percentBots":96.9696969696969,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Server":{  
+      "name":"Bot Server",
+      "id":"239515791601565696",
+      "totalCount":98,
+      "botCount":95,
+      "userCount":3,
+      "percentBots":96.938775510204,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "SO OS LOCAO":{  
+      "name":"SO OS LOCAO",
+      "id":"241222572019023873",
+      "totalCount":31,
+      "botCount":30,
+      "userCount":1,
+      "percentBots":96.7741935483871,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bots":{  
+      "name":"bots",
+      "id":"240246273180041226",
+      "totalCount":122,
+      "botCount":118,
+      "userCount":4,
+      "percentBots":96.7213114754098,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lenny":{  
+      "name":"Lenny",
+      "id":"226845169213767680",
+      "totalCount":364,
+      "botCount":351,
+      "userCount":13,
+      "percentBots":96.4285714285714,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Fight":{  
+      "name":"Bot Fight",
+      "id":"245586550354608129",
+      "totalCount":112,
+      "botCount":108,
+      "userCount":4,
+      "percentBots":96.4285714285714,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Bots Server":{  
+      "name":"The Bots Server",
+      "id":"222578579521667072",
+      "totalCount":83,
+      "botCount":80,
+      "userCount":3,
+      "percentBots":96.3855421686747,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "[CS:GO]":{  
+      "name":"[CS:GO]",
+      "id":"237194377892593666",
+      "totalCount":27,
+      "botCount":26,
+      "userCount":1,
+      "percentBots":96.2962962962962,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Wind Games™  (Official)":{  
+      "name":"Wind Games™  (Official)",
+      "id":"249637368557076480",
+      "totalCount":54,
+      "botCount":52,
+      "userCount":2,
+      "percentBots":96.2962962962962,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Hi4BotSpam":{  
+      "name":"Hi4BotSpam",
+      "id":"217642397096607744",
+      "totalCount":80,
+      "botCount":77,
+      "userCount":3,
+      "percentBots":96.25,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "VCG Violent community gaming":{  
+      "name":"VCG Violent community gaming",
+      "id":"225701867089297408",
+      "totalCount":26,
+      "botCount":25,
+      "userCount":1,
+      "percentBots":96.1538461538461,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "anime":{  
+      "name":"anime",
+      "id":"162980042320773120",
+      "totalCount":26,
+      "botCount":25,
+      "userCount":1,
+      "percentBots":96.1538461538461,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Play Doblons.io Gaming":{  
+      "name":"Play Doblons.io Gaming",
+      "id":"249993990932398084",
+      "totalCount":26,
+      "botCount":25,
+      "userCount":1,
+      "percentBots":96.1538461538461,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Where The Bots Live":{  
+      "name":"Where The Bots Live",
+      "id":"239643230256365569",
+      "totalCount":25,
+      "botCount":24,
+      "userCount":1,
+      "percentBots":96,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Tuapuni":{  
+      "name":"Tuapuni",
+      "id":"176645703731249152",
+      "totalCount":49,
+      "botCount":47,
+      "userCount":2,
+      "percentBots":95.9183673469387,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Um":{  
+      "name":"Um",
+      "id":"221998987647909888",
+      "totalCount":97,
+      "botCount":93,
+      "userCount":4,
+      "percentBots":95.8762886597938,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Home":{  
+      "name":"Home",
+      "id":"133305945588629504",
+      "totalCount":91,
+      "botCount":87,
+      "userCount":4,
+      "percentBots":95.6043956043956,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot haven":{  
+      "name":"bot haven",
+      "id":"216886578423922688",
+      "totalCount":157,
+      "botCount":150,
+      "userCount":7,
+      "percentBots":95.5414012738853,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Private_Message DEAD Chat":{  
+      "name":"Private_Message DEAD Chat",
+      "id":"236589450077929482",
+      "totalCount":87,
+      "botCount":83,
+      "userCount":4,
+      "percentBots":95.4022988505747,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BOTS":{  
+      "name":"BOTS",
+      "id":"244525036508020737",
+      "totalCount":87,
+      "botCount":83,
+      "userCount":4,
+      "percentBots":95.4022988505747,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BOT TEST SERVER":{  
+      "name":"BOT TEST SERVER",
+      "id":"245790294975447040",
+      "totalCount":103,
+      "botCount":98,
+      "userCount":5,
+      "percentBots":95.1456310679611,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Browse Assistant Dev Server":{  
+      "name":"Browse Assistant Dev Server",
+      "id":"219123010131591169",
+      "totalCount":41,
+      "botCount":39,
+      "userCount":2,
+      "percentBots":95.1219512195122,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Server":{  
+      "name":"Bot Server",
+      "id":"239890058314776577",
+      "totalCount":143,
+      "botCount":136,
+      "userCount":7,
+      "percentBots":95.1048951048951,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "te":{  
+      "name":"te",
+      "id":"217882932100988931",
+      "totalCount":81,
+      "botCount":77,
+      "userCount":4,
+      "percentBots":95.0617283950617,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Mi server de bots":{  
+      "name":"Mi server de bots",
+      "id":"242014617503531009",
+      "totalCount":81,
+      "botCount":77,
+      "userCount":4,
+      "percentBots":95.0617283950617,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Test Public":{  
+      "name":"Test Public",
+      "id":"224518526289838080",
+      "totalCount":20,
+      "botCount":19,
+      "userCount":1,
+      "percentBots":95,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bitchbois":{  
+      "name":"bitchbois",
+      "id":"251487498205659137",
+      "totalCount":20,
+      "botCount":19,
+      "userCount":1,
+      "percentBots":95,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Heaven V2":{  
+      "name":"Bot Heaven V2",
+      "id":"252823941511380993",
+      "totalCount":20,
+      "botCount":19,
+      "userCount":1,
+      "percentBots":95,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Karnage":{  
+      "name":"Karnage",
+      "id":"221758516640219136",
+      "totalCount":99,
+      "botCount":94,
+      "userCount":5,
+      "percentBots":94.9494949494949,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Cracked!":{  
+      "name":"Cracked!",
+      "id":"242760162039824394",
+      "totalCount":158,
+      "botCount":150,
+      "userCount":8,
+      "percentBots":94.9367088607595,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Nargothrond":{  
+      "name":"Nargothrond",
+      "id":"225310619048476672",
+      "totalCount":59,
+      "botCount":56,
+      "userCount":3,
+      "percentBots":94.9152542372881,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Hell":{  
+      "name":"Bot Hell",
+      "id":"227592406537732096",
+      "totalCount":98,
+      "botCount":93,
+      "userCount":5,
+      "percentBots":94.8979591836734,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Diep.io":{  
+      "name":"Diep.io",
+      "id":"239780603124383744",
+      "totalCount":19,
+      "botCount":18,
+      "userCount":1,
+      "percentBots":94.7368421052631,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Townsville":{  
+      "name":"Townsville",
+      "id":"98525107546238976",
+      "totalCount":74,
+      "botCount":70,
+      "userCount":4,
+      "percentBots":94.5945945945946,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Reboot":{  
+      "name":"Reboot",
+      "id":"186826137446514688",
+      "totalCount":37,
+      "botCount":35,
+      "userCount":2,
+      "percentBots":94.5945945945946,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "._.":{  
+      "name":"._.",
+      "id":"217559184231759873",
+      "totalCount":92,
+      "botCount":87,
+      "userCount":5,
+      "percentBots":94.5652173913043,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Shinoa":{  
+      "name":"Shinoa",
+      "id":"245467032538185729",
+      "totalCount":36,
+      "botCount":34,
+      "userCount":2,
+      "percentBots":94.4444444444444,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Windows XP Bot":{  
+      "name":"Windows XP Bot",
+      "id":"239829095351844875",
+      "totalCount":36,
+      "botCount":34,
+      "userCount":2,
+      "percentBots":94.4444444444444,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Dino":{  
+      "name":"Dino",
+      "id":"244695479294754816",
+      "totalCount":123,
+      "botCount":116,
+      "userCount":7,
+      "percentBots":94.3089430894309,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   ".....":{  
+      "name":".....",
+      "id":"241197481793290241",
+      "totalCount":35,
+      "botCount":33,
+      "userCount":2,
+      "percentBots":94.2857142857142,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "tea":{  
+      "name":"tea",
+      "id":"217882278590808064",
+      "totalCount":70,
+      "botCount":66,
+      "userCount":4,
+      "percentBots":94.2857142857142,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "cool gamer and need a mincraft account for free mine got hacked please help me":{  
+      "name":"cool gamer and need a mincraft account for free mine got hacked please help me",
+      "id":"248208499790577664",
+      "totalCount":35,
+      "botCount":33,
+      "userCount":2,
+      "percentBots":94.2857142857142,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Mumble Beta v0.3":{  
+      "name":"Mumble Beta v0.3",
+      "id":"220693539309355009",
+      "totalCount":86,
+      "botCount":81,
+      "userCount":5,
+      "percentBots":94.1860465116279,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TheDump":{  
+      "name":"TheDump",
+      "id":"229049492371013632",
+      "totalCount":103,
+      "botCount":97,
+      "userCount":6,
+      "percentBots":94.1747572815534,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Stinge Cunts":{  
+      "name":"Stinge Cunts",
+      "id":"230669464939528193",
+      "totalCount":103,
+      "botCount":97,
+      "userCount":6,
+      "percentBots":94.1747572815534,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ichangedthenamecuziamforeverlone":{  
+      "name":"ichangedthenamecuziamforeverlone",
+      "id":"244256792153030666",
+      "totalCount":17,
+      "botCount":16,
+      "userCount":1,
+      "percentBots":94.1176470588235,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Vinny's  Squad":{  
+      "name":"Vinny's  Squad",
+      "id":"237320100095590401",
+      "totalCount":17,
+      "botCount":16,
+      "userCount":1,
+      "percentBots":94.1176470588235,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Nigga's":{  
+      "name":"Nigga's",
+      "id":"222679839713394688",
+      "totalCount":50,
+      "botCount":47,
+      "userCount":3,
+      "percentBots":94,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Wierd Chat":{  
+      "name":"Wierd Chat",
+      "id":"228198901474131969",
+      "totalCount":65,
+      "botCount":61,
+      "userCount":4,
+      "percentBots":93.8461538461538,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "yoB yzaL's Server":{  
+      "name":"yoB yzaL's Server",
+      "id":"251117750024536064",
+      "totalCount":16,
+      "botCount":15,
+      "userCount":1,
+      "percentBots":93.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testing":{  
+      "name":"Bot Testing",
+      "id":"234191618561802251",
+      "totalCount":32,
+      "botCount":30,
+      "userCount":2,
+      "percentBots":93.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Test":{  
+      "name":"Test",
+      "id":"238860129573797890",
+      "totalCount":16,
+      "botCount":15,
+      "userCount":1,
+      "percentBots":93.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "anarchy :P":{  
+      "name":"anarchy :P",
+      "id":"249298858641850368",
+      "totalCount":16,
+      "botCount":15,
+      "userCount":1,
+      "percentBots":93.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Test1":{  
+      "name":"Test1",
+      "id":"208354185068937216",
+      "totalCount":16,
+      "botCount":15,
+      "userCount":1,
+      "percentBots":93.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Nothing To See Here":{  
+      "name":"Nothing To See Here",
+      "id":"158848777371779072",
+      "totalCount":31,
+      "botCount":29,
+      "userCount":2,
+      "percentBots":93.5483870967741,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Bash":{  
+      "name":"Bot Bash",
+      "id":"239093240798642177",
+      "totalCount":77,
+      "botCount":72,
+      "userCount":5,
+      "percentBots":93.5064935064935,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "from the guy name ace":{  
+      "name":"from the guy name ace",
+      "id":"196125919138545665",
+      "totalCount":15,
+      "botCount":14,
+      "userCount":1,
+      "percentBots":93.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Staff Wizards":{  
+      "name":"Staff Wizards",
+      "id":"250656934321979394",
+      "totalCount":45,
+      "botCount":42,
+      "userCount":3,
+      "percentBots":93.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Chat Server":{  
+      "name":"Chat Server",
+      "id":"241231828491567104",
+      "totalCount":29,
+      "botCount":27,
+      "userCount":2,
+      "percentBots":93.103448275862,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Dank Bot Island":{  
+      "name":"Dank Bot Island",
+      "id":"228968993547878400",
+      "totalCount":57,
+      "botCount":53,
+      "userCount":4,
+      "percentBots":92.9824561403508,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "『𝓓𝓙 𝓯𝓲𝓮𝓼𝓽𝓪 』🐺 [Testing]":{  
+      "name":"『𝓓𝓙 𝓯𝓲𝓮𝓼𝓽𝓪 』🐺 [Testing]",
+      "id":"232027005237854209",
+      "totalCount":14,
+      "botCount":13,
+      "userCount":1,
+      "percentBots":92.8571428571428,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TEST":{  
+      "name":"TEST",
+      "id":"214450930270076928",
+      "totalCount":14,
+      "botCount":13,
+      "userCount":1,
+      "percentBots":92.8571428571428,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "gergergergerger":{  
+      "name":"gergergergerger",
+      "id":"244128598846472192",
+      "totalCount":14,
+      "botCount":13,
+      "userCount":1,
+      "percentBots":92.8571428571428,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot country back up":{  
+      "name":"bot country back up",
+      "id":"246736265397927936",
+      "totalCount":262,
+      "botCount":243,
+      "userCount":19,
+      "percentBots":92.7480916030534,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Better Furballs":{  
+      "name":"The Better Furballs",
+      "id":"248630487419977728",
+      "totalCount":123,
+      "botCount":114,
+      "userCount":9,
+      "percentBots":92.6829268292683,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "lol talk":{  
+      "name":"lol talk",
+      "id":"238021569576828928",
+      "totalCount":27,
+      "botCount":25,
+      "userCount":2,
+      "percentBots":92.5925925925926,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Hell":{  
+      "name":"Bot Hell",
+      "id":"236920058125746177",
+      "totalCount":54,
+      "botCount":50,
+      "userCount":4,
+      "percentBots":92.5925925925926,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "corner's pond! Btw, don't die":{  
+      "name":"corner's pond! Btw, don't die",
+      "id":"178132444984246272",
+      "totalCount":54,
+      "botCount":50,
+      "userCount":4,
+      "percentBots":92.5925925925926,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Landfill":{  
+      "name":"Landfill",
+      "id":"246073224255766528",
+      "totalCount":93,
+      "botCount":86,
+      "userCount":7,
+      "percentBots":92.4731182795698,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "secret lair":{  
+      "name":"secret lair",
+      "id":"209992951282139137",
+      "totalCount":79,
+      "botCount":73,
+      "userCount":6,
+      "percentBots":92.4050632911392,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Toasty Memes Squad":{  
+      "name":"Toasty Memes Squad",
+      "id":"236229531273396224",
+      "totalCount":65,
+      "botCount":60,
+      "userCount":5,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "все":{  
+      "name":"все",
+      "id":"240470404588634112",
+      "totalCount":26,
+      "botCount":24,
+      "userCount":2,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "in stereo":{  
+      "name":"in stereo",
+      "id":213276571811840000,
+      "totalCount":13,
+      "botCount":12,
+      "userCount":1,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TEAMB3TA":{  
+      "name":"TEAMB3TA",
+      "id":"108640574533308416",
+      "totalCount":39,
+      "botCount":36,
+      "userCount":3,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Maldives":{  
+      "name":"Maldives",
+      "id":"236898424660819968",
+      "totalCount":13,
+      "botCount":12,
+      "userCount":1,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Winter Han Solo Tournament":{  
+      "name":"Winter Han Solo Tournament",
+      "id":"230047774219960331",
+      "totalCount":13,
+      "botCount":12,
+      "userCount":1,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "MasterGaming":{  
+      "name":"MasterGaming",
+      "id":"242327992125227009",
+      "totalCount":13,
+      "botCount":12,
+      "userCount":1,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Hello Darkness My Old Friend":{  
+      "name":"Hello Darkness My Old Friend",
+      "id":"240218142456938496",
+      "totalCount":13,
+      "botCount":12,
+      "userCount":1,
+      "percentBots":92.3076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lonely Squad+2 Homeless Ppl":{  
+      "name":"Lonely Squad+2 Homeless Ppl",
+      "id":"217483402176102402",
+      "totalCount":103,
+      "botCount":95,
+      "userCount":8,
+      "percentBots":92.2330097087378,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Central":{  
+      "name":"Bot Central",
+      "id":"163750975079841793",
+      "totalCount":102,
+      "botCount":94,
+      "userCount":8,
+      "percentBots":92.156862745098,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Micro's House":{  
+      "name":"Micro's House",
+      "id":"251358110638276609",
+      "totalCount":38,
+      "botCount":35,
+      "userCount":3,
+      "percentBots":92.1052631578947,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Dire Maul":{  
+      "name":"Dire Maul",
+      "id":"187792173603749888",
+      "totalCount":38,
+      "botCount":35,
+      "userCount":3,
+      "percentBots":92.1052631578947,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "meme":{  
+      "name":"meme",
+      "id":"230411372305973249",
+      "totalCount":100,
+      "botCount":92,
+      "userCount":8,
+      "percentBots":92,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Teddy bear fans":{  
+      "name":"Teddy bear fans",
+      "id":"238401902814035976",
+      "totalCount":12,
+      "botCount":11,
+      "userCount":1,
+      "percentBots":91.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lithuania's Adventurer Travel":{  
+      "name":"Lithuania's Adventurer Travel",
+      "id":"250355672955355136",
+      "totalCount":12,
+      "botCount":11,
+      "userCount":1,
+      "percentBots":91.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ΔƤ❂Clan":{  
+      "name":"ΔƤ❂Clan",
+      "id":"237982747723956224",
+      "totalCount":12,
+      "botCount":11,
+      "userCount":1,
+      "percentBots":91.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "DaFreaks Gaming":{  
+      "name":"DaFreaks Gaming",
+      "id":"100758698023997440",
+      "totalCount":12,
+      "botCount":11,
+      "userCount":1,
+      "percentBots":91.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Tsuna's World":{  
+      "name":"Tsuna's World",
+      "id":"234674540591054849",
+      "totalCount":12,
+      "botCount":11,
+      "userCount":1,
+      "percentBots":91.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Sirius Diep Agar Slither Games":{  
+      "name":"Sirius Diep Agar Slither Games",
+      "id":"249952513736966144",
+      "totalCount":47,
+      "botCount":43,
+      "userCount":4,
+      "percentBots":91.4893617021276,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Test":{  
+      "name":"Test",
+      "id":"214966600770519041",
+      "totalCount":35,
+      "botCount":32,
+      "userCount":3,
+      "percentBots":91.4285714285714,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TDSK Gaming Room":{  
+      "name":"TDSK Gaming Room",
+      "id":"222462442393829376",
+      "totalCount":93,
+      "botCount":85,
+      "userCount":8,
+      "percentBots":91.3978494623655,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Olibols Official! BOT INSANITY!":{  
+      "name":"Olibols Official! BOT INSANITY!",
+      "id":"232915717152833537",
+      "totalCount":185,
+      "botCount":169,
+      "userCount":16,
+      "percentBots":91.3513513513513,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "fucking cunt":{  
+      "name":"fucking cunt",
+      "id":"235622824721514496",
+      "totalCount":23,
+      "botCount":21,
+      "userCount":2,
+      "percentBots":91.3043478260869,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Servidor Teste Bots":{  
+      "name":"Servidor Teste Bots",
+      "id":"249320110676901888",
+      "totalCount":23,
+      "botCount":21,
+      "userCount":2,
+      "percentBots":91.3043478260869,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "poooooo":{  
+      "name":"poooooo",
+      "id":"246991651573071882",
+      "totalCount":56,
+      "botCount":51,
+      "userCount":5,
+      "percentBots":91.0714285714285,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Praise Maxwell":{  
+      "name":"Praise Maxwell",
+      "id":"243168355240902656",
+      "totalCount":111,
+      "botCount":101,
+      "userCount":10,
+      "percentBots":90.990990990991,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "My best discord":{  
+      "name":"My best discord",
+      "id":"239417575958642690",
+      "totalCount":22,
+      "botCount":20,
+      "userCount":2,
+      "percentBots":90.9090909090909,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Music Sentral Mod Servers":{  
+      "name":"Music Sentral Mod Servers",
+      "id":240219409350656000,
+      "totalCount":33,
+      "botCount":30,
+      "userCount":3,
+      "percentBots":90.9090909090909,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Bot Central":{  
+      "name":"The Bot Central",
+      "id":"246456192719781889",
+      "totalCount":75,
+      "botCount":68,
+      "userCount":7,
+      "percentBots":90.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot warfare":{  
+      "name":"bot warfare",
+      "id":"249367508664975361",
+      "totalCount":71,
+      "botCount":64,
+      "userCount":7,
+      "percentBots":90.1408450704225,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Boats [Bots]":{  
+      "name":"Boats [Bots]",
+      "id":"210383939871834112",
+      "totalCount":101,
+      "botCount":91,
+      "userCount":10,
+      "percentBots":90.0990099009901,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bordelands":{  
+      "name":"Bordelands",
+      "id":"235849903677505537",
+      "totalCount":101,
+      "botCount":91,
+      "userCount":10,
+      "percentBots":90.0990099009901,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "RPG Server - Reavoken":{  
+      "name":"RPG Server - Reavoken",
+      "id":"241632171708645376",
+      "totalCount":20,
+      "botCount":18,
+      "userCount":2,
+      "percentBots":90,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot hhhhhhhh":{  
+      "name":"bot hhhhhhhh",
+      "id":"231290016268156928",
+      "totalCount":40,
+      "botCount":36,
+      "userCount":4,
+      "percentBots":90,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Random weird server":{  
+      "name":"Random weird server",
+      "id":"228670620160753664",
+      "totalCount":50,
+      "botCount":45,
+      "userCount":5,
+      "percentBots":90,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Operation Valkyrie":{  
+      "name":"Operation Valkyrie",
+      "id":"224697224746106890",
+      "totalCount":108,
+      "botCount":97,
+      "userCount":11,
+      "percentBots":89.8148148148148,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "JDTMQG ARMY COMMUNITY CHAT":{  
+      "name":"JDTMQG ARMY COMMUNITY CHAT",
+      "id":"194915469633912832",
+      "totalCount":49,
+      "botCount":44,
+      "userCount":5,
+      "percentBots":89.7959183673469,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "xcvxcvcvxcvxcvx":{  
+      "name":"xcvxcvcvxcvxcvx",
+      "id":"242731433670475777",
+      "totalCount":49,
+      "botCount":44,
+      "userCount":5,
+      "percentBots":89.7959183673469,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "roggar and i fun time":{  
+      "name":"roggar and i fun time",
+      "id":"244962823640317952",
+      "totalCount":29,
+      "botCount":26,
+      "userCount":3,
+      "percentBots":89.6551724137931,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pussy Slayers":{  
+      "name":"Pussy Slayers",
+      "id":"244618176929857546",
+      "totalCount":29,
+      "botCount":26,
+      "userCount":3,
+      "percentBots":89.6551724137931,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "funtime factory:adventures in gwain":{  
+      "name":"funtime factory:adventures in gwain",
+      "id":"236586151387856897",
+      "totalCount":48,
+      "botCount":43,
+      "userCount":5,
+      "percentBots":89.5833333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "beep":{  
+      "name":"beep",
+      "id":"237028262625280001",
+      "totalCount":19,
+      "botCount":17,
+      "userCount":2,
+      "percentBots":89.4736842105263,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testerino":{  
+      "name":"Bot Testerino",
+      "id":"243860899616522251",
+      "totalCount":19,
+      "botCount":17,
+      "userCount":2,
+      "percentBots":89.4736842105263,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Private discord":{  
+      "name":"Private discord",
+      "id":"224322080538099712",
+      "totalCount":131,
+      "botCount":117,
+      "userCount":14,
+      "percentBots":89.3129770992366,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Riolu's Discord":{  
+      "name":"Riolu's Discord",
+      "id":"218857752095621120",
+      "totalCount":56,
+      "botCount":50,
+      "userCount":6,
+      "percentBots":89.2857142857142,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Jamers":{  
+      "name":"Jamers",
+      "id":"249909321700343808",
+      "totalCount":28,
+      "botCount":25,
+      "userCount":3,
+      "percentBots":89.2857142857142,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testing":{  
+      "name":"Bot Testing",
+      "id":"221369228333154305",
+      "totalCount":46,
+      "botCount":41,
+      "userCount":5,
+      "percentBots":89.1304347826086,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Layanor's Mind":{  
+      "name":"Layanor's Mind",
+      "id":"121353091999072258",
+      "totalCount":18,
+      "botCount":16,
+      "userCount":2,
+      "percentBots":88.8888888888888,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "International Discord Machine":{  
+      "name":"International Discord Machine",
+      "id":"223555766127165441",
+      "totalCount":108,
+      "botCount":96,
+      "userCount":12,
+      "percentBots":88.8888888888888,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "unturned gaming":{  
+      "name":"unturned gaming",
+      "id":"241919430680903680",
+      "totalCount":18,
+      "botCount":16,
+      "userCount":2,
+      "percentBots":88.8888888888888,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The All bots server":{  
+      "name":"The All bots server",
+      "id":"249340854639132682",
+      "totalCount":54,
+      "botCount":48,
+      "userCount":6,
+      "percentBots":88.8888888888888,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Chat of people":{  
+      "name":"Chat of people",
+      "id":"143390437992824832",
+      "totalCount":98,
+      "botCount":87,
+      "userCount":11,
+      "percentBots":88.7755102040816,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "uxelon hotel":{  
+      "name":"uxelon hotel",
+      "id":"247878524109717505",
+      "totalCount":26,
+      "botCount":23,
+      "userCount":3,
+      "percentBots":88.4615384615384,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Derk's Bot Testing Sever":{  
+      "name":"Derk's Bot Testing Sever",
+      "id":"251445783688249344",
+      "totalCount":78,
+      "botCount":69,
+      "userCount":9,
+      "percentBots":88.4615384615384,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "A lot of bots":{  
+      "name":"A lot of bots",
+      "id":"204392937851715584",
+      "totalCount":147,
+      "botCount":130,
+      "userCount":17,
+      "percentBots":88.4353741496598,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TEST SERVER DESTROY THIS":{  
+      "name":"TEST SERVER DESTROY THIS",
+      "id":"225314366285807617",
+      "totalCount":43,
+      "botCount":38,
+      "userCount":5,
+      "percentBots":88.3720930232558,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "UK":{  
+      "name":"UK",
+      "id":"197081542785236992",
+      "totalCount":232,
+      "botCount":205,
+      "userCount":27,
+      "percentBots":88.3620689655172,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "大屌萌妹":{  
+      "name":"大屌萌妹",
+      "id":"249616854589505536",
+      "totalCount":111,
+      "botCount":98,
+      "userCount":13,
+      "percentBots":88.2882882882882,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pike & Pike Chat! :3":{  
+      "name":"Pike & Pike Chat! :3",
+      "id":"239151248614490114",
+      "totalCount":17,
+      "botCount":15,
+      "userCount":2,
+      "percentBots":88.235294117647,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Maru's Group":{  
+      "name":"Maru's Group",
+      "id":"244993048147132416",
+      "totalCount":17,
+      "botCount":15,
+      "userCount":2,
+      "percentBots":88.235294117647,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "🇫🇷 Tests Kévain":{  
+      "name":"🇫🇷 Tests Kévain",
+      "id":"199847600982065152",
+      "totalCount":34,
+      "botCount":30,
+      "userCount":4,
+      "percentBots":88.235294117647,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot-ville":{  
+      "name":"Bot-ville",
+      "id":"242125827683254282",
+      "totalCount":25,
+      "botCount":22,
+      "userCount":3,
+      "percentBots":88,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BonziBuddy":{  
+      "name":"BonziBuddy",
+      "id":"252275899922120705",
+      "totalCount":50,
+      "botCount":44,
+      "userCount":6,
+      "percentBots":88,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Kanker":{  
+      "name":"Kanker",
+      "id":"229667536289923072",
+      "totalCount":124,
+      "botCount":109,
+      "userCount":15,
+      "percentBots":87.9032258064516,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Discord Bots (BBE)":{  
+      "name":"Discord Bots (BBE)",
+      "id":"237708538137411584",
+      "totalCount":123,
+      "botCount":108,
+      "userCount":15,
+      "percentBots":87.8048780487805,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Memes":{  
+      "name":"Memes",
+      "id":"217666055336755201",
+      "totalCount":65,
+      "botCount":57,
+      "userCount":8,
+      "percentBots":87.6923076923077,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "GAY FAGS":{  
+      "name":"GAY FAGS",
+      "id":"232046582948823040",
+      "totalCount":16,
+      "botCount":14,
+      "userCount":2,
+      "percentBots":87.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "EVERYBODY BUT DANNY":{  
+      "name":"EVERYBODY BUT DANNY",
+      "id":"240280103001653248",
+      "totalCount":16,
+      "botCount":14,
+      "userCount":2,
+      "percentBots":87.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "random":{  
+      "name":"random",
+      "id":"236123046304415744",
+      "totalCount":16,
+      "botCount":14,
+      "userCount":2,
+      "percentBots":87.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Heяø ⚡":{  
+      "name":"Heяø ⚡",
+      "id":"241075586859008001",
+      "totalCount":16,
+      "botCount":14,
+      "userCount":2,
+      "percentBots":87.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot testing":{  
+      "name":"bot testing",
+      "id":"249965842316394508",
+      "totalCount":24,
+      "botCount":21,
+      "userCount":3,
+      "percentBots":87.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "CATS:KYS":{  
+      "name":"CATS:KYS",
+      "id":"221738288900210688",
+      "totalCount":102,
+      "botCount":89,
+      "userCount":13,
+      "percentBots":87.2549019607843,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bots":{  
+      "name":"Bots",
+      "id":"183697369827639296",
+      "totalCount":23,
+      "botCount":20,
+      "userCount":3,
+      "percentBots":86.9565217391304,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Peeps Smurf":{  
+      "name":"Peeps Smurf",
+      "id":"132310457448005632",
+      "totalCount":61,
+      "botCount":53,
+      "userCount":8,
+      "percentBots":86.8852459016393,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "test":{  
+      "name":"test",
+      "id":"216663327588220939",
+      "totalCount":38,
+      "botCount":33,
+      "userCount":5,
+      "percentBots":86.8421052631579,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "josh":{  
+      "name":"josh",
+      "id":"235526656863764480",
+      "totalCount":30,
+      "botCount":26,
+      "userCount":4,
+      "percentBots":86.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Triunvirato da Polandball, Corvo e lobo":{  
+      "name":"Triunvirato da Polandball, Corvo e lobo",
+      "id":"251490803317342209",
+      "totalCount":15,
+      "botCount":13,
+      "userCount":2,
+      "percentBots":86.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "๖ۣۜLΞǤεηĐ༻":{  
+      "name":"๖ۣۜLΞǤεηĐ༻",
+      "id":"232636992083460096",
+      "totalCount":15,
+      "botCount":13,
+      "userCount":2,
+      "percentBots":86.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Loli spam server":{  
+      "name":"Loli spam server",
+      "id":"196673814245933056",
+      "totalCount":15,
+      "botCount":13,
+      "userCount":2,
+      "percentBots":86.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot testing site":{  
+      "name":"Bot testing site",
+      "id":"198631602878676992",
+      "totalCount":52,
+      "botCount":45,
+      "userCount":7,
+      "percentBots":86.5384615384615,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "INDONESIAN DISCORD":{  
+      "name":"INDONESIAN DISCORD",
+      "id":"193558362825162752",
+      "totalCount":118,
+      "botCount":102,
+      "userCount":16,
+      "percentBots":86.4406779661017,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Razer Super Team 2":{  
+      "name":"Razer Super Team 2",
+      "id":"218742960639049729",
+      "totalCount":42,
+      "botCount":36,
+      "userCount":6,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "cool  niggas only !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!":{  
+      "name":"cool  niggas only !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "id":"160600168687861762",
+      "totalCount":35,
+      "botCount":30,
+      "userCount":5,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Clusterfuck":{  
+      "name":"Bot Clusterfuck",
+      "id":"215581855494307841",
+      "totalCount":77,
+      "botCount":66,
+      "userCount":11,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "lareneg ni sgin":{  
+      "name":"lareneg ni sgin",
+      "id":"179752966595543051",
+      "totalCount":98,
+      "botCount":84,
+      "userCount":14,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot server":{  
+      "name":"bot server",
+      "id":"249983267737042955",
+      "totalCount":14,
+      "botCount":12,
+      "userCount":2,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Sexual Shit~":{  
+      "name":"Sexual Shit~",
+      "id":"251844360793096193",
+      "totalCount":14,
+      "botCount":12,
+      "userCount":2,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Planet Sweg":{  
+      "name":"Planet Sweg",
+      "id":252201838395392000,
+      "totalCount":14,
+      "botCount":12,
+      "userCount":2,
+      "percentBots":85.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "【𝓔𝓛𝓚】◐⊑⊒◑":{  
+      "name":"【𝓔𝓛𝓚】◐⊑⊒◑",
+      "id":"218119705494290432",
+      "totalCount":89,
+      "botCount":76,
+      "userCount":13,
+      "percentBots":85.3932584269662,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Gang Shit":{  
+      "name":"Gang Shit",
+      "id":"231860898342502400",
+      "totalCount":40,
+      "botCount":34,
+      "userCount":6,
+      "percentBots":85,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Namikaze Or Uzumaki":{  
+      "name":"Namikaze Or Uzumaki",
+      "id":"217725249570078720",
+      "totalCount":105,
+      "botCount":89,
+      "userCount":16,
+      "percentBots":84.7619047619047,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Server Spokoju":{  
+      "name":"Server Spokoju",
+      "id":"231754873190744085",
+      "totalCount":13,
+      "botCount":11,
+      "userCount":2,
+      "percentBots":84.6153846153846,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pantsu":{  
+      "name":"Pantsu",
+      "id":"236790731182702596",
+      "totalCount":13,
+      "botCount":11,
+      "userCount":2,
+      "percentBots":84.6153846153846,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Private server":{  
+      "name":"Private server",
+      "id":"212767708306079744",
+      "totalCount":13,
+      "botCount":11,
+      "userCount":2,
+      "percentBots":84.6153846153846,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "SO BOT":{  
+      "name":"SO BOT",
+      "id":"237332390043844609",
+      "totalCount":26,
+      "botCount":22,
+      "userCount":4,
+      "percentBots":84.6153846153846,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Kektus. Kekerino. RP. Git gud n deal with this shit. BOT CENTRAL!":{  
+      "name":"Kektus. Kekerino. RP. Git gud n deal with this shit. BOT CENTRAL!",
+      "id":"246451407811641344",
+      "totalCount":58,
+      "botCount":49,
+      "userCount":9,
+      "percentBots":84.4827586206896,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lineage II Interlude":{  
+      "name":"Lineage II Interlude",
+      "id":"241072069230592001",
+      "totalCount":51,
+      "botCount":43,
+      "userCount":8,
+      "percentBots":84.313725490196,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Haze":{  
+      "name":"Haze",
+      "id":"226079633957847040",
+      "totalCount":38,
+      "botCount":32,
+      "userCount":6,
+      "percentBots":84.2105263157894,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "PetriDish.pw":{  
+      "name":"PetriDish.pw",
+      "id":"226664742003933184",
+      "totalCount":133,
+      "botCount":112,
+      "userCount":21,
+      "percentBots":84.2105263157894,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "GAY BAR":{  
+      "name":"GAY BAR",
+      "id":"171549320384872448",
+      "totalCount":101,
+      "botCount":85,
+      "userCount":16,
+      "percentBots":84.1584158415841,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "MLG Army":{  
+      "name":"MLG Army",
+      "id":"234096400982474752",
+      "totalCount":50,
+      "botCount":42,
+      "userCount":8,
+      "percentBots":84,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   ":/":{  
+      "name":":/",
+      "id":"202587253120172032",
+      "totalCount":56,
+      "botCount":47,
+      "userCount":9,
+      "percentBots":83.9285714285714,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Server":{  
+      "name":"Bot Server",
+      "id":"192847488825163777",
+      "totalCount":123,
+      "botCount":103,
+      "userCount":20,
+      "percentBots":83.7398373983739,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bot party":{  
+      "name":"bot party",
+      "id":"236258900201046020",
+      "totalCount":43,
+      "botCount":36,
+      "userCount":7,
+      "percentBots":83.7209302325581,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Crunchy Nut Server":{  
+      "name":"Crunchy Nut Server",
+      "id":"202331417567297536",
+      "totalCount":67,
+      "botCount":56,
+      "userCount":11,
+      "percentBots":83.5820895522388,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "!help":{  
+      "name":"!help",
+      "id":"105145927399948288",
+      "totalCount":253,
+      "botCount":211,
+      "userCount":42,
+      "percentBots":83.399209486166,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   ".HACKED":{  
+      "name":".HACKED",
+      "id":"228608690461081610",
+      "totalCount":24,
+      "botCount":20,
+      "userCount":4,
+      "percentBots":83.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "HappyLand":{  
+      "name":"HappyLand",
+      "id":"247508942131953665",
+      "totalCount":18,
+      "botCount":15,
+      "userCount":3,
+      "percentBots":83.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Shady Squad UNLIMTED":{  
+      "name":"Shady Squad UNLIMTED",
+      "id":"171281704835743744",
+      "totalCount":90,
+      "botCount":75,
+      "userCount":15,
+      "percentBots":83.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "bb":{  
+      "name":"bb",
+      "id":"227532775111000076",
+      "totalCount":24,
+      "botCount":20,
+      "userCount":4,
+      "percentBots":83.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "the fucked up server":{  
+      "name":"the fucked up server",
+      "id":"215413696418152448",
+      "totalCount":36,
+      "botCount":30,
+      "userCount":6,
+      "percentBots":83.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "GoD":{  
+      "name":"GoD",
+      "id":"214146251040620544",
+      "totalCount":83,
+      "botCount":69,
+      "userCount":14,
+      "percentBots":83.1325301204819,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "N a n d o ' s":{  
+      "name":"N a n d o ' s",
+      "id":"158363034673348609",
+      "totalCount":123,
+      "botCount":102,
+      "userCount":21,
+      "percentBots":82.9268292682926,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "『ᗰƤ』ĆŁΔŇ":{  
+      "name":"『ᗰƤ』ĆŁΔŇ",
+      "id":"227090021369249792",
+      "totalCount":52,
+      "botCount":43,
+      "userCount":9,
+      "percentBots":82.6923076923077,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Arya":{  
+      "name":"Arya",
+      "id":"211272593775394816",
+      "totalCount":23,
+      "botCount":19,
+      "userCount":4,
+      "percentBots":82.6086956521739,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testing Playground":{  
+      "name":"Bot Testing Playground",
+      "id":"187992265778659329",
+      "totalCount":23,
+      "botCount":19,
+      "userCount":4,
+      "percentBots":82.6086956521739,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Just Chatting":{  
+      "name":"Just Chatting",
+      "id":"240073338536329216",
+      "totalCount":40,
+      "botCount":33,
+      "userCount":7,
+      "percentBots":82.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Test":{  
+      "name":"Test",
+      "id":"222107152112812035",
+      "totalCount":34,
+      "botCount":28,
+      "userCount":6,
+      "percentBots":82.3529411764705,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Blargbot":{  
+      "name":"Blargbot",
+      "id":"238348837146722305",
+      "totalCount":34,
+      "botCount":28,
+      "userCount":6,
+      "percentBots":82.3529411764705,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "beep":{  
+      "name":"beep",
+      "id":"252609218954264578",
+      "totalCount":17,
+      "botCount":14,
+      "userCount":3,
+      "percentBots":82.3529411764705,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "༺ڳฟ༻":{  
+      "name":"༺ڳฟ༻",
+      "id":"226907376488284161",
+      "totalCount":39,
+      "botCount":32,
+      "userCount":7,
+      "percentBots":82.051282051282,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Nothing ":{  
+      "name":"Nothing ",
+      "id":"135175902215667718",
+      "totalCount":22,
+      "botCount":18,
+      "userCount":4,
+      "percentBots":81.8181818181818,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "DEDSEC":{  
+      "name":"DEDSEC",
+      "id":"199295488179044352",
+      "totalCount":22,
+      "botCount":18,
+      "userCount":4,
+      "percentBots":81.8181818181818,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Geheime Todessterntests":{  
+      "name":"Geheime Todessterntests",
+      "id":"233532185804668928",
+      "totalCount":27,
+      "botCount":22,
+      "userCount":5,
+      "percentBots":81.4814814814814,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lulz":{  
+      "name":"Lulz",
+      "id":"216412771108126720",
+      "totalCount":27,
+      "botCount":22,
+      "userCount":5,
+      "percentBots":81.4814814814814,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Mr. Robot":{  
+      "name":"Mr. Robot",
+      "id":"153708594091655168",
+      "totalCount":489,
+      "botCount":398,
+      "userCount":91,
+      "percentBots":81.3905930470347,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "rekt em":{  
+      "name":"rekt em",
+      "id":"96703590294360064",
+      "totalCount":16,
+      "botCount":13,
+      "userCount":3,
+      "percentBots":81.25,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "M L G":{  
+      "name":"M L G",
+      "id":"209450821392269312",
+      "totalCount":64,
+      "botCount":52,
+      "userCount":12,
+      "percentBots":81.25,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "___":{  
+      "name":"___",
+      "id":"246822715292516353",
+      "totalCount":32,
+      "botCount":26,
+      "userCount":6,
+      "percentBots":81.25,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ŦƧ♕":{  
+      "name":"ŦƧ♕",
+      "id":"244353270909239306",
+      "totalCount":32,
+      "botCount":26,
+      "userCount":6,
+      "percentBots":81.25,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Faggut Squuaad":{  
+      "name":"Faggut Squuaad",
+      "id":"210523787656036352",
+      "totalCount":21,
+      "botCount":17,
+      "userCount":4,
+      "percentBots":80.9523809523809,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Hangout <3":{  
+      "name":"Hangout <3",
+      "id":"250873415534247947",
+      "totalCount":21,
+      "botCount":17,
+      "userCount":4,
+      "percentBots":80.9523809523809,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "420 Blaze it Fully Automated Luxuary Space Communism Bernie Sanders 2016 Mountain Dew Pokemon":{  
+      "name":"420 Blaze it Fully Automated Luxuary Space Communism Bernie Sanders 2016 Mountain Dew Pokemon",
+      "id":"220292121968508929",
+      "totalCount":113,
+      "botCount":91,
+      "userCount":22,
+      "percentBots":80.5309734513274,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "SENPAI'S clan":{  
+      "name":"SENPAI'S clan",
+      "id":"231957771841437696",
+      "totalCount":35,
+      "botCount":28,
+      "userCount":7,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Geeks and Gamers Community":{  
+      "name":"Geeks and Gamers Community",
+      "id":"235869574333988864",
+      "totalCount":20,
+      "botCount":16,
+      "userCount":4,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Testing":{  
+      "name":"Bot Testing",
+      "id":"131771382748020736",
+      "totalCount":15,
+      "botCount":12,
+      "userCount":3,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Seamusmario's Chat":{  
+      "name":"Seamusmario's Chat",
+      "id":"214562499306061824",
+      "totalCount":115,
+      "botCount":92,
+      "userCount":23,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pizza Hut":{  
+      "name":"Pizza Hut",
+      "id":"211599273148547072",
+      "totalCount":20,
+      "botCount":16,
+      "userCount":4,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "fumadores de coxinha com mentos":{  
+      "name":"fumadores de coxinha com mentos",
+      "id":"241638182720897024",
+      "totalCount":15,
+      "botCount":12,
+      "userCount":3,
+      "percentBots":80,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "k0h":{  
+      "name":"k0h",
+      "id":"180294997625536512",
+      "totalCount":89,
+      "botCount":71,
+      "userCount":18,
+      "percentBots":79.7752808988764,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bots":{  
+      "name":"Bots",
+      "id":"217062866266750979",
+      "totalCount":117,
+      "botCount":93,
+      "userCount":24,
+      "percentBots":79.4871794871794,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Playground":{  
+      "name":"Bot Playground",
+      "id":"236868488642297857",
+      "totalCount":67,
+      "botCount":53,
+      "userCount":14,
+      "percentBots":79.1044776119403,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "FOXIES REMAKE":{  
+      "name":"FOXIES REMAKE",
+      "id":"249545586464784385",
+      "totalCount":19,
+      "botCount":15,
+      "userCount":4,
+      "percentBots":78.9473684210526,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "U liek pasta little kid ( ͡° ͜ʖ ͡°)":{  
+      "name":"U liek pasta little kid ( ͡° ͜ʖ ͡°)",
+      "id":"230899114890493952",
+      "totalCount":19,
+      "botCount":15,
+      "userCount":4,
+      "percentBots":78.9473684210526,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Paws' Server":{  
+      "name":"Paws' Server",
+      "id":"221692629673443329",
+      "totalCount":136,
+      "botCount":107,
+      "userCount":29,
+      "percentBots":78.6764705882352,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ילדים אוטיסטים מצירים חתולים":{  
+      "name":"ילדים אוטיסטים מצירים חתולים",
+      "id":"244179007094915074",
+      "totalCount":14,
+      "botCount":11,
+      "userCount":3,
+      "percentBots":78.5714285714285,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Charms Fan Club":{  
+      "name":"Charms Fan Club",
+      "id":"242334149837324289",
+      "totalCount":14,
+      "botCount":11,
+      "userCount":3,
+      "percentBots":78.5714285714285,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Friends To Talk To":{  
+      "name":"Friends To Talk To",
+      "id":"231601558045851658",
+      "totalCount":14,
+      "botCount":11,
+      "userCount":3,
+      "percentBots":78.5714285714285,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Mythic Mod Discord":{  
+      "name":"Mythic Mod Discord",
+      "id":"206466261134213120",
+      "totalCount":23,
+      "botCount":18,
+      "userCount":5,
+      "percentBots":78.2608695652173,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "pinguin discord":{  
+      "name":"pinguin discord",
+      "id":"243408283757445130",
+      "totalCount":46,
+      "botCount":36,
+      "userCount":10,
+      "percentBots":78.2608695652173,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Country":{  
+      "name":"Bot Country",
+      "id":"244597754607828992",
+      "totalCount":375,
+      "botCount":293,
+      "userCount":82,
+      "percentBots":78.1333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Homer rules":{  
+      "name":"Homer rules",
+      "id":"239805818076135424",
+      "totalCount":18,
+      "botCount":14,
+      "userCount":4,
+      "percentBots":77.7777777777777,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "frands":{  
+      "name":"frands",
+      "id":"245337612682788864",
+      "totalCount":22,
+      "botCount":17,
+      "userCount":5,
+      "percentBots":77.2727272727272,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "A Z A N E":{  
+      "name":"A Z A N E",
+      "id":"246331315903922176",
+      "totalCount":22,
+      "botCount":17,
+      "userCount":5,
+      "percentBots":77.2727272727272,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pirates With Katanas":{  
+      "name":"Pirates With Katanas",
+      "id":"210806183613825026",
+      "totalCount":47,
+      "botCount":36,
+      "userCount":11,
+      "percentBots":76.595744680851,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "I don't know, like the household or something.":{  
+      "name":"I don't know, like the household or something.",
+      "id":"240983960719589378",
+      "totalCount":34,
+      "botCount":26,
+      "userCount":8,
+      "percentBots":76.4705882352941,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Officer group Jhony14":{  
+      "name":"Officer group Jhony14",
+      "id":"179187768625332235",
+      "totalCount":42,
+      "botCount":32,
+      "userCount":10,
+      "percentBots":76.1904761904761,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "POTATOLAND":{  
+      "name":"POTATOLAND",
+      "id":"235774690788900864",
+      "totalCount":42,
+      "botCount":32,
+      "userCount":10,
+      "percentBots":76.1904761904761,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "B o t s":{  
+      "name":"B o t s",
+      "id":"203687629638729728",
+      "totalCount":21,
+      "botCount":16,
+      "userCount":5,
+      "percentBots":76.1904761904761,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BrEaKing sOme MethE! XD":{  
+      "name":"BrEaKing sOme MethE! XD",
+      "id":"195677755038367754",
+      "totalCount":203,
+      "botCount":153,
+      "userCount":50,
+      "percentBots":75.3694581280788,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "CSGO LOUNGE":{  
+      "name":"CSGO LOUNGE",
+      "id":"219141800621768705",
+      "totalCount":117,
+      "botCount":88,
+      "userCount":29,
+      "percentBots":75.2136752136752,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Tech Clan":{  
+      "name":"The Tech Clan",
+      "id":"237184627712720896",
+      "totalCount":16,
+      "botCount":12,
+      "userCount":4,
+      "percentBots":75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Yawning so bad":{  
+      "name":"Yawning so bad",
+      "id":"143198503605108736",
+      "totalCount":60,
+      "botCount":45,
+      "userCount":15,
+      "percentBots":75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "frisk":{  
+      "name":"frisk",
+      "id":"244925381633769473",
+      "totalCount":31,
+      "botCount":23,
+      "userCount":8,
+      "percentBots":74.1935483870967,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bots testing":{  
+      "name":"Bots testing",
+      "id":"217848787639468032",
+      "totalCount":23,
+      "botCount":17,
+      "userCount":6,
+      "percentBots":73.9130434782608,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BotTesting 2":{  
+      "name":"BotTesting 2",
+      "id":"225777996240257025",
+      "totalCount":19,
+      "botCount":14,
+      "userCount":5,
+      "percentBots":73.6842105263157,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pew~":{  
+      "name":"Pew~",
+      "id":"235837388981534722",
+      "totalCount":19,
+      "botCount":14,
+      "userCount":5,
+      "percentBots":73.6842105263157,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Shotaboys Gentleman Club":{  
+      "name":"Shotaboys Gentleman Club",
+      "id":"218341724190146560",
+      "totalCount":19,
+      "botCount":14,
+      "userCount":5,
+      "percentBots":73.6842105263157,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Tale of ZeldaPie":{  
+      "name":"Tale of ZeldaPie",
+      "id":"243686248710012928",
+      "totalCount":19,
+      "botCount":14,
+      "userCount":5,
+      "percentBots":73.6842105263157,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BlackMarket - Boys":{  
+      "name":"BlackMarket - Boys",
+      "id":"250158672439672833",
+      "totalCount":19,
+      "botCount":14,
+      "userCount":5,
+      "percentBots":73.6842105263157,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ℤψℤ CLAN":{  
+      "name":"ℤψℤ CLAN",
+      "id":"243870013579198464",
+      "totalCount":49,
+      "botCount":36,
+      "userCount":13,
+      "percentBots":73.469387755102,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Games":{  
+      "name":"Games",
+      "id":"238081241151176705",
+      "totalCount":15,
+      "botCount":11,
+      "userCount":4,
+      "percentBots":73.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Fun":{  
+      "name":"Fun",
+      "id":"203779810911191040",
+      "totalCount":15,
+      "botCount":11,
+      "userCount":4,
+      "percentBots":73.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "LoLzeiros Br":{  
+      "name":"LoLzeiros Br",
+      "id":"236878274108719114",
+      "totalCount":15,
+      "botCount":11,
+      "userCount":4,
+      "percentBots":73.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Work":{  
+      "name":"The Work",
+      "id":"247600710504546315",
+      "totalCount":15,
+      "botCount":11,
+      "userCount":4,
+      "percentBots":73.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Toxic Huntress":{  
+      "name":"Toxic Huntress",
+      "id":"224285472564838400",
+      "totalCount":26,
+      "botCount":19,
+      "userCount":7,
+      "percentBots":73.076923076923,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Android Hell":{  
+      "name":"Android Hell",
+      "id":"234089164738527232",
+      "totalCount":63,
+      "botCount":46,
+      "userCount":17,
+      "percentBots":73.015873015873,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "FLOOPAS":{  
+      "name":"FLOOPAS",
+      "id":"188711997393600512",
+      "totalCount":18,
+      "botCount":13,
+      "userCount":5,
+      "percentBots":72.2222222222222,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Backstage":{  
+      "name":"Backstage",
+      "id":"225284576275070977",
+      "totalCount":18,
+      "botCount":13,
+      "userCount":5,
+      "percentBots":72.2222222222222,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Kbsa's Klan":{  
+      "name":"Kbsa's Klan",
+      "id":"243082397124526081",
+      "totalCount":39,
+      "botCount":28,
+      "userCount":11,
+      "percentBots":71.7948717948718,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BOTS, BOTS EVERYWHERE":{  
+      "name":"BOTS, BOTS EVERYWHERE",
+      "id":"241340185269370881",
+      "totalCount":53,
+      "botCount":38,
+      "userCount":15,
+      "percentBots":71.6981132075471,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Country of Ylisse":{  
+      "name":"Country of Ylisse",
+      "id":"236222553948028928",
+      "totalCount":17,
+      "botCount":12,
+      "userCount":5,
+      "percentBots":70.5882352941176,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The German Soviet Union":{  
+      "name":"The German Soviet Union",
+      "id":"243546186970038273",
+      "totalCount":17,
+      "botCount":12,
+      "userCount":5,
+      "percentBots":70.5882352941176,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Meme Lounge - Overload":{  
+      "name":"Meme Lounge - Overload",
+      "id":"242118208734232587",
+      "totalCount":71,
+      "botCount":50,
+      "userCount":21,
+      "percentBots":70.4225352112676,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Developers":{  
+      "name":"Bot Developers",
+      "id":"239752875297734656",
+      "totalCount":27,
+      "botCount":19,
+      "userCount":8,
+      "percentBots":70.3703703703703,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Awesome Time":{  
+      "name":"Awesome Time",
+      "id":"234037251942776833",
+      "totalCount":27,
+      "botCount":19,
+      "userCount":8,
+      "percentBots":70.3703703703703,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "o3o":{  
+      "name":"o3o",
+      "id":"246671956626243594",
+      "totalCount":37,
+      "botCount":26,
+      "userCount":11,
+      "percentBots":70.2702702702702,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "AssPringles":{  
+      "name":"AssPringles",
+      "id":"224656044083773441",
+      "totalCount":20,
+      "botCount":14,
+      "userCount":6,
+      "percentBots":70,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bot Land":{  
+      "name":"Bot Land",
+      "id":"217122230012870656",
+      "totalCount":43,
+      "botCount":30,
+      "userCount":13,
+      "percentBots":69.7674418604651,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "fair play, sporting attitude":{  
+      "name":"fair play, sporting attitude",
+      "id":"148149530255294475",
+      "totalCount":72,
+      "botCount":50,
+      "userCount":22,
+      "percentBots":69.4444444444444,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Private Irish Teamspeak":{  
+      "name":"Private Irish Teamspeak",
+      "id":"210123760970235905",
+      "totalCount":52,
+      "botCount":36,
+      "userCount":16,
+      "percentBots":69.2307692307692,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Roleplay! Live! Life! Nsfw! Sex! Gore! Death! ANARCHY!":{  
+      "name":"Roleplay! Live! Life! Nsfw! Sex! Gore! Death! ANARCHY!",
+      "id":"247135030474833920",
+      "totalCount":26,
+      "botCount":18,
+      "userCount":8,
+      "percentBots":69.2307692307692,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Noblet":{  
+      "name":"Noblet",
+      "id":"188557389673267200",
+      "totalCount":65,
+      "botCount":45,
+      "userCount":20,
+      "percentBots":69.2307692307692,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Ghiaccioli Alla Menta":{  
+      "name":"Ghiaccioli Alla Menta",
+      "id":"235406162353324032",
+      "totalCount":32,
+      "botCount":22,
+      "userCount":10,
+      "percentBots":68.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Russian Barses Clan Discord":{  
+      "name":"Russian Barses Clan Discord",
+      "id":"234039100091531264",
+      "totalCount":16,
+      "botCount":11,
+      "userCount":5,
+      "percentBots":68.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Pethorum":{  
+      "name":"Pethorum",
+      "id":"200332352272990208",
+      "totalCount":32,
+      "botCount":22,
+      "userCount":10,
+      "percentBots":68.75,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "o bby":{  
+      "name":"o bby",
+      "id":"148328942250622977",
+      "totalCount":19,
+      "botCount":13,
+      "userCount":6,
+      "percentBots":68.4210526315789,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Matinhooo":{  
+      "name":"Matinhooo",
+      "id":"243847758312767489",
+      "totalCount":22,
+      "botCount":15,
+      "userCount":7,
+      "percentBots":68.1818181818181,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Kupuu":{  
+      "name":"Kupuu",
+      "id":"171587886221754369",
+      "totalCount":49,
+      "botCount":33,
+      "userCount":16,
+      "percentBots":67.3469387755102,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "lubie hszanowe pociągi":{  
+      "name":"lubie hszanowe pociągi",
+      "id":"213368409960742922",
+      "totalCount":21,
+      "botCount":14,
+      "userCount":7,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Godteir Brigade":{  
+      "name":"Godteir Brigade",
+      "id":"230133650400870400",
+      "totalCount":51,
+      "botCount":34,
+      "userCount":17,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "League of Legends":{  
+      "name":"League of Legends",
+      "id":"246046454462808064",
+      "totalCount":24,
+      "botCount":16,
+      "userCount":8,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bacon Lettuce Tomato":{  
+      "name":"Bacon Lettuce Tomato",
+      "id":"216069069890125824",
+      "totalCount":96,
+      "botCount":64,
+      "userCount":32,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Secretsubreddit Botland":{  
+      "name":"Secretsubreddit Botland",
+      "id":"240682099269435395",
+      "totalCount":39,
+      "botCount":26,
+      "userCount":13,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Rooftop":{  
+      "name":"The Rooftop",
+      "id":"211148536547508225",
+      "totalCount":24,
+      "botCount":16,
+      "userCount":8,
+      "percentBots":66.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "NIGGAZ":{  
+      "name":"NIGGAZ",
+      "id":"241455679691292672",
+      "totalCount":26,
+      "botCount":17,
+      "userCount":9,
+      "percentBots":65.3846153846153,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "c h a n n e l":{  
+      "name":"c h a n n e l",
+      "id":"240043158728081408",
+      "totalCount":20,
+      "botCount":13,
+      "userCount":7,
+      "percentBots":65,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Undertale":{  
+      "name":"Undertale",
+      "id":"246249422860713984",
+      "totalCount":20,
+      "botCount":13,
+      "userCount":7,
+      "percentBots":65,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "NoVa":{  
+      "name":"NoVa",
+      "id":"240229494487515136",
+      "totalCount":17,
+      "botCount":11,
+      "userCount":6,
+      "percentBots":64.7058823529411,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Japan":{  
+      "name":"Japan",
+      "id":"253626797399212043",
+      "totalCount":51,
+      "botCount":33,
+      "userCount":18,
+      "percentBots":64.7058823529411,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "HAVING FUN WITH BOTS":{  
+      "name":"HAVING FUN WITH BOTS",
+      "id":"224634879680184320",
+      "totalCount":31,
+      "botCount":20,
+      "userCount":11,
+      "percentBots":64.516129032258,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "We are Anonymous":{  
+      "name":"We are Anonymous",
+      "id":"226598638988689408",
+      "totalCount":19,
+      "botCount":12,
+      "userCount":7,
+      "percentBots":63.1578947368421,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Sniff Snoff Server/ Skormriana grande's Server":{  
+      "name":"Sniff Snoff Server/ Skormriana grande's Server",
+      "id":"240331661936427008",
+      "totalCount":111,
+      "botCount":70,
+      "userCount":41,
+      "percentBots":63.063063063063,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Trump Wall":{  
+      "name":"Trump Wall",
+      "id":"221170295237640192",
+      "totalCount":27,
+      "botCount":17,
+      "userCount":10,
+      "percentBots":62.9629629629629,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "⭐[|ANCRAFT|樂塊|SERVER|]⭐":{  
+      "name":"⭐[|ANCRAFT|樂塊|SERVER|]⭐",
+      "id":"248342710073819136",
+      "totalCount":64,
+      "botCount":40,
+      "userCount":24,
+      "percentBots":62.5,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Spur's  Server":{  
+      "name":"Spur's  Server",
+      "id":"224228699237515264",
+      "totalCount":42,
+      "botCount":26,
+      "userCount":16,
+      "percentBots":61.9047619047619,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The ultimate chat (bots)":{  
+      "name":"The ultimate chat (bots)",
+      "id":"177905265121689600",
+      "totalCount":34,
+      "botCount":21,
+      "userCount":13,
+      "percentBots":61.7647058823529,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Abbysal Studios":{  
+      "name":"Abbysal Studios",
+      "id":"247686349170147328",
+      "totalCount":18,
+      "botCount":11,
+      "userCount":7,
+      "percentBots":61.1111111111111,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Nimnoy's Gang":{  
+      "name":"Nimnoy's Gang",
+      "id":"247180734169612298",
+      "totalCount":18,
+      "botCount":11,
+      "userCount":7,
+      "percentBots":61.1111111111111,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "The Gaming Lounge":{  
+      "name":"The Gaming Lounge",
+      "id":"216704760013783040",
+      "totalCount":18,
+      "botCount":11,
+      "userCount":7,
+      "percentBots":61.1111111111111,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "⚡𝐓𝐆⚡ Official Clan Diep.io":{  
+      "name":"⚡𝐓𝐆⚡ Official Clan Diep.io",
+      "id":"246263235525869568",
+      "totalCount":23,
+      "botCount":14,
+      "userCount":9,
+      "percentBots":60.8695652173913,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Danq Weebsters":{  
+      "name":"Danq Weebsters",
+      "id":"197732613085986826",
+      "totalCount":51,
+      "botCount":31,
+      "userCount":20,
+      "percentBots":60.7843137254901,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Just Dat server":{  
+      "name":"Just Dat server",
+      "id":"252130500993351690",
+      "totalCount":28,
+      "botCount":17,
+      "userCount":11,
+      "percentBots":60.7142857142857,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Bots VS Humans":{  
+      "name":"Bots VS Humans",
+      "id":"236706075779268609",
+      "totalCount":674,
+      "botCount":405,
+      "userCount":269,
+      "percentBots":60.0890207715133,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Conversas":{  
+      "name":"Conversas",
+      "id":"247797828947148811",
+      "totalCount":20,
+      "botCount":12,
+      "userCount":8,
+      "percentBots":60,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Prexo's Home":{  
+      "name":"Prexo's Home",
+      "id":"220253045517189121",
+      "totalCount":35,
+      "botCount":21,
+      "userCount":14,
+      "percentBots":60,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Darkwatch's league of Dapper Dandies":{  
+      "name":"Darkwatch's league of Dapper Dandies",
+      "id":"210256007639597056",
+      "totalCount":37,
+      "botCount":22,
+      "userCount":15,
+      "percentBots":59.4594594594594,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Serious Experiment Rain":{  
+      "name":"Serious Experiment Rain",
+      "id":"230429358798536716",
+      "totalCount":32,
+      "botCount":19,
+      "userCount":13,
+      "percentBots":59.375,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "MAGIKARP WORSHIP CLUB":{  
+      "name":"MAGIKARP WORSHIP CLUB",
+      "id":"231311415544250369",
+      "totalCount":27,
+      "botCount":16,
+      "userCount":11,
+      "percentBots":59.2592592592592,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "YEAH-DIUS (KANT KUSS KLAN)":{  
+      "name":"YEAH-DIUS (KANT KUSS KLAN)",
+      "id":"231222455581147136",
+      "totalCount":27,
+      "botCount":16,
+      "userCount":11,
+      "percentBots":59.2592592592592,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "PPG3_game2":{  
+      "name":"PPG3_game2",
+      "id":"214689140355104769",
+      "totalCount":27,
+      "botCount":16,
+      "userCount":11,
+      "percentBots":59.2592592592592,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "вселеная БОТОВ":{  
+      "name":"вселеная БОТОВ",
+      "id":"230344010869243906",
+      "totalCount":51,
+      "botCount":30,
+      "userCount":21,
+      "percentBots":58.8235294117647,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "- Kinky Shit and Bots -":{  
+      "name":"- Kinky Shit and Bots -",
+      "id":"232701347793862656",
+      "totalCount":48,
+      "botCount":28,
+      "userCount":20,
+      "percentBots":58.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "【≽ܫ≼】Clan":{  
+      "name":"【≽ܫ≼】Clan",
+      "id":"230834454094938114",
+      "totalCount":19,
+      "botCount":11,
+      "userCount":8,
+      "percentBots":57.8947368421052,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "agar.io":{  
+      "name":"agar.io",
+      "id":"229706396369682432",
+      "totalCount":26,
+      "botCount":15,
+      "userCount":11,
+      "percentBots":57.6923076923076,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "PC MUSTARD RACE":{  
+      "name":"PC MUSTARD RACE",
+      "id":"172457655154114561",
+      "totalCount":67,
+      "botCount":38,
+      "userCount":29,
+      "percentBots":56.7164179104477,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Shane's Discord Server":{  
+      "name":"Shane's Discord Server",
+      "id":"247572860623650816",
+      "totalCount":30,
+      "botCount":17,
+      "userCount":13,
+      "percentBots":56.6666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Lucario Island":{  
+      "name":"Lucario Island",
+      "id":"170286126387560448",
+      "totalCount":43,
+      "botCount":24,
+      "userCount":19,
+      "percentBots":55.813953488372,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Fuck you":{  
+      "name":"Fuck you",
+      "id":"247402765075218432",
+      "totalCount":29,
+      "botCount":16,
+      "userCount":13,
+      "percentBots":55.1724137931034,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Clã dos otakus !":{  
+      "name":"Clã dos otakus !",
+      "id":"227938066537512960",
+      "totalCount":40,
+      "botCount":22,
+      "userCount":18,
+      "percentBots":55,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "【ℕH〗༄Ɲαнz༻诶":{  
+      "name":"【ℕH〗༄Ɲαнz༻诶",
+      "id":"221353102819721216",
+      "totalCount":68,
+      "botCount":37,
+      "userCount":31,
+      "percentBots":54.4117647058823,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "BlackNight/DemiGodz/Savior":{  
+      "name":"BlackNight/DemiGodz/Savior",
+      "id":"226513424501178368",
+      "totalCount":155,
+      "botCount":84,
+      "userCount":71,
+      "percentBots":54.1935483870967,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Vamos  a Jugar":{  
+      "name":"Vamos  a Jugar",
+      "id":"214859581833216003",
+      "totalCount":24,
+      "botCount":13,
+      "userCount":11,
+      "percentBots":54.1666666666666,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Power TYT family's subs/fans":{  
+      "name":"Power TYT family's subs/fans",
+      "id":"232940892606955531",
+      "totalCount":30,
+      "botCount":16,
+      "userCount":14,
+      "percentBots":53.3333333333333,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "DJ's Needed":{  
+      "name":"DJ's Needed",
+      "id":"221806270892474368",
+      "totalCount":32,
+      "botCount":17,
+      "userCount":15,
+      "percentBots":53.125,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "SachK Game Servers":{  
+      "name":"SachK Game Servers",
+      "id":"163426279599767553",
+      "totalCount":21,
+      "botCount":11,
+      "userCount":10,
+      "percentBots":52.3809523809523,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Cammy":{  
+      "name":"Cammy",
+      "id":"236564815068266496",
+      "totalCount":21,
+      "botCount":11,
+      "userCount":10,
+      "percentBots":52.3809523809523,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Sloth serveur":{  
+      "name":"Sloth serveur",
+      "id":"235113810569068545",
+      "totalCount":23,
+      "botCount":12,
+      "userCount":11,
+      "percentBots":52.1739130434782,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Anarchism Bot Dev":{  
+      "name":"Anarchism Bot Dev",
+      "id":"199930181828345856",
+      "totalCount":27,
+      "botCount":14,
+      "userCount":13,
+      "percentBots":51.8518518518518,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "DoM":{  
+      "name":"DoM",
+      "id":"247753672782512130",
+      "totalCount":29,
+      "botCount":15,
+      "userCount":14,
+      "percentBots":51.7241379310344,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "HERESY":{  
+      "name":"HERESY",
+      "id":"197191094499409932",
+      "totalCount":41,
+      "botCount":21,
+      "userCount":20,
+      "percentBots":51.2195121951219,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Demigod's Server":{  
+      "name":"Demigod's Server",
+      "id":"236619388441067521",
+      "totalCount":26,
+      "botCount":13,
+      "userCount":13,
+      "percentBots":50,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "TGC - True Gaming Cat - Season 4":{  
+      "name":"TGC - True Gaming Cat - Season 4",
+      "id":"194280593897422852",
+      "totalCount":22,
+      "botCount":11,
+      "userCount":11,
+      "percentBots":50,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "ColeVers Discord":{  
+      "name":"ColeVers Discord",
+      "id":"250793927492239360",
+      "totalCount":30,
+      "botCount":15,
+      "userCount":15,
+      "percentBots":50,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "chiken chat":{  
+      "name":"chiken chat",
+      "id":"247037550890450944",
+      "totalCount":24,
+      "botCount":12,
+      "userCount":12,
+      "percentBots":50,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   },
+   "Snowhammer's Potato Fields of Epicness":{  
+      "name":"Snowhammer's Potato Fields of Epicness",
+      "id":"212843419893104640",
+      "totalCount":53,
+      "botCount":26,
+      "userCount":27,
+      "percentBots":49.0566037735849,
+      "timestamp":"2016-12-04T17:12:00.000Z"
+   }
 }
