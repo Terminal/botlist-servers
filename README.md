@@ -4,7 +4,7 @@ In this repository we aim to give you a list of all servers that we have deemed 
 
 Bot | Author | Definition | Date | Description
 --- | ------ | ---------- | ---- | -----------
-Blargbot<br>[view](blargbot.json) | stupidcat | 20m, 50% | 04/12/2016 | Ran by blargbot and generated into a list for another project this was created in order to catch pesky users however never acted upon. The list is quite some out of date but still contains many servers.
+blargbot<br>[view](blargbot.json) | stupid cat | 20m, 50% | 2017-07-18 | Ran by blargbot and generated into a list for another project this was created in order to catch pesky users however never acted upon.
 Parkerbot<br>[view](parkerbot-legacy.json) | MSS | 20m, 50% | 2017-07-18 | A merger of what was before as well as some bot collection guilds that were captured by Parkerbot. **Accidentally has integers for some instead of strings.**<br>This was uploaded before transitioning to a new table system that includes more data.
 DiscordMail<br>[view](discordmail-legacy.json) | MSS | 20m, 50% | 2017-07-18 | Uses the same system as Parkerbot.<br>This was uploaded before transitioning to a new table system that includes more data.
 
