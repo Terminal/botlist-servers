@@ -31,7 +31,7 @@ Written | Definition
 ------- | ----------
 5u | Minimum of 5 users
 5b | Minimum of 5 bots
-5t | Minimum of 5 users AND bots (total)
+5t | Minimum of 5 members
 30% | Maximum of 30% bots
-5t, 30% | Minimum of 5 total AND 30% maximum bots
+5t, 30% | Minimum of 5 members AND 30% maximum bots
 
