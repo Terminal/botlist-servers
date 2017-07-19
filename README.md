@@ -2,7 +2,7 @@
 
 In this repository we aim to give you a list of all servers that we have deemed to be using a botlist, however dependant on the user who submitted the file this should change how you approach there lists. Each list is given in different formats and hopefully by reading the list below you will be able to deter what amount the user has made the bot leave the servers. 
 
-[If you're looking to contribute to the site, please checkout this branch.](https://github.com/Terminal/botlist-servers/blob/gh-pages)
+[If you're looking to contribute to the site, please checkout this branch.](https://github.com/Terminal/botlist-servers/tree/gh-pages)
 
 Bot | Author | Definition | Date | Description
 --- | ------ | ---------- | ---- | -----------
