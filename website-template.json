@@ -73,7 +73,7 @@
 	"disect": {
 		"entry": {
 			"title": "{{name}}",
-			"subtitle": "{{id}}, %{{fixed_percentage}}",
+			"subtitle": "{{id}}, {{fixed_percentage}}%",
 			"icon": ""
 		},
 		"full_info": {
