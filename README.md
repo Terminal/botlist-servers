@@ -16,9 +16,51 @@ DiscordMail<br>[view](discordmail-legacy.json) | MSS | 20m, 50% | 2017-07-18 | U
 4. ???  
 5. Profit
 
+### Adding an entry to the Website Template
+```json
+{
+	"name": "some cool bot",
+	"date": "2017-07-19",
+	"def": "20m 50%",
+	"author": "bot finder",
+	"description": "This is a description",
+	"icon": "https://blargbot.xyz/img/blargbot.png",
+	"link": "https://rawgit.com/Terminal/botlist-servers/master/blargbot.json",
+	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/blargbot.json",
+	"disect": {
+		"entry": {
+			"title": "{{name}}",
+			"subtitle": "{{id}}",
+			"icon": "{{icon}}"
+		},
+		"full_info": {
+			"Name": "{{name}}",
+			"ID": "{{id}}",
+			"Bot Percentage": "{{percentageBots}}",
+			"User / Bots / Total": "{{userAccounts}} / {{botAccounts}} / {{totalMembers}}",
+			"Timestamp": "{{timestamp}}"
+		}
+	}
+}
+```
+| Key | Description |
+|-----|-------------|
+| name, author, data, description | The values corresponding with the main table above. |
+| def | The definition. |
+| icon | The icon used for displaying the entry. |
+| link | The link the website will be using to request data. |
+| entry_info_link | The link to display the JSON. (i.e. a GitHub link) |
+| disect | See below |
+
+### `disect`
+| Key | Description |
+|-----|-------------|
+| entry | The values to use when displaying a guild. The keys shown are required. Uses [Mustache](https://github.com/janl/mustache.js). |
+| full_info | The keys and values to use when displaying full information in a table. Everything in the object is customizable. Both keys and values use [Mustache](https://github.com/janl/mustache.js). |
+
 ## Requirements
 
-- Must be in `.json` format
+- Must be in `.json` format and an array
 - Must not be a full list of every guild, only show bot lists.
 - If doing so manually, place information wherever you can in the table above.
 - Make sure you edit the table before submitting a pull request.
