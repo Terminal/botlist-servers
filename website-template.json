@@ -90,7 +90,7 @@
 	"def": "20m 75%",
 	"author": "Snazzah",
 	"description": "A snapshot of all guilds matched by the definition in all shards.",
-	"icon": "https://iscord.cards/i/icon.png",
+	"icon": "https://discord.cards/i/icon.png",
 	"link": "https://rawgit.com/Terminal/botlist-servers/master/discordcards.json",
 	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/discordcards.json",
 	"disect": {
