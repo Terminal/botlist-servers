@@ -7,6 +7,7 @@ Bot | Author | Definition | Date | Description
 blargbot<br>[view](blargbot.json) | stupid cat | 20m, 50% | 2017-07-18 | Ran by blargbot and generated into a list for another project this was created in order to catch pesky users however never acted upon.
 Parkerbot<br>[view](parkerbot-legacy.json) | MSS | 20m, 50% | 2017-07-18 | A merger of what was before as well as some bot collection guilds that were captured by Parkerbot. **Accidentally has integers for some instead of strings.**<br>This was uploaded before transitioning to a new table system that includes more data.
 DiscordMail<br>[view](discordmail-legacy.json) | MSS | 20m, 50% | 2017-07-18 | Uses the same system as Parkerbot.<br>This was uploaded before transitioning to a new table system that includes more data.
+Trello Bot<br>[view](trellobot.json) | Snazzah | 20m, 75% | 2017-07-19 | A snapshot of all guilds matched by the definition in all shards.
 
 ## Contributing
 
@@ -76,4 +77,3 @@ Written | Definition
 5m | Minimum of 5 members
 30% | Maximum of 30% bots
 5m, 30% | Minimum of 5 members AND 30% maximum bots
-

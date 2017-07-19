@@ -61,4 +61,27 @@
 			"ID": "{{id}}"
 		}
 	}
+},{
+	"name": "Trello",
+	"date": "2017-07-19",
+	"def": "20m 75%",
+	"author": "Snazzah",
+	"description": "A snapshot of all guilds matched by the def",
+	"icon": "https://cdn.discordapp.com/app-icons/202929883863580673/28b93df9f9e8d43bedf20291e9743c73.jpg",
+	"link": "https://rawgit.com/Terminal/botlist-servers/master/trellobot.json",
+	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/trellobot.json",
+	"disect": {
+		"entry": {
+			"title": "{{name}}",
+			"subtitle": "{{id}}, {{fixed_percentage}}",
+			"icon": ""
+		},
+		"full_info": {
+			"Name": "{{name}}",
+			"ID": "{{id}}",
+			"Bot Percentage": "{{percentage}}",
+			"User / Bots / Total": "{{count.user}} / {{count.bot}} / {{count.total}}",
+			"Timestamp": "{{timestamp}}"
+		}
+	}
 }]
