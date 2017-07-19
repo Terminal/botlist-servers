@@ -28,8 +28,8 @@
 	"author": "MSS",
 	"description": "A Parker Square of a Bot listing. Contains more detailed details compared to previously.",
 	"icon": "https://images.discordapp.net/avatars/257547382277931009/c69a03a5eb58c322b715ff23890d78cb.png?size=256",
-	"link": "https://rawgit.com/Terminal/botlist-servers/master/parkerbot-legacy.json",
-	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/parkerbot-legacy.json",
+	"link": "https://rawgit.com/Terminal/botlist-servers/master/parkerbot.json",
+	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/parkerbot.json",
 	"disect": {
 		"entry": {
 			"title": "{{ guild.name }}",
