@@ -6,5 +6,5 @@ In this branch of the repository we have a web-display of the contents of this r
 
 # Todo
 
-[ ] Add mobile support
-[x] Move to SCSS and organise folders.
+- [ ] Add mobile support
+- [x] Move to SCSS and organise folders.
