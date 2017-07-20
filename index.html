@@ -1,51 +1,81 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-    <meta name="theme-color" content="#000000">
-    <title>Terminal.ink - Bot List Servers</title>
-    <meta name="description" content="A webpage that displays list of servers that are deemed are bot collecting and wasting resources.">
-    <meta name="keywords" content="discord, bot, discordbot, servers, terminal.ink, botlist">
-    <meta name="author" content="Snazzah">
-    <meta content="Terminal.ink - Bot List Servers" property="og:title" />
-    <meta content="A webpage that displays list of servers that are deemed are bot collecting and wasting resources." property="og:description" />
-	  <link rel="icon" href="assets/images/favicon.gif" type="image/gif" >
-    <meta property="og:image" content="https://cdn.discordapp.com/attachments/330777295952543744/337184029671424000/sdfsdf.png">
-    <script src="https://cdn.rawgit.com/janl/mustache.js/23beb3a8/mustache.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
-    <link rel="stylesheet" href="main.css">
-  </head>
-  <body>
-    <div class="header">
-      <img src="./icon.png">
-      <div>
-        <h1>terminal@terminal.ink:~/botlist-servers $</h1><h5>A webpage that displays list of servers that are deemed are bot collecting and wasting resources.</h5>
-      </div>
-    </div>
-    <div class="subheader">
-      <a class="dir defbtn">definitions</a><a class="link" href="https://github.com/Terminal/botlist-servers">github</a><a class="tar entrybtn">entry-info.tar.gz</a>
-    </div>
-    <table class="deftable hidden">
-      <thead><tr><th>Written</th><th>Definition</th></tr></thead>
-      <tbody>
-      <tr><td>5u</td><td>Minimum of 5 users</td></tr>
-      <tr><td>5b</td><td>Minimum of 5 bots</td></tr>
-      <tr><td>5m</td><td>Minimum of 5 members</td></tr>
-      <tr><td>30%</td><td>Maximum of 30% bots</td></tr>
-      <tr><td>5m, 30%</td><td>Minimum of 5 members AND 30% maximum bots</td></tr></tbody>
-    </table>
-    <table class="entrytable hidden">
-      <thead><tr><th>Please select an entry.</th></thead>
-      <tbody></tbody>
-    </table>
-    <div class="body">
-      <div class="scroller index"><span class="loading-text"></span></div>
-      <div class="scroller servers"><div class="scroller-inner scroller-inner"></div></div>
-      <div class="scroller fullinfo"></div>
-    </div>
-    <script async src="main.js"></script>
-  </body>
+<head>
+	<!-- Title -->
+	<title>Terminal.ink &mdash; Bot List Servers</title>
+
+	<!-- Icons -->
+	<meta content="https://terminal.ink/assets/img/meta-icon.png" property="og:image" />
+	<link rel="icon" type="image/gif" href="https://terminal.ink/assets/img/favicon.gif">
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" href="css/stylesheet.css">
+
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+	<meta name="theme-color" content="#000000">
+	<meta name="description" content="A webpage that displays list of servers that are deemed are bot collecting and wasting resources.">
+	<meta name="keywords" content="discord, bot, discordbot, servers, terminal.ink, botlist">
+	<meta name="author" content="Snazzah">
+	<meta content="Terminal.ink - Bot List Servers" property="og:title" />
+	<meta content="A webpage that displays list of servers that are deemed are bot collecting and wasting resources." property="og:description" />
+	<script src="https://cdn.rawgit.com/janl/mustache.js/23beb3a8/mustache.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+</head>
+<body>
+	<header>
+		<div>
+			<h1>terminal@terminal.ink:~/botlist-servers $<label>_</label></h1>
+			<h5>A webpage that displays list of servers that are deemed are bot collecting and wasting resources.</h5>
+		</div>
+	</header>
+	<section class="subheader">
+		<a class="dir defbtn">definitions</a>
+		<a class="link" href="https://github.com/Terminal/botlist-servers">github</a>
+		<a class="tar entrybtn">entry-info.tar.gz</a>
+	</section>
+	<table class="deftable hidden">
+		<thead>
+			<tr>
+				<th>Written</th>
+				<th>Definition</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>5u</td>
+				<td>Minimum of 5 users</td>
+			</tr>
+			<tr>
+				<td>5b</td>
+				<td>Minimum of 5 bots</td>
+			</tr>
+			<tr>
+				<td>5m</td>
+				<td>Minimum of 5 members</td>
+			</tr>
+			<tr>
+				<td>30%</td>
+				<td>Maximum of 30% bots</td>
+			</tr>
+			<tr>
+				<td>5m, 30%</td>
+				<td>Minimum of 5 members AND 30% maximum bots</td>
+			</tr>
+		</tbody>
+	</table>
+	<table class="entrytable hidden">
+		<thead><tr><th>Please select an entry.</th></tr></thead>
+		<tbody></tbody>
+	</table>
+	<section>
+		<div class="scroller index"><span class="loading-text"></span></div>
+		<div class="scroller servers"><div class="scroller-inner scroller-inner"></div></div>
+		<div class="scroller fullinfo"></div>
+	</section>
+	<script async src="main.js"></script>
+</body>
 </html>

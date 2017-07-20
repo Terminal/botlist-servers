@@ -4,7 +4,7 @@ In this branch of the repository we have a web-display of the contents of this r
 
 [You can find a live version of it here](https://botlist.terminal.ink)
 
-# Todo
+## Todo
 
-- [ ] Add mobile support
+- [ ] Add mobile support.
 - [x] Move to SCSS and organise folders.
