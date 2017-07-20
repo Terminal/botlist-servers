@@ -11,7 +11,7 @@
 		"entry": {
 			"title": "{{name}}",
 			"subtitle": "{{id}}",
-			"icon": ""
+			"icon": "https://cdn.discordapp.com/icons/{{id}}/{{icon}}.webp?size=512"
 		},
 		"full_info": {
 			"Name": "{{name}}",
