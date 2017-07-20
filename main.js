@@ -39,7 +39,7 @@ let BLS = {
 		Object.keyValueForEach(entry.disect.full_info, (k,v) => {
 			dombuild.push(`<tr><th>${Mustache.render(k, guild)}</th><td>${Mustache.render(v, guild)}</td></tr>`);
 		});
-		dombuild.push(`</tbody></table>`);
+		dombuild.push(`</tbody></table><div class="spacer" style="height: 100px"></div>`);
 		document.querySelector(".fullinfo").innerHTML = dombuild.join("");
 	},
 
@@ -114,20 +114,38 @@ onmousedown = e => {
 						json.indexOf(guild),
 						entryJson.disect.entry.icon !== "" ? Mustache.render(entryJson.disect.entry.icon, guild) : undefined
 					));
-					ogdoms = doms;
-					loadservers = (start, count) => doms.splice(start, count).map(guild => $(guild).insertBefore('.servers #loader'));
+					loadservers = (start, count) => {
+						ndoms = doms.splice(start, count);
+						if(json.length <= start+count || count > ndoms.length){
+							ndoms.map(guild => $(guild).insertBefore('.servers #loader'));
+							BLS.controller.destroy(true);
+							BLS.scene.destroy(true);
+							$(".servers #loader").remove();
+							$(".servers .spacer").height("20px");
+						}else if(ndoms.length > 0){
+							ndoms.map(guild => $(guild).insertBefore('.servers #loader'));
+						} else {
+							BLS.controller.destroy(true);
+							BLS.scene.destroy(true);
+							$(".servers #loader").remove();
+							$(".servers .spacer").height("20px");
+						}
+					};
 					BLS.controller = new ScrollMagic.Controller();
-					document.querySelector(".servers").innerHTML += `<div id="loader"><span class="loading-text"></span></div>`
+					document.querySelector(".servers").innerHTML += `<div id="loader"><span class="loading-text"></span></div><div class="spacer" style="height: 100px"></div>`
 					BLS.scene = new ScrollMagic.Scene({triggerElement: ".servers #loader", triggerHook: "onEnter"})
 					.addTo(BLS.controller)
 					.on("enter", function (e) {
 						if (!$("#loader").hasClass("active")) {
 							$("#loader").addClass("active");
-							if (console){
-								console.log("loading new items");
-							}
+							ogdoms = json.map(guild =>  BLS.renderServerEntry(
+								Mustache.render(entryJson.disect.entry.title, guild),
+								Mustache.render(entryJson.disect.entry.subtitle, guild),
+								json.indexOf(guild),
+								entryJson.disect.entry.icon !== "" ? Mustache.render(entryJson.disect.entry.icon, guild) : undefined
+							));
 							loadservers(BLS.offset, 50);
-							doms = ogdoms;
+							doms = ogdoms
 							BLS.offset += 50;
 							$("#loader").removeClass("active");
 						}
