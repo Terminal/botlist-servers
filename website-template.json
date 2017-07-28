@@ -21,7 +21,7 @@
 			"Timestamp": "{{timestamp}}"
 		}
 	}
-}{
+},{
 	"name": "blargbot",
 	"date": "2017-07-18",
 	"def": "20m 50%",
