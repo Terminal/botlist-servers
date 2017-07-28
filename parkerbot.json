@@ -1,0 +1,88 @@
+[{
+	"guild": {
+		"bots": 19,
+		"collection": true,
+		"createdAt": 1495224943501.0312,
+		"icon": "https://cdn.discordapp.com/icons/315221002424549377/3c699797083a1bbf1a58ec9d43861e2a.jpg?size=128",
+		"id": "315221002424549377",
+		"members": 21,
+		"name": "Bot Hangar",
+		"region": "us-east",
+		"users": 2
+	},
+	"guildID": "315221002424549377",
+	"id": "86dec123-0025-445e-8cf9-e03ee1586111",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/298597751975968771/3f5ce692776cd7537a3e3fc3c70723f0.webp?size=2048",
+		"bot": false,
+		"createdAt": 1491261651749.0312,
+		"discriminator": "6810",
+		"id": "298597751975968771",
+		"name": "(°Д°)"
+	},
+	"ownerID": "298597751975968771",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500475152684
+}, {
+	"guild": {
+		"bots": 43,
+		"collection": true,
+		"createdAt": 1481619671471,
+		"icon": "https://cdn.discordapp.com/icons/258156355527901184/f601b8e52840e5059b51ace948a191cc.jpg?size=128",
+		"id": "258156355527901184",
+		"members": 80,
+		"name": "Dainald's Colony",
+		"region": "sydney",
+		"users": 37
+	},
+	"guildID": "258156355527901184",
+	"id": "6cbc81e8-f01b-4861-9b19-399709964be9",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/257377680633233408/1e6d9821e2d779005e9e290248b6435e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1481434020909.0312,
+		"discriminator": "2978",
+		"id": "257377680633233408",
+		"name": "Dainald"
+	},
+	"ownerID": "257377680633233408",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500467897671
+}, {
+	"guild": {
+		"bots": 56,
+		"collection": true,
+		"createdAt": 1497919410355.0312,
+		"icon": "https://cdn.discordapp.com/icons/326522415528148993/9e305a6ac1ea56c452f49ede05a22697.jpg?size=128",
+		"id": "326522415528148993",
+		"members": 57,
+		"name": "Kush Lounge! 🔒",
+		"region": "brazil",
+		"users": 1
+	},
+	"guildID": "326522415528148993",
+	"id": "0e0ed37a-1dfd-462c-bc67-dbb89885baa5",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/323301436526166017/4267f35f4d0dcc70aeba19a0b201e82e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1497151469118.0625,
+		"discriminator": "9206",
+		"id": "323301436526166017",
+		"name": "Kush 🔒"
+	},
+	"ownerID": "323301436526166017",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500426414323
+}]
