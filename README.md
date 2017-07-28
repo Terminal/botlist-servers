@@ -9,6 +9,7 @@ Parkerbot<br>[view](parkerbot-legacy.json) | MSS | 20m, 50% | 2017-07-18 | A mer
 DiscordMail<br>[view](discordmail-legacy.json) | MSS | 20m, 50% | 2017-07-18 | Uses the same system as Parkerbot.<br>This was uploaded before transitioning to a new table system that includes more data.
 Trello Bot<br>[view](trellobot.json) | Snazzah | 20m, 75% | 2017-07-19 | A snapshot of all guilds matched by the definition in all shards.
 Discord Cards<br>[view](discordcards.json) | Snazzah | 20m, 75% | 2017-07-19 | A snapshot of all guilds matched by the definition in all shards.
+Birb<br>[view](birb.json) | Jakeoid | 60% | 2017-07-28 | A snapshot of all guilds matched by the definition in all shards.
 
 ## Contributing
 
