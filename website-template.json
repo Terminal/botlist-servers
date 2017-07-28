@@ -1,4 +1,27 @@
 [{
+	"name": "Birb",
+	"date": "2017-07-28",
+	"def": "10m, 60%",
+	"author": "jakeoid",
+	"description": "A snapshot of all guilds matched by the definition in all shards.",
+	"icon": "https://birb.pw/birb_round.png",
+	"link": "https://rawgit.com/Terminal/botlist-servers/master/birb.json",
+	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/birb.json",
+	"disect": {
+		"entry": {
+			"title": "{{name}}",
+			"subtitle": "{{id}}",
+			"icon": "{{icon}}"
+		},
+		"full_info": {
+			"Name": "{{name}}",
+			"ID": "{{id}}",
+			"Bot Percentage": "{{percentageBots}}",
+			"User / Bots / Total": "{{userAccounts}} / {{botAccounts}} / {{totalMembers}}",
+			"Timestamp": "{{timestamp}}"
+		}
+	}
+}{
 	"name": "blargbot",
 	"date": "2017-07-18",
 	"def": "20m 50%",
