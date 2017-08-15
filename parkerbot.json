@@ -1,5 +1,1412 @@
 [{
 	"guild": {
+		"bots": 33,
+		"collection": true,
+		"createdAt": 1501856240571.0625,
+		"icon": "https://cdn.discordapp.com/icons/343034678250569729/7baf6fd305bc03325e1bd0ce774831ad.jpg?size=128",
+		"id": "343034678250569729",
+		"members": 36,
+		"name": "Anarchy",
+		"region": "us-west",
+		"users": 3
+	},
+	"guildID": "343034678250569729",
+	"id": "05873b9b-0d46-4458-8b69-45e6581d8a3f",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/209936899450732544/e3ca54aa759e1c041e5e127e2d538244.webp?size=2048",
+		"bot": false,
+		"createdAt": 1470123257268.0312,
+		"discriminator": "0652",
+		"id": "209936899450732544",
+		"name": "Airo"
+	},
+	"ownerID": "209936899450732544",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501859123313
+}, {
+	"guild": {
+		"bots": 75,
+		"collection": true,
+		"createdAt": 1492395456414.0625,
+		"icon": "https://cdn.discordapp.com/icons/303353273417728001/2adbc4c65c9bc278c8c104ff021348b8.jpg?size=128",
+		"id": "303353273417728001",
+		"members": 106,
+		"name": "𝔰𝔢𝔫𝔞𝔱𝔲𝔰 𝔭𝔬𝔭𝔲𝔩𝔲𝔰𝔮𝔲𝔢 𝔯𝔬𝔪𝔞𝔫𝔲𝔰",
+		"region": "us-east",
+		"users": 31
+	},
+	"guildID": "303353273417728001",
+	"id": "107257a0-2c2a-49d9-821b-7c65d7252844",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/171700311692541952/9ea8834536a61dd625373eea7ab96775.webp?size=2048",
+		"bot": false,
+		"createdAt": 1461006944345.0312,
+		"discriminator": "7229",
+		"id": "171700311692541952",
+		"name": "oh my"
+	},
+	"ownerID": "171700311692541952",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501348579591
+}, {
+	"guild": {
+		"bots": 32,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/c8573a0fc3af3fb51c3b99915f829a36.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 44,
+		"name": "Raid Fishie Gabe",
+		"region": "eu-west",
+		"users": 12
+	},
+	"guildID": "274939186807832576",
+	"id": "0f3957ec-de0c-46bd-965b-050a1d9abaae",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501337922276
+}, {
+	"guild": {
+		"bots": 26,
+		"collection": true,
+		"createdAt": 1501965709153.0312,
+		"icon": "https://cdn.discordapp.com/icons/343493822761795585/4313e5c452b456a7fc51490b536269d8.jpg?size=128",
+		"id": "343493822761795585",
+		"members": 28,
+		"name": "iwanttodiexd",
+		"region": "us-east",
+		"users": 2
+	},
+	"guildID": "343493822761795585",
+	"id": "26a1af71-83ed-4d05-9956-e0b6ac87c8af",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/254982745321766912/ed28dc2983e812ac87a9c5d9441e4bde.webp?size=2048",
+		"bot": false,
+		"createdAt": 1480863023835.0312,
+		"discriminator": "7151",
+		"id": "254982745321766912",
+		"name": "gokillyourself2"
+	},
+	"ownerID": "254982745321766912",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501967070359
+}, {
+	"guild": {
+		"bots": 26,
+		"collection": true,
+		"createdAt": 1499691160022.0312,
+		"icon": "https://cdn.discordapp.com/icons/333953672243445762/f139f254ad97641f7c218c0b37445c65.jpg?size=128",
+		"id": "333953672243445762",
+		"members": 36,
+		"name": "EmojiAdmin",
+		"region": "singapore",
+		"users": 10
+	},
+	"guildID": "333953672243445762",
+	"id": "10ad0e7d-f151-496b-b460-d18099aa3a03",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/283534850382888961/1c809f3ed3bbdefdbb3a276bda3cdf37.webp?size=2048",
+		"bot": false,
+		"createdAt": 1487670376154.0625,
+		"discriminator": "8229",
+		"id": "283534850382888961",
+		"name": "Seal_N"
+	},
+	"ownerID": "283534850382888961",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500681408703
+}, {
+	"guild": {
+		"bots": 17,
+		"collection": true,
+		"createdAt": 1501970424409,
+		"icon": "https://cdn.discordapp.com/icons/343513599978766336/b74a36bd1969c8f31fc8154a6be112d2.jpg?size=128",
+		"id": "343513599978766336",
+		"members": 24,
+		"name": "Thoth Reunion",
+		"region": "eu-west",
+		"users": 7
+	},
+	"guildID": "343513599978766336",
+	"id": "097cb852-677d-4a68-9f2e-1842c95178e4",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/340157345189462018/9908ce2762e1029b0d082b4795ed7eb6.webp?size=2048",
+		"bot": false,
+		"createdAt": 1501170230911.0312,
+		"discriminator": "2943",
+		"id": "340157345189462018",
+		"name": "JoaoAnt"
+	},
+	"ownerID": "340157345189462018",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502399281849
+}, {
+	"guild": {
+		"bots": 19,
+		"collection": true,
+		"createdAt": 1501532435545.0312,
+		"icon": null,
+		"id": "341676541534666763",
+		"members": 21,
+		"name": "TaurusFan´s Testserver",
+		"region": "eu-central",
+		"users": 2
+	},
+	"guildID": "341676541534666763",
+	"id": "00a3b26e-b4fd-44a5-8f49-6327ee676223",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/333011671167795204/d963e3b45e647be2b5b11ad1fbb3cc96.webp?size=2048",
+		"bot": false,
+		"createdAt": 1499466569464.0625,
+		"discriminator": "2000",
+		"id": "333011671167795204",
+		"name": "TaurusFan"
+	},
+	"ownerID": "333011671167795204",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502325327386
+}, {
+	"guild": {
+		"bots": 10,
+		"collection": false,
+		"createdAt": 1491334498014.0625,
+		"icon": null,
+		"id": "298903291356774421",
+		"members": 15,
+		"name": "Bot Test",
+		"region": "us-east",
+		"users": 5
+	},
+	"guildID": "298903291356774421",
+	"id": "0691137c-966c-4dd5-aabe-ac78392f7faf",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/157619512710135808/0158f8c673317acd037a3645e518d325.webp?size=2048",
+		"bot": false,
+		"createdAt": 1457649820259.0312,
+		"discriminator": "5417",
+		"id": "157619512710135808",
+		"name": "10fd"
+	},
+	"ownerID": "157619512710135808",
+	"reason": {
+		"message": "Already banned",
+		"refer": ["ed41fd7b-9b8b-47c0-a0e6-45c32eb4718f", "7a384757-3cb4-40d9-bbd2-5c6dcc26f96e"]
+	},
+	"timestamp": 1501396627037
+}, {
+	"guild": {
+		"bots": 3,
+		"collection": false,
+		"createdAt": 1502148710445.0625,
+		"icon": "https://cdn.discordapp.com/icons/344261385812967434/2e7f0198dd3d01f82e666f2f7a3138fc.jpg?size=128",
+		"id": "344261385812967434",
+		"members": 4,
+		"name": "[UNFINISHED] The Chillspace",
+		"region": "us-central",
+		"users": 1
+	},
+	"guildID": "344261385812967434",
+	"id": "1c5388db-877c-4b3f-8ca6-d216af3cee60",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/306601094392315917/02ce3b410bad3e4120d6ae0137416c89.webp?size=2048",
+		"bot": false,
+		"createdAt": 1493169797276,
+		"discriminator": "6246",
+		"id": "306601094392315917",
+		"name": "DoglohG17"
+	},
+	"ownerID": "306601094392315917",
+	"reason": {
+		"message": "Already banned",
+		"refer": ["f388eda6-56b3-4d5a-bfb3-4e8aad0ad1b6", "33a944fe-efdf-42ec-8104-be9e8c35383f"]
+	},
+	"timestamp": 1502462778409
+}, {
+	"guild": {
+		"bots": 17,
+		"collection": true,
+		"createdAt": 1501300589663,
+		"icon": "https://cdn.discordapp.com/icons/340704109424279562/cd209770b5c819faf7c662a876756da5.jpg?size=128",
+		"id": "340704109424279562",
+		"members": 22,
+		"name": "thisserversucks",
+		"region": "brazil",
+		"users": 5
+	},
+	"guildID": "340704109424279562",
+	"id": "33e12a77-33dd-4220-8a78-7b4084aa8d0a",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/208753206887448576/927c06453d8371facc195e33dee0b172.webp?size=2048",
+		"bot": false,
+		"createdAt": 1469841042969,
+		"discriminator": "6787",
+		"id": "208753206887448576",
+		"name": "TheWaffleLord"
+	},
+	"ownerID": "208753206887448576",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501301495586
+}, {
+	"guild": {
+		"bots": 23,
+		"collection": true,
+		"createdAt": 1501450975724,
+		"icon": "https://cdn.discordapp.com/icons/341334874281476097/93957e2558f8e651c906406c912af970.jpg?size=128",
+		"id": "341334874281476097",
+		"members": 31,
+		"name": "Gaming Lobby",
+		"region": "eu-central",
+		"users": 8
+	},
+	"guildID": "341334874281476097",
+	"id": "74ead956-fae8-4c0b-bd41-416ff4f117e0",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/333710331928903681/5ad6237e90620088c69316c73b10782a.webp?size=2048",
+		"bot": false,
+		"createdAt": 1499633143170,
+		"discriminator": "3092",
+		"id": "333710331928903681",
+		"name": "Warpace"
+	},
+	"ownerID": "333710331928903681",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502030070947
+}, {
+	"guild": {
+		"bots": 20,
+		"collection": true,
+		"createdAt": 1490817853408.0625,
+		"icon": "https://cdn.discordapp.com/icons/296736326819250186/a5a9b084db07bd1a9e3aee002e7ea5e6.jpg?size=128",
+		"id": "296736326819250186",
+		"members": 39,
+		"name": "Mushroom Kingdom",
+		"region": "us-central",
+		"users": 19
+	},
+	"guildID": "296736326819250186",
+	"id": "2b9ae7cd-cff3-45f9-ac86-d60cf3e24097",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/252599841614462976/7fc308837a739055ffbd953776cc59f9.webp?size=2048",
+		"bot": false,
+		"createdAt": 1480294895319,
+		"discriminator": "2198",
+		"id": "252599841614462976",
+		"name": "Pricilla (TMQ)"
+	},
+	"ownerID": "252599841614462976",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501628591189
+}, {
+	"guild": {
+		"bots": 13,
+		"collection": true,
+		"createdAt": 1502483187888,
+		"icon": "https://cdn.discordapp.com/icons/345664285889789962/44602f4eb09fa83136a0e2e45f130157.jpg?size=128",
+		"id": "345664285889789962",
+		"members": 25,
+		"name": "RIP CURSE:    2015-2017",
+		"region": "eu-west",
+		"users": 12
+	},
+	"guildID": "345664285889789962",
+	"id": "26c6ccfb-62f6-4a26-a381-d3c166bb0f1c",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/169884673726611456/4ee06e6bd2e5967b63407e995da1059e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460574062521.0312,
+		"discriminator": "1014",
+		"id": "169884673726611456",
+		"name": "Schmeegul"
+	},
+	"ownerID": "169884673726611456",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502584658470
+}, {
+	"guild": {
+		"bots": 4,
+		"collection": false,
+		"createdAt": 1501685600040.0312,
+		"icon": "https://cdn.discordapp.com/icons/342318959988703232/95fb928421a6253fe00f75e7fd2428f3.jpg?size=128",
+		"id": "342318959988703232",
+		"members": 8,
+		"name": "The Chillspace 3.0",
+		"region": "eu-west",
+		"users": 4
+	},
+	"guildID": "342318959988703232",
+	"id": "33a944fe-efdf-42ec-8104-be9e8c35383f",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/306601094392315917/70874e1e3b2785744a53c735d50bf007.webp?size=2048",
+		"bot": false,
+		"createdAt": 1493169797276,
+		"discriminator": "6246",
+		"id": "306601094392315917",
+		"name": "ShilohG17"
+	},
+	"ownerID": "306601094392315917",
+	"reason": {
+		"message": "Already banned",
+		"refer": ["f388eda6-56b3-4d5a-bfb3-4e8aad0ad1b6"]
+	},
+	"timestamp": 1501719990632
+}, {
+	"guild": {
+		"bots": 20,
+		"collection": true,
+		"createdAt": 1490817853408.0625,
+		"icon": "https://cdn.discordapp.com/icons/296736326819250186/a5a9b084db07bd1a9e3aee002e7ea5e6.jpg?size=128",
+		"id": "296736326819250186",
+		"members": 39,
+		"name": "Mushroom Kingdom",
+		"region": "us-central",
+		"users": 19
+	},
+	"guildID": "296736326819250186",
+	"id": "17d0f076-ad39-4706-ad5c-7bc5e2fda68b",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/252599841614462976/7fc308837a739055ffbd953776cc59f9.webp?size=2048",
+		"bot": false,
+		"createdAt": 1480294895319,
+		"discriminator": "2198",
+		"id": "252599841614462976",
+		"name": "Pricilla (TMQ)"
+	},
+	"ownerID": "252599841614462976",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501628441774
+}, {
+	"guild": {
+		"bots": 56,
+		"collection": true,
+		"createdAt": 1497919410355.0312,
+		"icon": "https://cdn.discordapp.com/icons/326522415528148993/9e305a6ac1ea56c452f49ede05a22697.jpg?size=128",
+		"id": "326522415528148993",
+		"members": 57,
+		"name": "Kush Lounge! 🔒",
+		"region": "brazil",
+		"users": 1
+	},
+	"guildID": "326522415528148993",
+	"id": "0e0ed37a-1dfd-462c-bc67-dbb89885baa5",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/323301436526166017/4267f35f4d0dcc70aeba19a0b201e82e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1497151469118.0625,
+		"discriminator": "9206",
+		"id": "323301436526166017",
+		"name": "Kush 🔒"
+	},
+	"ownerID": "323301436526166017",
+	"timestamp": 1500426414323
+}, {
+	"guild": {
+		"bots": 105,
+		"collection": true,
+		"createdAt": 1497191248717,
+		"icon": "https://cdn.discordapp.com/icons/323468284257107968/eab5c6c8be903376854b00909a9da687.jpg?size=128",
+		"id": "323468284257107968",
+		"members": 153,
+		"name": "[Hacktivism]",
+		"region": "eu-central",
+		"users": 48
+	},
+	"guildID": "323468284257107968",
+	"id": "3e9c3440-f735-462e-8aa4-3d25baa13659",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/223832501959786496/d7a96dbd2e4081f90f6c945e85aa3fc6.webp?size=2048",
+		"bot": false,
+		"createdAt": 1473436227074,
+		"discriminator": "8318",
+		"id": "223832501959786496",
+		"name": "OSFurry™"
+	},
+	"ownerID": "223832501959786496",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502657452595
+}, {
+	"guild": {
+		"bots": 1,
+		"collection": false,
+		"createdAt": 1501396703732.0625,
+		"icon": null,
+		"id": "341107241048604682",
+		"members": 2,
+		"name": "Test",
+		"region": "us-east",
+		"users": 1
+	},
+	"guildID": "341107241048604682",
+	"id": "3ac7b8b3-e62b-4c33-8eec-2b083224b436",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/157619512710135808/0158f8c673317acd037a3645e518d325.webp?size=2048",
+		"bot": false,
+		"createdAt": 1457649820259.0312,
+		"discriminator": "5417",
+		"id": "157619512710135808",
+		"name": "10fd"
+	},
+	"ownerID": "157619512710135808",
+	"reason": {
+		"message": "Already banned",
+		"refer": ["ed41fd7b-9b8b-47c0-a0e6-45c32eb4718f", "0691137c-966c-4dd5-aabe-ac78392f7faf", "7a384757-3cb4-40d9-bbd2-5c6dcc26f96e"]
+	},
+	"timestamp": 1501396724293
+}, {
+	"guild": {
+		"bots": 22,
+		"collection": true,
+		"createdAt": 1498245206087.0312,
+		"icon": "https://cdn.discordapp.com/icons/327888901870059520/fc83ccf66dc711451fa091a3a2ebdfb8.jpg?size=128",
+		"id": "327888901870059520",
+		"members": 28,
+		"name": ".:Gaming Destinies:.",
+		"region": "us-central",
+		"users": 6
+	},
+	"guildID": "327888901870059520",
+	"id": "90f1fd7f-17df-4fe5-a471-be091f72fe85",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/322114185020309504/13f14f2fe9d6e445ca9cd1b51f61371b.webp?size=2048",
+		"bot": false,
+		"createdAt": 1496868406301,
+		"discriminator": "6456",
+		"id": "322114185020309504",
+		"name": "I-ChewOnMedals"
+	},
+	"ownerID": "322114185020309504",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502579956786
+}, {
+	"guild": {
+		"bots": 15,
+		"collection": true,
+		"createdAt": 1487593483721.0625,
+		"icon": "https://cdn.discordapp.com/icons/283212340143587328/bd99e3a4ee7b1ceb44d5a8c1644f2af0.jpg?size=128",
+		"id": "283212340143587328",
+		"members": 23,
+		"name": "POCWOOD",
+		"region": "russia",
+		"users": 8
+	},
+	"guildID": "283212340143587328",
+	"id": "6b548689-8d25-4b4a-b3d3-35cadea4b569",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/282893180796534784/336f4bfdc6e63d5f10e1bcd3f5453e39.webp?size=2048",
+		"bot": false,
+		"createdAt": 1487517390203.0312,
+		"discriminator": "1566",
+		"id": "282893180796534784",
+		"name": "Groompel"
+	},
+	"ownerID": "282893180796534784",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502101817671
+}, {
+	"guild": {
+		"bots": 32,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/c014b391253a5ebdae33aed93b61d917.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 45,
+		"name": "Fishie, Raid, Gabe",
+		"region": "eu-west",
+		"users": 13
+	},
+	"guildID": "274939186807832576",
+	"id": "4510e178-dfa3-4c55-a118-60ac753bd2f1",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500587520571
+}, {
+	"guild": {
+		"bots": 60,
+		"collection": true,
+		"createdAt": 1502457040324,
+		"icon": "https://cdn.discordapp.com/icons/345554615057514496/5cbbe88fb9e55cb98b5d2f0af5cb9fc3.jpg?size=128",
+		"id": "345554615057514496",
+		"members": 101,
+		"name": "#YouTubeCommunity",
+		"region": "russia",
+		"users": 41
+	},
+	"guildID": "345554615057514496",
+	"id": "91360450-1675-4bf2-9556-5c422d3638b2",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/295251712044957696/7f640dc4a156db028c0313e49eba98ad.webp?size=2048",
+		"bot": false,
+		"createdAt": 1490463893663.0625,
+		"discriminator": "2596",
+		"id": "295251712044957696",
+		"name": "!Лолыч"
+	},
+	"ownerID": "295251712044957696",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502563256459
+}, {
+	"guild": {
+		"bots": 16,
+		"collection": true,
+		"createdAt": 1501955234238.0625,
+		"icon": "https://cdn.discordapp.com/icons/343449887784042497/c49a8b8a998ca6ab59cc29407e6dbb24.jpg?size=128",
+		"id": "343449887784042497",
+		"members": 21,
+		"name": "Social Server",
+		"region": "us-south",
+		"users": 5
+	},
+	"guildID": "343449887784042497",
+	"id": "2f478e0f-67d7-4932-b3a1-77081517544a",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/247054697150545920/83dc256c0d1235b71610e2fdf7e38da4.webp?size=2048",
+		"bot": false,
+		"createdAt": 1478972829855,
+		"discriminator": "2368",
+		"id": "247054697150545920",
+		"name": "grace__thoo"
+	},
+	"ownerID": "247054697150545920",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502232193154
+}, {
+	"guild": {
+		"bots": 33,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/0a5f55f45017c9e1cb9e933d8ad35346.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 46,
+		"name": "hello uncle",
+		"region": "eu-west",
+		"users": 13
+	},
+	"guildID": "274939186807832576",
+	"id": "1234a708-bf2e-4746-962e-e8e30b240163",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500493816908
+}, {
+	"guild": {
+		"bots": 19,
+		"collection": true,
+		"createdAt": 1493427137345.0312,
+		"icon": "https://cdn.discordapp.com/icons/307680456873213953/53069bf9b89e9bde306c22f94982d14b.jpg?size=128",
+		"id": "307680456873213953",
+		"members": 21,
+		"name": "¯\\_( ͡° ͜ʖ ͡°)_/¯",
+		"region": "brazil",
+		"users": 2
+	},
+	"guildID": "307680456873213953",
+	"id": "546db168-b370-4ab0-b886-0ac4cbcc33d8",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/233765062102220800/473615963dfdfe9ad31f7c98231fb33f.webp?size=2048",
+		"bot": false,
+		"createdAt": 1475804333950,
+		"discriminator": "8351",
+		"id": "233765062102220800",
+		"name": "Diasaraujo"
+	},
+	"ownerID": "233765062102220800",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502068171670
+}, {
+	"guild": {
+		"bots": 34,
+		"collection": true,
+		"createdAt": 1501915184246.0312,
+		"icon": null,
+		"id": "343281905942265858",
+		"members": 40,
+		"name": "retard",
+		"region": "russia",
+		"users": 6
+	},
+	"guildID": "343281905942265858",
+	"id": "4528f969-07a0-4487-be4e-8faa0534caed",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/166621146870054913/54bef8012cbd658841298934299b4059.webp?size=2048",
+		"bot": false,
+		"createdAt": 1459795977085.0312,
+		"discriminator": "7711",
+		"id": "166621146870054913",
+		"name": "🐦🅱ir🅱🐦"
+	},
+	"ownerID": "166621146870054913",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502300224847
+}, {
+	"guild": {
+		"bots": 24,
+		"collection": true,
+		"createdAt": 1501100462697.0625,
+		"icon": null,
+		"id": "339864716090540052",
+		"members": 36,
+		"name": "TheCartoonGuy23",
+		"region": "us-east",
+		"users": 12
+	},
+	"guildID": "339864716090540052",
+	"id": "c1499290-b4cd-4a9c-a0fd-92e02cb80d38",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/333831096623955969/efe99782ca32943eb8d7fb3a2b67b845.webp?size=2048",
+		"bot": false,
+		"createdAt": 1499661935717,
+		"discriminator": "2941",
+		"id": "333831096623955969",
+		"name": "TheCartoonGuy23"
+	},
+	"ownerID": "333831096623955969",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501606660891
+}, {
+	"guild": {
+		"bots": 21,
+		"collection": true,
+		"createdAt": 1472213466662,
+		"icon": "https://cdn.discordapp.com/icons/218703873072693248/0f0f5702eedbd5f0f36d1ec0ab774185.jpg?size=128",
+		"id": "218703873072693248",
+		"members": 30,
+		"name": "9D C L A S S",
+		"region": "eu-central",
+		"users": 9
+	},
+	"guildID": "218703873072693248",
+	"id": "86cd00a4-7808-4281-9ae7-4cc50fb11d6a",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/218701908221755392/0f0f5702eedbd5f0f36d1ec0ab774185.webp?size=2048",
+		"bot": false,
+		"createdAt": 1472212998205.0312,
+		"discriminator": "0999",
+		"id": "218701908221755392",
+		"name": "LeLouche"
+	},
+	"ownerID": "218701908221755392",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501185968952
+}, {
+	"guild": {
+		"bots": 113,
+		"collection": true,
+		"createdAt": 1492395456414.0625,
+		"icon": "https://cdn.discordapp.com/icons/303353273417728001/2adbc4c65c9bc278c8c104ff021348b8.jpg?size=128",
+		"id": "303353273417728001",
+		"members": 144,
+		"name": "𝔰𝔢𝔫𝔞𝔱𝔲𝔰 𝔭𝔬𝔭𝔲𝔩𝔲𝔰𝔮𝔲𝔢 𝔯𝔬𝔪𝔞𝔫𝔲𝔰",
+		"region": "us-east",
+		"users": 31
+	},
+	"guildID": "303353273417728001",
+	"id": "49fdbd1c-f1e7-43fc-804a-25683768eb75",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/171700311692541952/9ea8834536a61dd625373eea7ab96775.webp?size=2048",
+		"bot": false,
+		"createdAt": 1461006944345.0312,
+		"discriminator": "7229",
+		"id": "171700311692541952",
+		"name": "oh my"
+	},
+	"ownerID": "171700311692541952",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501350172160
+}, {
+	"guild": {
+		"bots": 19,
+		"collection": true,
+		"createdAt": 1461783931476.0312,
+		"icon": "https://cdn.discordapp.com/icons/174959231924043776/b9a1ba1e3a2a60e7c1ff4569918a2eca.jpg?size=128",
+		"id": "174959231924043776",
+		"members": 37,
+		"name": "davy jones offical locker.",
+		"region": "us-south",
+		"users": 18
+	},
+	"guildID": "174959231924043776",
+	"id": "ac05d613-a58e-4465-9ac2-6f6450045686",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/174957083899199488/dae6bce55843ddf0320db5f841789cd2.webp?size=2048",
+		"bot": false,
+		"createdAt": 1461783419347,
+		"discriminator": "7595",
+		"id": "174957083899199488",
+		"name": "pizzardです"
+	},
+	"ownerID": "174957083899199488",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501623461004
+}, {
+	"guild": {
+		"bots": 116,
+		"collection": true,
+		"createdAt": 1502447534499.0625,
+		"icon": "https://cdn.discordapp.com/icons/345514744737955860/f6d7f29d65cb1d479e263747dae42e49.jpg?size=128",
+		"id": "345514744737955860",
+		"members": 118,
+		"name": "BotServer",
+		"region": "russia",
+		"users": 2
+	},
+	"guildID": "345514744737955860",
+	"id": "65af02a8-de40-4cdb-9456-cb6a2ca39450",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/301400818068750338/ec2a2fe02c1f7adc80857d9f5d5a21b9.webp?size=2048",
+		"bot": false,
+		"createdAt": 1491929954784,
+		"discriminator": "1815",
+		"id": "301400818068750338",
+		"name": "HentaiOuji"
+	},
+	"ownerID": "301400818068750338",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502651986045
+}, {
+	"guild": {
+		"bots": 13,
+		"collection": true,
+		"createdAt": 1502483187888,
+		"icon": "https://cdn.discordapp.com/icons/345664285889789962/44602f4eb09fa83136a0e2e45f130157.jpg?size=128",
+		"id": "345664285889789962",
+		"members": 25,
+		"name": "RIP CURSE:    2015-2017",
+		"region": "eu-west",
+		"users": 12
+	},
+	"guildID": "345664285889789962",
+	"id": "1f03879a-3461-44c7-b449-deff56e0f895",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/169884673726611456/4ee06e6bd2e5967b63407e995da1059e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460574062521.0312,
+		"discriminator": "1014",
+		"id": "169884673726611456",
+		"name": "Schmeegul"
+	},
+	"ownerID": "169884673726611456",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502584616295
+}, {
+	"guild": {
+		"bots": 17,
+		"collection": true,
+		"createdAt": 1502200994530.0625,
+		"icon": "https://cdn.discordapp.com/icons/344480681159819274/e0ee366ed7b804ef7b78a6507c7777b6.jpg?size=128",
+		"id": "344480681159819274",
+		"members": 28,
+		"name": "All bots",
+		"region": "us-central",
+		"users": 11
+	},
+	"guildID": "344480681159819274",
+	"id": "73e7dda7-c06e-4a59-bede-838f2cfd2e97",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/296425897802727435/04a7a265e1f8243bf9e310703b7d0d33.webp?size=2048",
+		"bot": false,
+		"createdAt": 1490743841363.0312,
+		"discriminator": "2002",
+		"id": "296425897802727435",
+		"name": "ashdar215"
+	},
+	"ownerID": "296425897802727435",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502246607669
+}, {
+	"guild": {
+		"bots": 21,
+		"collection": true,
+		"createdAt": 1491180005070.0625,
+		"icon": "https://cdn.discordapp.com/icons/298255300983783437/19178baebdd57e9d7632eb9e05b021d1.jpg?size=128",
+		"id": "298255300983783437",
+		"members": 38,
+		"name": "Crack open a COLD ONE",
+		"region": "us-east",
+		"users": 17
+	},
+	"guildID": "298255300983783437",
+	"id": "5553188a-9b33-413b-b042-68cf42997446",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/281890716970516480/700d7d934e2ae7b2feea8876402fa9bc.webp?size=2048",
+		"bot": false,
+		"createdAt": 1487278384202.0312,
+		"discriminator": "0544",
+		"id": "281890716970516480",
+		"name": "CanadaBall"
+	},
+	"ownerID": "281890716970516480",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500838543231
+}, {
+	"guild": {
+		"bots": 80,
+		"collection": true,
+		"createdAt": 1500673948405.0312,
+		"icon": "https://cdn.discordapp.com/icons/338075785489416194/9057a78d2d4a4d39171382eb1a49ffea.jpg?size=128",
+		"id": "338075785489416194",
+		"members": 91,
+		"name": "Paki",
+		"region": "eu-west",
+		"users": 11
+	},
+	"guildID": "338075785489416194",
+	"id": "c8dc90ee-9639-4ccc-8e29-a3d9a9d90eef",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/317439746387345408/3f1054e64de3056396eeac0b41ec3c7f.webp?size=2048",
+		"bot": false,
+		"createdAt": 1495753933284.0312,
+		"discriminator": "0968",
+		"id": "317439746387345408",
+		"name": "Bill The Alien"
+	},
+	"ownerID": "317439746387345408",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500677827472
+}, {
+	"guild": {
+		"bots": 96,
+		"collection": true,
+		"createdAt": 1499934571778.0312,
+		"icon": "https://cdn.discordapp.com/icons/334974615145283585/f9591eb4fc1f953c3771e084948023fd.jpg?size=128",
+		"id": "334974615145283585",
+		"members": 101,
+		"name": "【NGY】GameMakers",
+		"region": "hongkong",
+		"users": 5
+	},
+	"guildID": "334974615145283585",
+	"id": "8e346883-e8b2-477c-ad0c-cf41c30dda48",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/300470110030921738/2788da73dd12fe5ff5ad063ba536f6bd.webp?size=2048",
+		"bot": false,
+		"createdAt": 1491708056696.0625,
+		"discriminator": "9490",
+		"id": "300470110030921738",
+		"name": "にしきさん（ばらさん）"
+	},
+	"ownerID": "300470110030921738",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501737823326
+}, {
+	"guild": {
+		"bots": 50,
+		"collection": true,
+		"createdAt": 1478945763539.0312,
+		"icon": "https://cdn.discordapp.com/icons/246941172793212929/b5d52d5975417f7667f993def70d6cbb.jpg?size=128",
+		"id": "246941172793212929",
+		"members": 69,
+		"name": "SPACEBOT 2018",
+		"region": "singapore",
+		"users": 19
+	},
+	"guildID": "246941172793212929",
+	"id": "50e4a369-b5aa-4ab6-9071-921eb3063f82",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/246941092526686208/76b202f68f881d1e5f98298f03b2eff6.webp?size=2048",
+		"bot": false,
+		"createdAt": 1478945744402,
+		"discriminator": "6373",
+		"id": "246941092526686208",
+		"name": "Not Very Good At This"
+	},
+	"ownerID": "246941092526686208",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502394175425
+}, {
+	"guild": {
+		"bots": 69,
+		"collection": true,
+		"createdAt": 1502129475782.0625,
+		"icon": "https://cdn.discordapp.com/icons/344180709789007885/797258014554cc2c98c0b4656f402ae0.jpg?size=128",
+		"id": "344180709789007885",
+		"members": 72,
+		"name": "Mikkels Pikkels",
+		"region": "us-east",
+		"users": 3
+	},
+	"guildID": "344180709789007885",
+	"id": "bb8c3c4c-7d02-4f1b-b43e-27a6dd2f12b5",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/288083816877391873/6c2475094bdef33b2210af6b317b90a7.webp?size=2048",
+		"bot": false,
+		"createdAt": 1488754934282.0625,
+		"discriminator": "4656",
+		"id": "288083816877391873",
+		"name": "Canadian Xanax"
+	},
+	"ownerID": "288083816877391873",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502133995947
+}, {
+	"guild": {
+		"bots": 43,
+		"collection": true,
+		"createdAt": 1481619671471,
+		"icon": "https://cdn.discordapp.com/icons/258156355527901184/f601b8e52840e5059b51ace948a191cc.jpg?size=128",
+		"id": "258156355527901184",
+		"members": 80,
+		"name": "Dainald's Colony",
+		"region": "sydney",
+		"users": 37
+	},
+	"guildID": "258156355527901184",
+	"id": "6cbc81e8-f01b-4861-9b19-399709964be9",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/257377680633233408/1e6d9821e2d779005e9e290248b6435e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1481434020909.0312,
+		"discriminator": "2978",
+		"id": "257377680633233408",
+		"name": "Dainald"
+	},
+	"ownerID": "257377680633233408",
+	"timestamp": 1500467897671
+}, {
+	"guild": {
+		"bots": 94,
+		"collection": true,
+		"createdAt": 1501644778091.0625,
+		"icon": "https://cdn.discordapp.com/icons/342147740324855819/92636f704e6a4561d4ef5ed079f99fa0.jpg?size=128",
+		"id": "342147740324855819",
+		"members": 100,
+		"name": "Usine de Test",
+		"region": "eu-west",
+		"users": 6
+	},
+	"guildID": "342147740324855819",
+	"id": "2371967a-1fb6-45c9-8ddd-883e41e9a3d5",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/233265451608571907/d93d3f160350da73e0294abeb3985f48.webp?size=2048",
+		"bot": false,
+		"createdAt": 1475685217526,
+		"discriminator": "2310",
+		"id": "233265451608571907",
+		"name": "TinNitro"
+	},
+	"ownerID": "233265451608571907",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501723480112
+}, {
+	"guild": {
+		"bots": 24,
+		"collection": true,
+		"createdAt": 1501343434693,
+		"icon": "https://cdn.discordapp.com/icons/340883814504988673/360c83e5ab05be90e555b903bea306b2.jpg?size=128",
+		"id": "340883814504988673",
+		"members": 26,
+		"name": "THE BEASTLY SERVER",
+		"region": "eu-west",
+		"users": 2
+	},
+	"guildID": "340883814504988673",
+	"id": "7718ea8e-81b2-4c2f-a316-97e46cfc3175",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/268496590442987520/8b85688d728541bce0127fc85c2f80b5.webp?size=2048",
+		"bot": false,
+		"createdAt": 1484084975587.0312,
+		"discriminator": "8250",
+		"id": "268496590442987520",
+		"name": "H_Rat©"
+	},
+	"ownerID": "268496590442987520",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501359379702
+}, {
+	"guild": {
+		"bots": 21,
+		"collection": true,
+		"createdAt": 1501839281573,
+		"icon": "https://cdn.discordapp.com/icons/342963547057160203/2d83dbd4873c0a9f8a82f760a26fbff3.jpg?size=128",
+		"id": "342963547057160203",
+		"members": 22,
+		"name": "Mineplex Clans",
+		"region": "us-south",
+		"users": 1
+	},
+	"guildID": "342963547057160203",
+	"id": "651c0727-94b9-49f1-9aa0-f501c8d6e916",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/211205622593617920/e113b28107a850218c3034b5ac6cd462.webp?size=2048",
+		"bot": false,
+		"createdAt": 1470425744437.0312,
+		"discriminator": "2892",
+		"id": "211205622593617920",
+		"name": "lightsaberrlx"
+	},
+	"ownerID": "211205622593617920",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501843893597
+}, {
+	"guild": {
+		"bots": 27,
+		"collection": true,
+		"createdAt": 1501284973834.0625,
+		"icon": null,
+		"id": "340638611890503692",
+		"members": 29,
+		"name": "Family",
+		"region": "us-central",
+		"users": 2
+	},
+	"guildID": "340638611890503692",
+	"id": "cc99ce08-9b85-44b8-938f-271e1322e3fc",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/283616990755815424/01a67a5ec3bb743ec15af3123c5dca8e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1487689959945.0625,
+		"discriminator": "1164",
+		"id": "283616990755815424",
+		"name": "Adik"
+	},
+	"ownerID": "283616990755815424",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501287379127
+}, {
+	"guild": {
+		"bots": 32,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/c8573a0fc3af3fb51c3b99915f829a36.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 44,
+		"name": "Raid Fishie Gabe",
+		"region": "eu-west",
+		"users": 12
+	},
+	"guildID": "274939186807832576",
+	"id": "c63417fb-4364-4527-bddf-7299655dd3c0",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501337854917
+}, {
+	"guild": {
+		"bots": 13,
+		"collection": true,
+		"createdAt": 1502483187888,
+		"icon": "https://cdn.discordapp.com/icons/345664285889789962/44602f4eb09fa83136a0e2e45f130157.jpg?size=128",
+		"id": "345664285889789962",
+		"members": 25,
+		"name": "RIP CURSE:    2015-2017",
+		"region": "eu-west",
+		"users": 12
+	},
+	"guildID": "345664285889789962",
+	"id": "a0a19fd3-ee06-4c08-a6fd-825096294505",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/169884673726611456/4ee06e6bd2e5967b63407e995da1059e.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460574062521.0312,
+		"discriminator": "1014",
+		"id": "169884673726611456",
+		"name": "Schmeegul"
+	},
+	"ownerID": "169884673726611456",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502584690186
+}, {
+	"guild": {
+		"bots": 35,
+		"collection": true,
+		"createdAt": 1490309109128.0312,
+		"icon": "https://cdn.discordapp.com/icons/294602498650537984/fa747243d08759afbd0d78aea9e342cf.jpg?size=128",
+		"id": "294602498650537984",
+		"members": 43,
+		"name": "JAIME LES MEUL",
+		"region": "us-central",
+		"users": 8
+	},
+	"guildID": "294602498650537984",
+	"id": "fb60a654-0343-46ac-a244-147355d39046",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/280433057524350977/241c9beed89069a76dcb1d1e1bcffa86.webp?size=2048",
+		"bot": false,
+		"createdAt": 1486930851108.0625,
+		"discriminator": "4753",
+		"id": "280433057524350977",
+		"name": "Darckman"
+	},
+	"ownerID": "280433057524350977",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502826109294
+}, {
+	"guild": {
+		"bots": 26,
+		"collection": true,
+		"createdAt": 1490125886789.0312,
+		"icon": "https://cdn.discordapp.com/icons/293834008461180930/bbf6043ea3dc72045bb554a1b91035b3.jpg?size=128",
+		"id": "293834008461180930",
+		"members": 40,
+		"name": "Instytut Matki i Dziecka",
+		"region": "eu-central",
+		"users": 14
+	},
+	"guildID": "293834008461180930",
+	"id": "87111877-1b24-45ae-8dcc-cd5a1d184be2",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/293825365996994560/d6215b8895f4b1c454202284d74d802b.webp?size=2048",
+		"bot": false,
+		"createdAt": 1490123826265,
+		"discriminator": "7233",
+		"id": "293825365996994560",
+		"name": "InstytutMatkiIDziecka☞ ͡⎚ω ͡⎚☞"
+	},
+	"ownerID": "293825365996994560",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502740537376
+}, {
+	"guild": {
+		"bots": 11,
+		"collection": true,
+		"createdAt": 1501604329462.0625,
+		"icon": "https://cdn.discordapp.com/icons/341978086478446603/9852e7991e2901d2bf6e27908278886c.jpg?size=128",
+		"id": "341978086478446603",
+		"members": 21,
+		"name": "Hangout Server!",
+		"region": "us-east",
+		"users": 10
+	},
+	"guildID": "341978086478446603",
+	"id": "43595ff0-a071-407c-9b72-1480c2a23ead",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/307937894553878529/8075a0c4a35fa2c772de1f887f012f68.webp?size=2048",
+		"bot": false,
+		"createdAt": 1493488515271.0625,
+		"discriminator": "7397",
+		"id": "307937894553878529",
+		"name": "LTI THE CUCUMBER"
+	},
+	"ownerID": "307937894553878529",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502294727112
+}, {
+	"guild": {
+		"bots": 18,
+		"collection": true,
+		"createdAt": 1464411646746.0312,
+		"icon": "https://cdn.discordapp.com/icons/185980668591865858/2548b2a9697c1abc669206ea088af2a9.jpg?size=128",
+		"id": "185980668591865858",
+		"members": 27,
+		"name": "M Y D O M A I N",
+		"region": "us-east",
+		"users": 9
+	},
+	"guildID": "185980668591865858",
+	"id": "805ce29c-6d58-4435-ab25-b1828213ed3a",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/185890556331687937/fee26ef87be069f321ae5a00b3e73446.webp?size=2048",
+		"bot": false,
+		"createdAt": 1464390162309,
+		"discriminator": "2278",
+		"id": "185890556331687937",
+		"name": "turtle"
+	},
+	"ownerID": "185890556331687937",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502404197249
+}, {
+	"guild": {
 		"bots": 19,
 		"collection": true,
 		"createdAt": 1495224943501.0312,
@@ -29,60 +1436,378 @@
 	"timestamp": 1500475152684
 }, {
 	"guild": {
-		"bots": 43,
-		"collection": true,
-		"createdAt": 1481619671471,
-		"icon": "https://cdn.discordapp.com/icons/258156355527901184/f601b8e52840e5059b51ace948a191cc.jpg?size=128",
-		"id": "258156355527901184",
-		"members": 80,
-		"name": "Dainald's Colony",
-		"region": "sydney",
-		"users": 37
+		"bots": 12,
+		"collection": false,
+		"createdAt": 1502483187888,
+		"icon": "https://cdn.discordapp.com/icons/345664285889789962/44602f4eb09fa83136a0e2e45f130157.jpg?size=128",
+		"id": "345664285889789962",
+		"members": 24,
+		"name": "RIP CURSE:    2015-2017",
+		"region": "eu-west",
+		"users": 12
 	},
-	"guildID": "258156355527901184",
-	"id": "6cbc81e8-f01b-4861-9b19-399709964be9",
+	"guildID": "345664285889789962",
+	"id": "f6c91ac9-b505-4eaf-92ad-17c24597e8f5",
 	"owner": {
-		"avatar": "https://cdn.discordapp.com/avatars/257377680633233408/1e6d9821e2d779005e9e290248b6435e.webp?size=2048",
+		"avatar": "https://cdn.discordapp.com/avatars/169884673726611456/4ee06e6bd2e5967b63407e995da1059e.webp?size=2048",
 		"bot": false,
-		"createdAt": 1481434020909.0312,
-		"discriminator": "2978",
-		"id": "257377680633233408",
-		"name": "Dainald"
+		"createdAt": 1460574062521.0312,
+		"discriminator": "1014",
+		"id": "169884673726611456",
+		"name": "Schmeegul"
 	},
-	"ownerID": "257377680633233408",
+	"ownerID": "169884673726611456",
 	"reason": {
-		"maxPercentage": 50,
-		"maxUsers": 20,
-		"message": "Bot collection guild"
+		"message": "Already banned",
+		"refer": ["26c6ccfb-62f6-4a26-a381-d3c166bb0f1c", "1f03879a-3461-44c7-b449-deff56e0f895", "a0a19fd3-ee06-4c08-a6fd-825096294505"]
 	},
-	"timestamp": 1500467897671
+	"timestamp": 1502584719067
 }, {
 	"guild": {
-		"bots": 56,
+		"bots": 19,
 		"collection": true,
-		"createdAt": 1497919410355.0312,
-		"icon": "https://cdn.discordapp.com/icons/326522415528148993/9e305a6ac1ea56c452f49ede05a22697.jpg?size=128",
-		"id": "326522415528148993",
-		"members": 57,
-		"name": "Kush Lounge! 🔒",
+		"createdAt": 1493427137345.0312,
+		"icon": "https://cdn.discordapp.com/icons/307680456873213953/53069bf9b89e9bde306c22f94982d14b.jpg?size=128",
+		"id": "307680456873213953",
+		"members": 21,
+		"name": "¯\\_( ͡° ͜ʖ ͡°)_/¯",
 		"region": "brazil",
-		"users": 1
+		"users": 2
 	},
-	"guildID": "326522415528148993",
-	"id": "0e0ed37a-1dfd-462c-bc67-dbb89885baa5",
+	"guildID": "307680456873213953",
+	"id": "d409d503-e84d-4b27-9644-cfb070db6914",
 	"owner": {
-		"avatar": "https://cdn.discordapp.com/avatars/323301436526166017/4267f35f4d0dcc70aeba19a0b201e82e.webp?size=2048",
+		"avatar": "https://cdn.discordapp.com/avatars/233765062102220800/473615963dfdfe9ad31f7c98231fb33f.webp?size=2048",
 		"bot": false,
-		"createdAt": 1497151469118.0625,
-		"discriminator": "9206",
-		"id": "323301436526166017",
-		"name": "Kush 🔒"
+		"createdAt": 1475804333950,
+		"discriminator": "8351",
+		"id": "233765062102220800",
+		"name": "Diasaraujo"
 	},
-	"ownerID": "323301436526166017",
+	"ownerID": "233765062102220800",
 	"reason": {
 		"maxPercentage": 50,
 		"maxUsers": 20,
 		"message": "Bot collection guild"
 	},
-	"timestamp": 1500426414323
+	"timestamp": 1502068088274
+}, {
+	"guild": {
+		"bots": 33,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/0a5f55f45017c9e1cb9e933d8ad35346.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 46,
+		"name": "hello uncle",
+		"region": "eu-west",
+		"users": 13
+	},
+	"guildID": "274939186807832576",
+	"id": "a2db6b8a-cb59-4dd8-b48c-70354371eb9c",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500494169568
+}, {
+	"guild": {
+		"bots": 136,
+		"collection": true,
+		"createdAt": 1496498899175.0312,
+		"icon": "https://cdn.discordapp.com/icons/320564359803830275/fbf8fe816332e334e8928bb40669aaba.jpg?size=128",
+		"id": "320564359803830275",
+		"members": 162,
+		"name": "Jill's Server",
+		"region": "us-east",
+		"users": 26
+	},
+	"guildID": "320564359803830275",
+	"id": "a76bf2cf-b477-497b-a4ee-07fa60931e9f",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/306895168328564737/045b3d79eaa3f266adb2c0a89f7bce90.webp?size=2048",
+		"bot": false,
+		"createdAt": 1493239909966.0312,
+		"discriminator": "6886",
+		"id": "306895168328564737",
+		"name": "IISH4D3II GD"
+	},
+	"ownerID": "306895168328564737",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501431023580
+}, {
+	"guild": {
+		"bots": 17,
+		"collection": true,
+		"createdAt": 1499158908334,
+		"icon": "https://cdn.discordapp.com/icons/331721246859329537/0dd59f6b2f126b2184a3d2abe8ab6894.jpg?size=128",
+		"id": "331721246859329537",
+		"members": 33,
+		"name": "Développement JekylleBot",
+		"region": "eu-west",
+		"users": 16
+	},
+	"guildID": "331721246859329537",
+	"id": "fb54dee3-8252-46dc-bc03-1df8b0494ff2",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/265939137855488000/0dd59f6b2f126b2184a3d2abe8ab6894.webp?size=2048",
+		"bot": false,
+		"createdAt": 1483475231375,
+		"discriminator": "0026",
+		"id": "265939137855488000",
+		"name": "MrJekylle"
+	},
+	"ownerID": "265939137855488000",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500483147260
+}, {
+	"guild": {
+		"bots": 14,
+		"collection": true,
+		"createdAt": 1457650006730,
+		"icon": "https://cdn.discordapp.com/icons/157620294826065921/0158f8c673317acd037a3645e518d325.jpg?size=128",
+		"id": "157620294826065921",
+		"members": 21,
+		"name": "Fujiwara Tofu Shop",
+		"region": "us-east",
+		"users": 7
+	},
+	"guildID": "157620294826065921",
+	"id": "7a384757-3cb4-40d9-bbd2-5c6dcc26f96e",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/157619512710135808/0158f8c673317acd037a3645e518d325.webp?size=2048",
+		"bot": false,
+		"createdAt": 1457649820259.0312,
+		"discriminator": "5417",
+		"id": "157619512710135808",
+		"name": "10fd"
+	},
+	"ownerID": "157619512710135808",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501396556326
+}, {
+	"guild": {
+		"bots": 72,
+		"collection": true,
+		"createdAt": 1498312225141.0625,
+		"icon": "https://cdn.discordapp.com/icons/328170000156459008/870363562e999994f46df0fe376aa43b.jpg?size=128",
+		"id": "328170000156459008",
+		"members": 96,
+		"name": "ISIS (Anti-Tabbes)",
+		"region": "sydney",
+		"users": 24
+	},
+	"guildID": "328170000156459008",
+	"id": "d4f7f677-57f9-4090-a584-28b3e6603a38",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/193979517470113792/6a4b48b1d602b1d09c212983021806df.webp?size=2048",
+		"bot": false,
+		"createdAt": 1466318720930.0312,
+		"discriminator": "3887",
+		"id": "193979517470113792",
+		"name": "GiMPY"
+	},
+	"ownerID": "193979517470113792",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500936322676
+}, {
+	"guild": {
+		"bots": 11,
+		"collection": true,
+		"createdAt": 1501116239232.0312,
+		"icon": "https://cdn.discordapp.com/icons/339930887674265600/ab1740abc847758023aed73f8d7feeff.jpg?size=128",
+		"id": "339930887674265600",
+		"members": 21,
+		"name": "The Chillspace",
+		"region": "us-central",
+		"users": 10
+	},
+	"guildID": "339930887674265600",
+	"id": "f388eda6-56b3-4d5a-bfb3-4e8aad0ad1b6",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/306601094392315917/70874e1e3b2785744a53c735d50bf007.webp?size=2048",
+		"bot": false,
+		"createdAt": 1493169797276,
+		"discriminator": "6246",
+		"id": "306601094392315917",
+		"name": "ShilohG17"
+	},
+	"ownerID": "306601094392315917",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501270557856
+}, {
+	"guild": {
+		"bots": 14,
+		"collection": true,
+		"createdAt": 1457650006730,
+		"icon": "https://cdn.discordapp.com/icons/157620294826065921/0158f8c673317acd037a3645e518d325.jpg?size=128",
+		"id": "157620294826065921",
+		"members": 21,
+		"name": "Fujiwara Tofu Shop",
+		"region": "us-east",
+		"users": 7
+	},
+	"guildID": "157620294826065921",
+	"id": "ed41fd7b-9b8b-47c0-a0e6-45c32eb4718f",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/157619512710135808/0158f8c673317acd037a3645e518d325.webp?size=2048",
+		"bot": false,
+		"createdAt": 1457649820259.0312,
+		"discriminator": "5417",
+		"id": "157619512710135808",
+		"name": "10fd"
+	},
+	"ownerID": "157619512710135808",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501396517838
+}, {
+	"guild": {
+		"bots": 15,
+		"collection": true,
+		"createdAt": 1501522912812.0312,
+		"icon": "https://cdn.discordapp.com/icons/341636600297553931/b765eecc3cf124ee4371cfe15f89d976.jpg?size=128",
+		"id": "341636600297553931",
+		"members": 21,
+		"name": "Nick's server",
+		"region": "us-west",
+		"users": 6
+	},
+	"guildID": "341636600297553931",
+	"id": "f3dda7fd-4065-4fab-ab79-6f4f18899ff1",
+	"owner": {
+		"avatar": "https://discordapp.com/assets/dd4dbc0016779df1378e7812eabaa04d.png",
+		"bot": false,
+		"createdAt": 1500487562073.0312,
+		"discriminator": "7462",
+		"id": "337294024551563325",
+		"name": "Ad2k5"
+	},
+	"ownerID": "337294024551563325",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501620376715
+}, {
+	"guild": {
+		"bots": 30,
+		"collection": true,
+		"createdAt": 1490739049525.0312,
+		"icon": "https://cdn.discordapp.com/icons/296405799377436672/3002791ea95cd470c2f70b21295891b1.jpg?size=128",
+		"id": "296405799377436672",
+		"members": 35,
+		"name": "tEam 4(excluding xav)",
+		"region": "eu-west",
+		"users": 5
+	},
+	"guildID": "296405799377436672",
+	"id": "afa67b77-97e4-490e-9b1c-08451d881e5d",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/283978445577256961/344107435698308ed26e4f71891484fb.webp?size=2048",
+		"bot": false,
+		"createdAt": 1487776137490,
+		"discriminator": "3791",
+		"id": "283978445577256961",
+		"name": "izzyxxo"
+	},
+	"ownerID": "283978445577256961",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1502394194110
+}, {
+	"guild": {
+		"bots": 20,
+		"collection": true,
+		"createdAt": 1492255758557.0625,
+		"icon": "https://cdn.discordapp.com/icons/302767338137321484/fff2e98b3be3d906f148938fb8dee3a6.jpg?size=128",
+		"id": "302767338137321484",
+		"members": 26,
+		"name": "☾☆ ST [SLEVELLESS TEAM] ☆☽",
+		"region": "brazil",
+		"users": 6
+	},
+	"guildID": "302767338137321484",
+	"id": "bf8f73cb-321b-456f-8ed3-3a3611618409",
+	"owner": {
+		"avatar": "https://discordapp.com/assets/6debd47ed13483642cf09e832ed0bc1b.png",
+		"bot": false,
+		"createdAt": 1487765964176.0625,
+		"discriminator": "1350",
+		"id": "283935775605915648",
+		"name": "TheSupport"
+	},
+	"ownerID": "283935775605915648",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1501967070361
+}, {
+	"guild": {
+		"bots": 33,
+		"collection": true,
+		"createdAt": 1485621010258.0625,
+		"icon": "https://cdn.discordapp.com/icons/274939186807832576/0a5f55f45017c9e1cb9e933d8ad35346.jpg?size=128",
+		"id": "274939186807832576",
+		"members": 46,
+		"name": "hello uncle",
+		"region": "eu-west",
+		"users": 13
+	},
+	"guildID": "274939186807832576",
+	"id": "c539b405-40f6-4335-ad85-68842c49030d",
+	"owner": {
+		"avatar": "https://cdn.discordapp.com/avatars/168307939122216960/8cfcf2f856022cc9bcb77fc143984b35.webp?size=2048",
+		"bot": false,
+		"createdAt": 1460198139697.0312,
+		"discriminator": "6639",
+		"id": "168307939122216960",
+		"name": "RaidShark"
+	},
+	"ownerID": "168307939122216960",
+	"reason": {
+		"maxPercentage": 50,
+		"maxUsers": 20,
+		"message": "Bot collection guild"
+	},
+	"timestamp": 1500493872790
 }]
