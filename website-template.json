@@ -74,22 +74,30 @@
 	}
 },{
 	"name": "DiscordMail",
-	"date": "2017-07-18",
+	"date": "",
 	"def": "20m 50%",
 	"author": "MSS",
 	"description": "Uses legacy system from old MSS-Discord",
-	"icon": "https://images.discordapp.net/avatars/330003632298917889/89f3c3b1fecc4f3f4d73047681fc88e9.png?size=256",
-	"link": "https://rawgit.com/Terminal/botlist-servers/master/discordmail.json",
-	"entry_info_link": "https://github.com/Terminal/botlist-servers/blob/master/discordmail.json",
+	"icon": "https://discordmail.com/img/DiscordMail.png",
+	"link": "https://discordmail.com/api/collection",
+	"entry_info_link": "https://discordmail.com/api/collection",
 	"disect": {
 		"entry": {
-			"title": "",
-			"subtitle": "{{guild}}",
-			"icon": ""
+			"title": "{{ guild.name }}",
+			"subtitle": "{{ guild.id }}",
+			"icon": "{{ guild.icon }}"
 		},
 		"full_info": {
-			"Guild ID": "{{guild}}",
-			"ID": "{{id}}"
+			"RethonkDB ID": "{{ id }}",
+			"Guild Name": "{{ guild.name }}",
+			"Guild ID": "{{ guild.id }}",
+			"Guild Created At": "{{ guild.createdAt }}",
+			"Guild Region": "{{ guild.region }}",
+			"Owner Name": "{{ owner.name }}#{{ owner.discriminator }}",
+			"Owner ID": "{{ owner.id }}",
+			"Owner Registration": "{{ owner.createdAt }}",
+			"User / Bots / Total": "{{ guild.users }} / {{ guild.bots }} / {{ guild.members }}",
+			"Reason": "{{ reason.message }}"
 		}
 	}
 },{

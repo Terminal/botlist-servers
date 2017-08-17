@@ -7,8 +7,8 @@ In this repository we aim to give you a list of all servers that we have deemed 
 Bot | Author | Definition | Date | Description
 --- | ------ | ---------- | ---- | -----------
 blargbot<br>[view](blargbot.json) | stupid cat | 20m, 50% | 2017-07-20 | Ran by blargbot and generated into a list for another project this was created in order to catch pesky users however never acted upon.
-Parkerbot<br>[view](parkerbot.json)<br>[legacy](parkerbot-legacy.json) | MSS | 20m, 50% | 2017-07-19 | A Parker Square of a Bot listing. Contains more detailed details compared to previously.
-DiscordMail<br>[view](discordmail.json) | MSS | 20m, 50% | 2017-07-18 | Uses the same system as Parkerbot.<br>This was uploaded before transitioning to a new table system that includes more data.
+Parkerbot<br>[view](parkerbot.json) | MSS | 20m, 50% | 2017-08-16 | A Parker Square of a Bot listing. Contains more detailed details compared to previously.
+DiscordMail<br>[view](https://discordmail.com/api/collection) | MSS | 20m, 50% | Live | Uses the same system as Parkerbot.
 Trello Bot<br>[view](trellobot.json) | Snazzah | 20m, 75% | 2017-07-19 | A snapshot of all guilds matched by the definition in all shards.
 Discord Cards<br>[view](discordcards.json) | Snazzah | 20m, 75% | 2017-07-19 | A snapshot of all guilds matched by the definition in all shards.
 Birb<br>[view](birb.json) | Jakeoid | 10m, 60% | 2017-07-28 | A snapshot of all guilds matched by the definition in all shards.
