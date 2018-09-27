@@ -73,34 +73,6 @@
 		}
 	}
 },{
-	"name": "DiscordMail",
-	"date": "",
-	"def": "20m 50%",
-	"author": "MSS",
-	"description": "Uses legacy system from old MSS-Discord",
-	"icon": "https://discordmail.com/img/DiscordMail.png",
-	"link": "https://discordmail.com/api/collection",
-	"entry_info_link": "https://discordmail.com/api/collection",
-	"disect": {
-		"entry": {
-			"title": "{{ guild.name }}",
-			"subtitle": "{{ guild.id }}",
-			"icon": "{{ guild.icon }}"
-		},
-		"full_info": {
-			"RethonkDB ID": "{{ id }}",
-			"Guild Name": "{{ guild.name }}",
-			"Guild ID": "{{ guild.id }}",
-			"Guild Created At": "{{ guild.createdAt }}",
-			"Guild Region": "{{ guild.region }}",
-			"Owner Name": "{{ owner.name }}#{{ owner.discriminator }}",
-			"Owner ID": "{{ owner.id }}",
-			"Owner Registration": "{{ owner.createdAt }}",
-			"User / Bots / Total": "{{ guild.users }} / {{ guild.bots }} / {{ guild.members }}",
-			"Reason": "{{ reason.message }}"
-		}
-	}
-},{
 	"name": "Trello",
 	"date": "2017-07-19",
 	"def": "20m 75%",
